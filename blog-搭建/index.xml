@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog 搭建 on My New Hugo Site</title><link>https://example.org/blog-%E6%90%AD%E5%BB%BA/</link><description>Recent content in Blog 搭建 on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://example.org/blog-%E6%90%AD%E5%BB%BA/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog 搭建</title><link>https://example.org/blog-%E6%90%AD%E5%BB%BA/hugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/blog-%E6%90%AD%E5%BB%BA/hugogithubaction/</guid><description>环境要求 git
+开始盖别墅 安装hugo Hugo 官方安装：https://gohugo.io/installation/ 用hugo 命令 创建 后台工程，相当于系统后台，用于编辑Blog
+hugo new site MyBlog cd MyBlog git init # 安装主题 git submodule add git@github.com:cuisiting/ hugo-theme-learn.git themes/hugo-theme-learn # 指定主题 echo &amp;#34;theme = &amp;#39;hugo-theme-learn&amp;#39;&amp;#34; &amp;gt;&amp;gt; hugo.toml # 部署到本地查看一下 hugo server 至此，我们在本地电脑上，创建一个hugo 工程来存储blog 文件
+小练习：增加一篇Blog，按如下的目录结构 添加文件 ，注意 需要创建 _index.md &amp;amp; 格式
+RootProject └──content/ ├── _index.md └── 个人随想 ├── _index.md └── my_first.md 如上，我们在本地电脑上，创建一个 工程MyBlog 来存储blog 文件。
+但是我们最终是需要将Blog 发布到 自由 、广大的互联网上。
+现在我们用一种成本最小，但体验极佳的方式 将我们的Blog发布
+创建2个仓库https://github.com/new 创建后台仓库工程 https://github.</description></item></channel></rss>
