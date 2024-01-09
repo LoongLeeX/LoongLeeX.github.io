@@ -1,10 +1,169 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>_index.md on My New Hugo Site</title><link>https://example.org/</link><description>Recent content in _index.md on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Blog</title><link>https://example.org/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E6%83%B3/my_first/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E6%83%B3/my_first/</guid><description>将近酒 黄河之水天上来</description></item><item><title>Installation</title><link>https://example.org/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E6%83%B3/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E6%83%B3/my2/</guid><description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
-Create your project Hugo provides a new command to create a new website.
-hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation
-This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git
-Alternatively, you can download the theme as .</description></item><item><title>不花钱 ！搭建Blog！</title><link>https://example.org/blog-%E6%90%AD%E5%BB%BA/hugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/blog-%E6%90%AD%E5%BB%BA/hugogithubaction/</guid><description>环境要求 git
-开始盖别墅 安装hugo Hugo 官方安装：https://gohugo.io/installation/ 用hugo 命令 创建 后台工程，相当于系统后台，用于编辑Blog hugo new site MyBlog cd MyBlog git init # 安装主题 git submodule add git@github.com:cuisiting/ hugo-theme-learn.git themes/hugo-theme-learn # 指定主题 echo &amp;#34;theme = &amp;#39;hugo-theme-learn&amp;#39;&amp;#34; &amp;gt;&amp;gt; hugo.toml # 部署到本地查看一下 hugo server |![Alt text](https://github.com/cuisiting/cuisiting.github.io/raw/main/image.png)| |-| 至此，我们在本地电脑上，创建一个hugo 工程来存储blog 文件
-小练习：增加一篇Blog，按如下的目录结构 添加文件 ，注意 需要创建 _index.md &amp;amp; 格式
-RootProject └──content/ ├── _index.md └── 个人随想 ├── _index.md └── my_first.md 如上，我们在本地电脑上，创建一个 工程MyBlog 来存储blog 文件。
-但是我们最终是需要将Blog 发布到 自由 、广大的互联网上。
-现在我们用一种成本最小，但体验极佳的方式 将我们的Blog发布</description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>http://example.com/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><image><url>http://example.com/img/hugo.png</url><title>GoHugo.io</title><link>http://example.com/</link></image><atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: Installation</title><link>http://example.com/blog/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/my2/</guid><description>
+&lt;p>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this &lt;a href="https://gohugo.io/overview/quickstart/">great documentation for beginners&lt;/a>.&lt;/p>
+&lt;h2 id="create-your-project">Create your project&lt;/h2>
+&lt;p>Hugo provides a &lt;code>new&lt;/code> command to create a new website.&lt;/p>
+&lt;pre tabindex="0">&lt;code>hugo new site &amp;lt;new_project&amp;gt;
+&lt;/code>&lt;/pre>&lt;h2 id="install-the-theme">Install the theme&lt;/h2>
+&lt;p>Install the &lt;strong>Hugo-theme-learn&lt;/strong> theme by following &lt;a href="https://gohugo.io/getting-started/quick-start/#step-3-add-a-theme">this documentation&lt;/a>&lt;/p>
+&lt;p>This theme&amp;rsquo;s repository is: &lt;a href="https://github.com/matcornic/hugo-theme-learn.git">https://github.com/matcornic/hugo-theme-learn.git&lt;/a>&lt;/p>
+&lt;p>Alternatively, you can &lt;a href="https://github.com/matcornic/hugo-theme-learn/archive/master.zip">download the theme as .zip&lt;/a> file and extract it in the &lt;code>themes&lt;/code> directory&lt;/p>
+&lt;h2 id="basic-configuration">Basic configuration&lt;/h2>
+&lt;p>When building the website, you can set a theme by using &lt;code>--theme&lt;/code> option. However, we suggest you modify the configuration file (&lt;code>config.toml&lt;/code>) and set the theme as the default. You can also add the &lt;code>[outputs]&lt;/code> section to enable the search functionality.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-toml" data-lang="toml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Change the default theme to be use when building the site with Hugo&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">theme&lt;/span> = &lt;span style="color:#e6db74">&amp;#34;hugo-theme-learn&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># For search functionality&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#a6e22e">outputs&lt;/span>]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">home&lt;/span> = [ &lt;span style="color:#e6db74">&amp;#34;HTML&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;RSS&amp;#34;&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;JSON&amp;#34;&lt;/span>]
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="create-your-first-chapter-page">Create your first chapter page&lt;/h2>
+&lt;p>Chapters are pages that contain other child pages. It has a special layout style and usually just contains a &lt;em>chapter name&lt;/em>, the &lt;em>title&lt;/em> and a &lt;em>brief abstract&lt;/em> of the section.&lt;/p>
+&lt;pre tabindex="0">&lt;code>### Chapter 1
+# Basics
+Discover what this Hugo theme is all about and the core concepts behind it.
+&lt;/code>&lt;/pre>&lt;p>renders as&lt;/p>
+&lt;p>&lt;img src="http://example.com/en/basics/installation/images/chapter.png?classes=shadow&amp;amp;width=60pc" alt="A Chapter">&lt;/p>
+&lt;p>&lt;strong>Hugo-theme-learn&lt;/strong> provides archetypes to create skeletons for your website. Begin by creating your first chapter page with the following command&lt;/p>
+&lt;pre tabindex="0">&lt;code>hugo new --kind chapter basics/_index.md
+&lt;/code>&lt;/pre>&lt;p>By opening the given file, you should see the property &lt;code>chapter=true&lt;/code> on top, meaning this page is a &lt;em>chapter&lt;/em>.&lt;/p>
+&lt;p>By default all chapters and pages are created as a draft. If you want to render these pages, remove the property &lt;code>draft: true&lt;/code> from the metadata.&lt;/p>
+&lt;h2 id="create-your-first-content-pages">Create your first content pages&lt;/h2>
+&lt;p>Then, create content pages inside the previously created chapter. Here are two ways to create content in the chapter:&lt;/p>
+&lt;pre tabindex="0">&lt;code>hugo new basics/first-content.md
+hugo new basics/second-content/_index.md
+&lt;/code>&lt;/pre>&lt;p>Feel free to edit thoses files by adding some sample content and replacing the &lt;code>title&lt;/code> value in the beginning of the files.&lt;/p>
+&lt;h2 id="launching-the-website-locally">Launching the website locally&lt;/h2>
+&lt;p>Launch by using the following command:&lt;/p>
+&lt;pre tabindex="0">&lt;code>hugo serve
+&lt;/code>&lt;/pre>&lt;p>Go to &lt;code>http://localhost:1313&lt;/code>&lt;/p>
+&lt;p>You should notice three things:&lt;/p>
+&lt;ol>
+&lt;li>You have a left-side &lt;strong>Basics&lt;/strong> menu, containing two submenus with names equal to the &lt;code>title&lt;/code> properties in the previously created files.&lt;/li>
+&lt;li>The home page explains how to customize it by following the instructions.&lt;/li>
+&lt;li>When you run &lt;code>hugo serve&lt;/code>, when the contents of the files change, the page automatically refreshes with the changes. Neat!&lt;/li>
+&lt;/ol>
+&lt;h2 id="build-the-website">Build the website&lt;/h2>
+&lt;p>When your site is ready to deploy, run the following command:&lt;/p>
+&lt;pre tabindex="0">&lt;code>hugo
+&lt;/code>&lt;/pre>&lt;p>A &lt;code>public&lt;/code> folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.&lt;/p></description></item><item><title>Blog: 不花钱 ！搭建Blog！</title><link>http://example.com/blog/hugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/hugogithubaction/</guid><description>
+&lt;h2 id="环境要求">环境要求&lt;/h2>
+&lt;p>git&lt;/p>
+&lt;h2 id="开始盖别墅">开始盖别墅&lt;/h2>
+&lt;ol>
+&lt;li>安装hugo Hugo 官方安装：https://gohugo.io/installation/&lt;/li>
+&lt;li>用hugo 命令 创建 后台工程，相当于系统后台，用于编辑Blog&lt;/li>
+&lt;/ol>
+&lt;pre tabindex="0">&lt;code> hugo new site MyBlog
+cd MyBlog
+git init
+# 安装主题
+git submodule add git@github.com:cuisiting/ hugo-theme-learn.git themes/hugo-theme-learn
+# 指定主题
+echo &amp;#34;theme = &amp;#39;hugo-theme-learn&amp;#39;&amp;#34; &amp;gt;&amp;gt; hugo.toml
+# 部署到本地查看一下
+hugo server
+&lt;/code>&lt;/pre>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image.png" style="width:50%;">
+&lt;p>至此，我们在本地电脑上，创建一个hugo 工程来存储blog 文件&lt;/p>
+&lt;p>小练习：增加一篇Blog，按如下的目录结构 添加文件 ，注意 需要创建 _index.md &amp;amp; 格式&lt;/p>
+&lt;pre tabindex="0">&lt;code>RootProject
+└──content/
+├── _index.md
+└── 个人随想
+├── _index.md
+└── my_first.md
+&lt;/code>&lt;/pre>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image-3.png" style="width:50%;">
+&lt;ol start="3">
+&lt;li>
+&lt;p>如上，我们在本地电脑上，创建一个 工程MyBlog 来存储blog 文件。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>但是我们最终是需要将Blog 发布到 自由 、广大的互联网上。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>现在我们用一种成本最小，但体验极佳的方式 将我们的Blog发布&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>创建2个仓库https://github.com/new&lt;/p>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image-create-repo.png" style="width:50%;">
+&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>创建后台仓库工程 &lt;a href="https://github.com/%5Busername%5D/MyBlog">https://github.com/[username]/MyBlog&lt;/a>，刚才的本地工程 push 到该后台仓库&lt;/li>
+&lt;li>创建前台仓库工程，保存网站静态文件存储仓库，拥有前台展示，
+注意：若期望通过 https://[username].github.io 来访问blog ，该仓库的名字须为 [username].github.io
+&lt;a href="https://github.com/%5Busername%5D/%5Busername%5D.github.io">https://github.com/[username]/[username].github.io&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;ol start="7">
+&lt;li>
+&lt;p>为了实现 后台仓库修改代码 &amp;mdash;&amp;gt; 前台仓库自动更新，我们需要利用github 的自动化CI/CD 工具 github action&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>创建 github action 所需秘钥
+依次 点击 github头像 &amp;mdash;&amp;gt; Setting &amp;mdash;&amp;gt; Developer Settings &amp;ndash;&amp;gt; Personal access tokens&lt;/p>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image-5.png" style="width:50%;">
+&lt;/li>
+&lt;li>
+&lt;p>勾选&lt;/p>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image-6.png" style="width:50%;">
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image-7.png" style="width:50%;">
+&lt;p>点击Generate token生成token，并先复制保存该token。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Attention！！！关键步骤&lt;/p>
+&lt;ol>
+&lt;li>在后台仓库 MyBlog 中 新建一个github-actions分支【可选】：git checkout -b github-actions&lt;/li>
+&lt;li>在后台仓库 MyBlog 创建文件夹.github/workflows&lt;/li>
+&lt;li>在workflows里新建一个后缀为publish.yml (名字不限)的配置文件&lt;/li>
+&lt;li>将如下配置写入 publish.yml&lt;/li>
+&lt;/ol>
+&lt;pre tabindex="0">&lt;code>name: github pages
+on:
+push:
+branches:
+- github-actions # 监听的分支名
+jobs:
+deploy:
+runs-on: ubuntu-latest # 在什么环境运行任务
+steps:
+- uses: actions/checkout@v2
+with:
+submodules: true # Fetch git submodule 中的主题仓库
+fetch-depth: 0
+- name: Setup Hugo
+uses: peaceiris/actions-hugo@v2
+with:
+hugo-version: &amp;#39;latest&amp;#39;
+- name: Build
+run: hugo --minify # hugo构建静态网页
+- name: Deploy
+uses: peaceiris/actions-gh-pages@v3
+with:
+# 注意：修改这个参数 格式为，[用户名]/[前台仓库名]
+external_repository: tomial/tomial.github.io
+# 发布到其他repo需要提供上面生成的 personal access token
+personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}
+publish_dir: ./public
+# 发布branch
+publish_branch: main
+&lt;/code>&lt;/pre>&lt;/li>
+&lt;li>
+&lt;p>用git 命令将 .github/workflows/publish.yml 提交到后台仓库&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>安装评论&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hugo server 验证&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>创建github action&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="参考link">参考link&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://gohugo.io/installation/">https://gohugo.io/installation/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gohugo.io/getting-started/quick-start/">https://gohugo.io/getting-started/quick-start/&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image-7.png" width="50%"></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>
+&lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item></channel></rss>

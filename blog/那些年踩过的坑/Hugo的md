@@ -1,0 +1,26 @@
+---
+title:  hugo-theme-learn 不支持 shortcode
+weight: 15
+---
+
+# hugo-theme-learn 不支持 shortcode
+
+按照 Hugo 官方关于自定义 shortcode 文档 https://gohugo.io/templates/shortcode-templates/
+设置如下 :
+
+1. 在 `layouts/shortcodes` 创建文件，并添加
+   ```
+   <!-- rawhtml -->
+   {{.Inner}}
+   ```
+
+2. 在Test.md 中添加 图片
+
+    ```
+    {{< rawhtml >}}
+    <img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image.png" style="width:50%;">
+    {{< /rawhtml >}}
+    ```
+
+结果：不能将 <rawhtml> 中的内容原样作为标签显示
+
