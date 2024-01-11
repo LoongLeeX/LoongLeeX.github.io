@@ -1,4 +1,58 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>http://example.com/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><image><url>http://example.com/img/hugo.png</url><title>GoHugo.io</title><link>http://example.com/</link></image><atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: Hadoop Architecture</title><link>http://example.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/hadooparchitecture/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>http://example.com/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><image><url>http://example.com/img/hugo.png</url><title>GoHugo.io</title><link>http://example.com/</link></image><atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: AWS Shadowsocket</title><link>http://example.com/blog/devops/awsshadowsocket/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/awsshadowsocket/</guid><description>
+&lt;p>keyword: AWS instance&lt;/p>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/$image_name.png" style="width:50%;">
+&lt;p>创建key 用于 ssh 鉴权登陆
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/$image_name.png" style="width:50%;">
+&lt;/p>
+&lt;p>创建成功后,查看instance Details ip , ssh 登陆&lt;/p>
+&lt;pre tabindex="0">&lt;code>chmod 400 [your pem path]
+ssh -i [your pem path] admin@your_ip
+&lt;/code>&lt;/pre>&lt;p>安装 &lt;a href="https://github.com/shadowsocks/shadowsocks-libev/blob/master/docker/alpine/README.md">shadowsocket docker&lt;/a>&lt;/p>
+&lt;p>docker pull shadowsocks/shadowsocks-libev&lt;/p>
+&lt;p>指定 shadowsocks container 的端口,检查你的云服务是否开启了该端口&lt;/p>
+&lt;p>启动 docker instance&lt;/p>
+&lt;p>检查你的云服务是否开启了该端口
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/$image_name.png" style="width:50%;">
+&lt;/p>
+&lt;pre tabindex="0">&lt;code>ps=&amp;lt;你的密码&amp;gt;
+port=&amp;lt;你的端口&amp;gt;
+docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always shadowsocks/shadowsocks-libev
+&lt;/code>&lt;/pre>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/$image_name.png" style="width:50%;">
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/$image_name.png" style="width:50%;"></description></item><item><title>Blog: AWS Shadowsocket</title><link>http://example.com/blog/devops/docker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/docker/</guid><description>
+&lt;p>keyword: Docker&lt;/p>
+&lt;p>&lt;a href="https://docs.docker.com/desktop/faqs/linuxfaqs/#:~:text=What%20is%20the%20difference%20between,technology%20that%20powers%20Docker%20containers.">What is the difference between Docker Desktop for Linux and Docker Engine?&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://docs.docker.com/desktop/faqs/linuxfaqs/#:~:text=What%20is%20the%20difference%20between,technology%20that%20powers%20Docker%20containers.">Docker Desktop 和 Docker Engine 的区别&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://docs.docker.com/desktop/install/debian/">Install docker for debian&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://docs.docker.com/engine/install/debian/#install-using-the-repository">Install using the apt repository&lt;/a>&lt;/p>
+&lt;pre tabindex="0">&lt;code># Add Docker&amp;#39;s official GPG key:
+sudo apt-get update
+sudo apt-get install ca-certificates curl gnupg
+sudo install -m 0755 -d /etc/apt/keyrings
+curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+sudo chmod a+r /etc/apt/keyrings/docker.gpg
+# Add the repository to Apt sources:
+echo \
+&amp;#34;deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian \
+$(. /etc/os-release &amp;amp;&amp;amp; echo &amp;#34;$VERSION_CODENAME&amp;#34;) stable&amp;#34; | \
+sudo tee /etc/apt/sources.list.d/docker.list &amp;gt; /dev/null
+sudo apt-get update
+&lt;/code>&lt;/pre>&lt;p>Install the Docker packages.&lt;/p>
+&lt;pre tabindex="0">&lt;code> sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+&lt;/code>&lt;/pre>&lt;p>Verify that the installation is successful by running the hello-world image:&lt;/p>
+&lt;pre tabindex="0">&lt;code> sudo docker run hello-world
+&lt;/code>&lt;/pre>&lt;p>当执行&lt;/p>
+&lt;pre tabindex="0">&lt;code>docker pull
+&lt;/code>&lt;/pre>&lt;p>遇到&lt;/p>
+&lt;pre tabindex="0">&lt;code>permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Post &amp;#34;http://%2Fvar%2Frun%2Fdocker.sock/v1.24/images/create?fromImage=shadowsocks%2Fshadowsocks-libev&amp;amp;tag=edge&amp;#34;: dial unix /var/run/docker.sock: connect: permission denied
+&lt;/code>&lt;/pre>&lt;p>为当前用户添加权限&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo gpasswd -a $USER docker
+sudo vi /etc/ssh/sshd_config
+find PasswordAuthentication key ,change value to yes
+sudo passwd 你的用户名
+# 重新登录
+sudo pkill -9 -u 你的用户名
+&lt;/code>&lt;/pre></description></item><item><title>Blog: Hadoop Architecture</title><link>http://example.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/hadooparchitecture/</guid><description>
 &lt;p>keyword: Hadoop, big data, AI, Architecture&lt;/p>
 &lt;p>&lt;a href="https://www.cloudduggu.com/hadoop/architecture/">Hadoop Architecture&lt;/a>.&lt;/p>
 &lt;p>Apache Hadoop has the following three layers of Architecture.&lt;/p>
