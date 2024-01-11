@@ -1,22 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on My New Hugo Site</title><link>http://example.com/blog/</link><description>Recent content in Blogs on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>AWS Shadowsocket</title><link>http://example.com/blog/devops/awsshadowsocket/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/awsshadowsocket/</guid><description>keyword: Aws Shadowsocket
-创建key 用于 ssh 鉴权登陆 创建成功后，查看instance Details ip , ssh 登陆
-chmod 400 [your pem path] ssh -i [your pem path] admin@your_ip
-安装 shadowsocket docker
-docker pull shadowsocks/shadowsocks-libev
-指定 shadowsocks container 的端口，检查你的云服务是否开启了该端口
-启动 docker instance
-检查你的云服务是否开启了该端口 ps=&amp;lt;你的密码&amp;gt; port=&amp;lt;你的端口&amp;gt;
-docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d &amp;ndash;restart always shadowsocks/shadowsocks-libev</description></item><item><title>AWS Shadowsocket</title><link>http://example.com/blog/devops/docker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/docker/</guid><description>keyword: Docker
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on My New Hugo Site</title><link>http://example.com/blog/</link><description>Recent content in Blogs on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Aws Shadowsocket</title><link>http://example.com/blog/devops/awsshadowsocket/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/awsshadowsocket/</guid><description>keyword: AWS instance
+创建key 用于 ssh 鉴权登陆
+创建成功后，查看instance Details ip , ssh 登陆
+chmod 400 [your pem path] ssh -i [your pem path] admin@your_ip 安装 shadowsocket docker
+docker pull shadowsocks/shadowsocks-libev 指定 shadowsocks container 的端口，检查你的云服务是否开启了该端口 启动 docker instance 检查你的云服务是否开启了该端口
+ps=&amp;lt;你的密码&amp;gt; port=&amp;lt;你的端口&amp;gt; docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always shadowsocks/shadowsocks-libev</description></item><item><title>Docker</title><link>http://example.com/blog/devops/docker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/docker/</guid><description>keyword: Docker
 What is the difference between Docker Desktop for Linux and Docker Engine?
 Docker Desktop 和 Docker Engine 的区别
 Install docker for debian
 Install using the apt repository
-# Add Docker&amp;#39;s official GPG key: sudo apt-get update sudo apt-get install ca-certificates curl gnupg sudo install -m 0755 -d /etc/apt/keyrings curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg sudo chmod a+r /etc/apt/keyrings/docker.gpg # Add the repository to Apt sources: echo \ &amp;#34;deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.</description></item><item><title>Aws Shadowsocket 2</title><link>http://example.com/blog/devops/awsshadowsocket2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/awsshadowsocket2/</guid><description>keyword: AWS instance
-创建key 用于 ssh 鉴权登陆 创建成功后，查看instance Details ip , ssh 登陆
-chmod 400 [your pem path] ssh -i [your pem path] admin@your_ip 安装 shadowsocket docker
-docker pull shadowsocks/shadowsocks-libev 指定 shadowsocks container 的端口，检查你的云服务是否开启了该端口
-启动 docker instance
-检查你的云服务是否开启了该端口 ps=&amp;lt;你的密码&amp;gt; port=&amp;lt;你的端口&amp;gt; docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always shadowsocks/shadowsocks-libev</description></item><item><title>Hadoop Architecture</title><link>http://example.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/hadooparchitecture/</guid><description>keyword: Hadoop, big data, AI, Architecture
+# Add Docker&amp;#39;s official GPG key: sudo apt-get update sudo apt-get install ca-certificates curl gnupg sudo install -m 0755 -d /etc/apt/keyrings curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg sudo chmod a+r /etc/apt/keyrings/docker.gpg # Add the repository to Apt sources: echo \ &amp;#34;deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.</description></item><item><title>Hadoop Architecture</title><link>http://example.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/hadooparchitecture/</guid><description>keyword: Hadoop, big data, AI, Architecture
 Hadoop Architecture.
 Apache Hadoop has the following three layers of Architecture.
 Map-Reduce

@@ -1,22 +1,23 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>http://example.com/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><image><url>http://example.com/img/hugo.png</url><title>GoHugo.io</title><link>http://example.com/</link></image><atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: AWS Shadowsocket</title><link>http://example.com/blog/devops/awsshadowsocket/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/awsshadowsocket/</guid><description>
-&lt;p>keyword: Aws Shadowsocket&lt;/p>
-&lt;p>&lt;img src="aws_instance_name.png" alt="Alt text">&lt;/p>
-&lt;p>创建key 用于 ssh 鉴权登陆
-&lt;img src="aws_instance_create_key.png" alt="Alt text">&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>http://example.com/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><image><url>http://example.com/img/hugo.png</url><title>GoHugo.io</title><link>http://example.com/</link></image><atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: Aws Shadowsocket</title><link>http://example.com/blog/devops/awsshadowsocket/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/awsshadowsocket/</guid><description>
+&lt;p>keyword: AWS instance&lt;/p>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_instance_name.png" style="width:50%;">
+&lt;p>创建key 用于 ssh 鉴权登陆&lt;/p>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_instance_create_key.png" style="width:50%;">
 &lt;p>创建成功后，查看instance Details ip , ssh 登陆&lt;/p>
-&lt;p>chmod 400 [your pem path]
-ssh -i [your pem path] admin@your_ip&lt;/p>
-&lt;p>安装 &lt;a href="https://github.com/shadowsocks/shadowsocks-libev/blob/master/docker/alpine/README.md">shadowsocket docker&lt;/a>&lt;/p>
-&lt;p>docker pull shadowsocks/shadowsocks-libev&lt;/p>
-&lt;p>指定 shadowsocks container 的端口，检查你的云服务是否开启了该端口&lt;/p>
-&lt;p>启动 docker instance&lt;/p>
-&lt;p>检查你的云服务是否开启了该端口
-&lt;img src="aws_instance_check_port.png" alt="Alt text">&lt;/p>
-&lt;p>ps=&amp;lt;你的密码&amp;gt;
-port=&amp;lt;你的端口&amp;gt;&lt;/p>
-&lt;p>docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d &amp;ndash;restart always shadowsocks/shadowsocks-libev&lt;/p>
-&lt;p>&lt;img src="aws_change_port_1.png" alt="Alt text">
-&lt;img src="aws_change_port_2.png" alt="Alt text">&lt;/p></description></item><item><title>Blog: AWS Shadowsocket</title><link>http://example.com/blog/devops/docker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/docker/</guid><description>
+&lt;pre tabindex="0">&lt;code>chmod 400 [your pem path]
+ssh -i [your pem path] admin@your_ip
+&lt;/code>&lt;/pre>&lt;p>安装 &lt;a href="https://github.com/shadowsocks/shadowsocks-libev/blob/master/docker/alpine/README.md">shadowsocket docker&lt;/a>&lt;/p>
+&lt;pre tabindex="0">&lt;code>docker pull shadowsocks/shadowsocks-libev
+&lt;/code>&lt;/pre>&lt;p>指定 shadowsocks container 的端口，检查你的云服务是否开启了该端口
+启动 docker instance
+检查你的云服务是否开启了该端口&lt;/p>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_instance_check_port.png" style="width:50%;">
+&lt;pre tabindex="0">&lt;code>ps=&amp;lt;你的密码&amp;gt;
+port=&amp;lt;你的端口&amp;gt;
+docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always shadowsocks/shadowsocks-libev
+&lt;/code>&lt;/pre>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_change_port_1.png" style="width:50%;">
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_change_port_2.png" style="width:50%;"></description></item><item><title>Blog: Docker</title><link>http://example.com/blog/devops/docker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/docker/</guid><description>
 &lt;p>keyword: Docker&lt;/p>
 &lt;p>&lt;a href="https://docs.docker.com/desktop/faqs/linuxfaqs/#:~:text=What%20is%20the%20difference%20between,technology%20that%20powers%20Docker%20containers.">What is the difference between Docker Desktop for Linux and Docker Engine?&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://docs.docker.com/desktop/faqs/linuxfaqs/#:~:text=What%20is%20the%20difference%20between,technology%20that%20powers%20Docker%20containers.">Docker Desktop 和 Docker Engine 的区别&lt;/a>&lt;/p>
@@ -49,29 +50,7 @@ find PasswordAuthentication key ,change value to yes
 sudo passwd 你的用户名
 # 重新登录
 sudo pkill -9 -u 你的用户名
-&lt;/code>&lt;/pre></description></item><item><title>Blog: Aws Shadowsocket 2</title><link>http://example.com/blog/devops/awsshadowsocket2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/devops/awsshadowsocket2/</guid><description>
-&lt;p>keyword: AWS instance&lt;/p>
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_instance_name.png" style="width:50%;">
-&lt;p>创建key 用于 ssh 鉴权登陆
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_instance_create_key.png" style="width:50%;">
-&lt;/p>
-&lt;p>创建成功后，查看instance Details ip , ssh 登陆&lt;/p>
-&lt;pre tabindex="0">&lt;code>chmod 400 [your pem path]
-ssh -i [your pem path] admin@your_ip
-&lt;/code>&lt;/pre>&lt;p>安装 &lt;a href="https://github.com/shadowsocks/shadowsocks-libev/blob/master/docker/alpine/README.md">shadowsocket docker&lt;/a>&lt;/p>
-&lt;pre tabindex="0">&lt;code>docker pull shadowsocks/shadowsocks-libev
-&lt;/code>&lt;/pre>&lt;p>指定 shadowsocks container 的端口，检查你的云服务是否开启了该端口&lt;/p>
-&lt;p>启动 docker instance&lt;/p>
-&lt;p>检查你的云服务是否开启了该端口
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_instance_check_port.png" style="width:50%;">
-&lt;/p>
-&lt;pre tabindex="0">&lt;code>ps=&amp;lt;你的密码&amp;gt;
-port=&amp;lt;你的端口&amp;gt;
-docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always shadowsocks/shadowsocks-libev
-&lt;/code>&lt;/pre>&lt;p>
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_change_port_1.png" style="width:50%;">
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_change_port_2.png" style="width:50%;">
-&lt;/p></description></item><item><title>Blog: Hadoop Architecture</title><link>http://example.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/hadooparchitecture/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Blog: Hadoop Architecture</title><link>http://example.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/hadooparchitecture/</guid><description>
 &lt;p>keyword: Hadoop, big data, AI, Architecture&lt;/p>
 &lt;p>&lt;a href="https://www.cloudduggu.com/hadoop/architecture/">Hadoop Architecture&lt;/a>.&lt;/p>
 &lt;p>Apache Hadoop has the following three layers of Architecture.&lt;/p>
