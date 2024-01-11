@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on My New Hugo Site</title><link>http://example.com/blog/</link><description>Recent content in Blogs on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Installation</title><link>http://example.com/blog/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/my2/</guid><description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on My New Hugo Site</title><link>http://example.com/blog/</link><description>Recent content in Blogs on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Hadoop Architecture</title><link>http://example.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/hadooparchitecture/</guid><description>keyword: Hadopp, big date ,AI, Architecture
+Hadoop Architecture.
+Apache Hadoop has the following three layers of Architecture.
+Map-Reduce
+YARN
+HDFS
+Map-Reduce 2. YARN 3. HDFS</description></item><item><title>Installation</title><link>http://example.com/blog/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/my2/</guid><description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
 Create your project Hugo provides a new command to create a new website.
 hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation
 This theme&amp;rsquo;s repository is: https://github.com/matcornic/hugo-theme-learn.git

@@ -1,4 +1,29 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>http://example.com/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><image><url>http://example.com/img/hugo.png</url><title>GoHugo.io</title><link>http://example.com/</link></image><atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: Installation</title><link>http://example.com/blog/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/my2/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>http://example.com/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><image><url>http://example.com/img/hugo.png</url><title>GoHugo.io</title><link>http://example.com/</link></image><atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: Hadoop Architecture</title><link>http://example.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/hadooparchitecture/</guid><description>
+&lt;p>keyword: Hadopp, big date ,AI, Architecture&lt;/p>
+&lt;p>&lt;a href="https://www.cloudduggu.com/hadoop/architecture/">Hadoop Architecture&lt;/a>.&lt;/p>
+&lt;p>Apache Hadoop has the following three layers of Architecture.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Map-Reduce&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>YARN&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>HDFS&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="image.png" alt="Alt text">&lt;/p>
+&lt;ol>
+&lt;li>Map-Reduce&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="image-1.png" alt="Alt text">
+2. YARN
+&lt;img src="image-2.png" alt="Alt text">
+3. HDFS
+&lt;img src="image-3.png" alt="Alt text">
+&lt;img src="image-4.png" alt="Alt text">
+&lt;img src="image-5.png" alt="Alt text">&lt;/p></description></item><item><title>Blog: Installation</title><link>http://example.com/blog/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/my2/</guid><description>
 &lt;p>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this &lt;a href="https://gohugo.io/overview/quickstart/">great documentation for beginners&lt;/a>.&lt;/p>
 &lt;h2 id="create-your-project">Create your project&lt;/h2>
 &lt;p>Hugo provides a &lt;code>new&lt;/code> command to create a new website.&lt;/p>
