@@ -13,17 +13,19 @@
 &lt;p>HDFS&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;p>&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture.png" alt="Alt text">&lt;/p>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture.png" style="width:50%;">
 &lt;ol>
 &lt;li>Map-Reduce&lt;/li>
 &lt;/ol>
-&lt;p>&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_map_reduce.png" alt="Alt text">
+&lt;p>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_map_reduce.png" style="width:50%;">
 2. YARN
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_yarn.png" alt="Alt text">
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_yarn.png" style="width:50%;">
 3. HDFS
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_hdfs_1.png" alt="Alt text">
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_hdfs_2.png" alt="Alt text">
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_hdfs_3.png" alt="Alt text">&lt;/p></description></item><item><title>Blog: Hadoop Architecture</title><link>http://example.com/blog/it/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/spark/</guid><description>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_hdfs_1.png" style="width:50%;">
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_hdfs_2.png" style="width:50%;">
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_hdfs_3.png" style="width:50%;">
+&lt;/p></description></item><item><title>Blog: Hadoop Architecture</title><link>http://example.com/blog/it/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/spark/</guid><description>
 &lt;p>keyword: Hadopp, big date ,AI, Architecture&lt;/p>
 &lt;p>&lt;a href="https://avinash333.com/spark-architecture/">Spark Architecture&lt;/a>.&lt;/p>
 &lt;p>&lt;img src="image-7.png" alt="Alt text">&lt;/p></description></item><item><title>Blog: Installation</title><link>http://example.com/blog/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/my2/</guid><description>
