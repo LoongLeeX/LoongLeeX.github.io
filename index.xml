@@ -74,7 +74,9 @@ find PasswordAuthentication key ,change value to yes
 sudo passwd 你的用户名
 # 重新登录
 sudo pkill -9 -u 你的用户名
-&lt;/code>&lt;/pre></description></item><item><title>Blog: Hadoop Architecture</title><link>http://example.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/hadooparchitecture/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Blog: Flow Diagram</title><link>http://example.com/blog/product_efficiency/flowdiagram/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/product_efficiency/flowdiagram/</guid><description>
+&lt;p>keyword: Flow Diagram, product , efficiency, 工程效率&lt;/p>
+&lt;h2 id="最好的-流程图-架构图-软件">最好的 流程图 架构图 软件&lt;/h2></description></item><item><title>Blog: Hadoop Architecture</title><link>http://example.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it/hadooparchitecture/</guid><description>
 &lt;p>keyword: Hadoop, big data, AI, Architecture&lt;/p>
 &lt;p>&lt;a href="https://www.cloudduggu.com/hadoop/architecture/">Hadoop Architecture&lt;/a>.&lt;/p>
 &lt;p>Apache Hadoop has the following three layers of Architecture.&lt;/p>
@@ -330,5 +332,11 @@ publish_branch: main
 &lt;li>&lt;a href="https://gohugo.io/installation/">https://gohugo.io/installation/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://gohugo.io/getting-started/quick-start/">https://gohugo.io/getting-started/quick-start/&lt;/a>&lt;/li>
 &lt;/ol>
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image-7.png" width="50%"></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image-7.png" width="50%"></description></item><item><title>Blog: 湾区好公司</title><link>http://example.com/blog/it%E5%85%AB%E5%8D%A6/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/it%E5%85%AB%E5%8D%A6/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</guid><description>
+&lt;p>keyword: 亚麻,八卦, 湾区,&lt;/p>
+&lt;h2 id="湾区好公司">湾区好公司&lt;/h2>
+&lt;p>&lt;a href="https://www.intuit.com/">https://www.intuit.com/&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.levels.fyi/companies/intuit/salaries">https://www.levels.fyi/companies/intuit/salaries&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.adobe.com/">https://www.adobe.com/&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.levels.fyi/companies/adobe/salaries">https://www.levels.fyi/companies/adobe/salaries&lt;/a>&lt;/p></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>
 &lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item></channel></rss>
