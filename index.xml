@@ -338,5 +338,38 @@ publish_branch: main
 &lt;p>&lt;a href="https://www.intuit.com/">https://www.intuit.com/&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.levels.fyi/companies/intuit/salaries">https://www.levels.fyi/companies/intuit/salaries&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.adobe.com/">https://www.adobe.com/&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.levels.fyi/companies/adobe/salaries">https://www.levels.fyi/companies/adobe/salaries&lt;/a>&lt;/p></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>
+&lt;p>&lt;a href="https://www.levels.fyi/companies/adobe/salaries">https://www.levels.fyi/companies/adobe/salaries&lt;/a>&lt;/p></description></item><item><title>Blog: 美国 计算机 硕士</title><link>http://example.com/blog/cs/flowdiagram/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/cs/flowdiagram/</guid><description>
+&lt;p>keyword: 美国 计算机 硕士, USA ,CS , Master&lt;/p>
+&lt;h2 id="大学">大学&lt;/h2>
+&lt;ul>
+&lt;li>MS - Master of Science&lt;/li>
+&lt;li>EE - Electrical Engineering&lt;/li>
+&lt;li>CE - Computer Engineering&lt;/li>
+&lt;li>CS - Computer Science&lt;/li>
+&lt;li>SE - Software Engineering&lt;/li>
+&lt;li>CIS - Computer Information Systems&lt;/li>
+&lt;li>MIS - Management Information Systems&lt;/li>
+&lt;li>IT - Information Technology&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://gato-docs.its.txst.edu/jcr:40c81165-7965-4bc1-a017-ffbe47904f8a/Technology+Degrees+.pdf">德克萨斯州立大学（Texas State University）&lt;/a>
+&lt;img src="cs_diff_1.png" alt="Alt text">&lt;/p>
+&lt;p>&lt;img src="cs_diff_2.png" alt="Alt text">&lt;/p>
+&lt;pre tabindex="0">&lt;code>graph LR
+A[Degree Types] --&amp;gt;|Master&amp;#39;s Degree| B[MA/MS]
+A --&amp;gt;|Doctoral Degree| C[DA]
+B --&amp;gt; D[MS in EE]
+B --&amp;gt; E[MS in CE]
+B --&amp;gt; F[MS in CS]
+B --&amp;gt; G[MS in SE]
+B --&amp;gt; H[MS in CIS]
+B --&amp;gt; I[MS in MIS]
+B --&amp;gt; J[MS in IT]
+D[MS in EE] --&amp;gt; EE[Electrical Engineering]
+E[MS in CE] --&amp;gt; CE[Computer Engineering]
+F[MS in CS] --&amp;gt; CS[Computer Science]
+G[MS in SE] --&amp;gt; SE[Software Engineering]
+H[MS in CIS] --&amp;gt; CIS[Computer Information Systems]
+I[MS in MIS] --&amp;gt; MIS[Management Information Systems]
+J[MS in IT] --&amp;gt; IT[Information Technology]
+&lt;/code>&lt;/pre>&lt;p>&lt;img src="cs_diff_tree_1.png" alt="Alt text">&lt;/p></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>
 &lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item></channel></rss>
