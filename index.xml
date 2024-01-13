@@ -95,15 +95,21 @@ sudo pkill -9 -u 你的用户名
 &lt;ol>
 &lt;li>Map-Reduce&lt;/li>
 &lt;/ol>
-&lt;p>
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_map_reduce.png" style="width:50%;">
-2. YARN
+&lt;ol start="2">
+&lt;li>
+&lt;p>YARN
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_yarn.png" style="width:50%;">
-3. HDFS
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>HDFS
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_hdfs_1.png" style="width:50%;">
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_hdfs_2.png" style="width:50%;">
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_hdfs_3.png" style="width:50%;">
-&lt;/p></description></item><item><title>Blog: Installation</title><link>http://example.com/blog/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/my2/</guid><description>
+&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Blog: Installation</title><link>http://example.com/blog/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/my2/</guid><description>
 &lt;p>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this &lt;a href="https://gohugo.io/overview/quickstart/">great documentation for beginners&lt;/a>.&lt;/p>
 &lt;h2 id="create-your-project">Create your project&lt;/h2>
 &lt;p>Hugo provides a &lt;code>new&lt;/code> command to create a new website.&lt;/p>
