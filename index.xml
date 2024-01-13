@@ -372,5 +372,33 @@ H[MS in CIS] --&amp;gt; CIS[Computer Information Systems]
 I[MS in MIS] --&amp;gt; MIS[Management Information Systems]
 J[MS in IT] --&amp;gt; IT[Information Technology]
 &lt;/code>&lt;/pre>
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/cs_diff_tree_1.png" style="width:50%;"></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/cs_diff_tree_1.png" style="width:50%;"></description></item><item><title>Blog: 英语书面语缩写</title><link>http://example.com/blog/english/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/english/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</guid><description>
+&lt;p>keyword: 英语,书面语,缩写,&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>ASAP&lt;/td>
+&lt;td>as soon as possible&lt;/td>
+&lt;td>通常用于书面和口语交流中，意味着希望某事能尽快完成或希望对方能够迅速响应&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>RSVP&lt;/td>
+&lt;td>Respond, if it pleases you&lt;/td>
+&lt;td>通常用在邀请函中，请求收件人回复他们是否会出席所邀请的活动。这是一种礼仪性的请求，意在让举办者知道预期的出席人数，以便相应地做好准备 &lt;a href="https://en.wikipedia.org/wiki/RSVP">RSVP wikipedia&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>RITM&lt;/td>
+&lt;td>Request Item&lt;/td>
+&lt;td>一般用于IT 支持服务, 非通用&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>http://example.com/blog/%E6%A8%A1%E6%9D%BF/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/%E6%A8%A1%E6%9D%BF/</guid><description>
+&lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>
 &lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item></channel></rss>
