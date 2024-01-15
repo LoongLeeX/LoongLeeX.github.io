@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>http://example.com/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><image><url>http://example.com/img/hugo.png</url><title>GoHugo.io</title><link>http://example.com/</link></image><atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: Alfred Script Filter</title><link>http://example.com/blog/product_efficiency/script_filter_k_link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/product_efficiency/script_filter_k_link/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>http://example.com/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 May 2018 11:39:49 +0200</lastBuildDate><image><url>http://example.com/img/hugo.png</url><title>GoHugo.io</title><link>http://example.com/</link></image><atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: Alfred Script Filter</title><link>http://example.com/blog/product_efficiency/script_filter_k_link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/product_efficiency/script_filter_k_link/</guid><description>
 &lt;p>keyword: Alfred, Script, Filter&lt;/p>
 &lt;p>在配置Alfred Script Filter 时,
 若要打开的文件路径 为&lt;/p>
@@ -418,4 +418,12 @@ J[MS in IT] --&amp;gt; IT[Information Technology]
 &lt;/tbody>
 &lt;/table></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>http://example.com/blog/%E6%A8%A1%E6%9D%BF/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/%E6%A8%A1%E6%9D%BF/</guid><description>
 &lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>
-&lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item><item><title>Blog: Hugo - amnet</title><link>http://example.com/blog/sample/a/</link><pubDate>Fri, 11 May 2018 11:39:49 +0200</pubDate><guid>http://example.com/blog/sample/a/</guid><description>
+&lt;p>Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non orci
+commodo lobortis. Proin neque massa, cursus ut, gravida ut, lobortis eget,
+lacus.&lt;/p>
+&lt;p>Sed diam. Praesent fermentum tempor tellus. Nullam tempus. Mauris ac felis
+vel velit tristique imperdiet. Donec at pede.&lt;/p>
+&lt;p>Etiam vel neque nec dui dignissim bibendum. Vivamus id enim. Phasellus neque
+orci, porta a, aliquet quis, semper a, massa. Phasellus purus. Pellentesque
+tristique imperdiet tortor. Nam euismod tellus id erat.&lt;/p></description></item></channel></rss>
