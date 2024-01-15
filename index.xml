@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>https://testtest.com/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Jan 2024 11:39:49 +0200</lastBuildDate><image><url>https://testtest.com/img/hugo.png</url><title>GoHugo.io</title><link>https://testtest.com/</link></image><atom:link href="https://testtest.com/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: Alfred Script Filter</title><link>https://testtest.com/blog/product_efficiency/script_filter_k_link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/product_efficiency/script_filter_k_link/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site – _index.md</title><link>https://cuisiting.github.io/</link><description>Recent Hugo news from gohugo.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Jan 2024 11:39:49 +0200</lastBuildDate><image><url>https://cuisiting.github.io/img/hugo.png</url><title>GoHugo.io</title><link>https://cuisiting.github.io/</link></image><atom:link href="https://cuisiting.github.io/index.xml" rel='self' type="application/rss+xml"/><item><title>Blog: Alfred Script Filter</title><link>https://cuisiting.github.io/blog/product_efficiency/script_filter_k_link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/product_efficiency/script_filter_k_link/</guid><description>
 &lt;p>keyword: Alfred, Script, Filter&lt;/p>
 &lt;p>在配置Alfred Script Filter 时,
 若要打开的文件路径 为&lt;/p>
@@ -22,7 +22,7 @@
 &lt;/code>&lt;/pre>&lt;p>解决办法:
 为 上述文件创建文件链接&lt;/p>
 &lt;pre tabindex="0">&lt;code>格式：ln [原文件] [硬链接文件]
-&lt;/code>&lt;/pre></description></item><item><title>Blog: Aws Shadowsocket</title><link>https://testtest.com/blog/devops/awsshadowsocket/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/devops/awsshadowsocket/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Blog: Aws Shadowsocket</title><link>https://cuisiting.github.io/blog/devops/awsshadowsocket/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/devops/awsshadowsocket/</guid><description>
 &lt;p>keyword: AWS instance&lt;/p>
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_instance_name.png" style="width:50%;">
 &lt;p>创建key 用于 ssh 鉴权登陆&lt;/p>
@@ -41,7 +41,7 @@ port=&amp;lt;你的端口&amp;gt;
 docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always shadowsocks/shadowsocks-libev
 &lt;/code>&lt;/pre>
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_change_port_1.png" style="width:50%;">
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_change_port_2.png" style="width:50%;"></description></item><item><title>Blog: Docker</title><link>https://testtest.com/blog/devops/docker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/devops/docker/</guid><description>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/aws_change_port_2.png" style="width:50%;"></description></item><item><title>Blog: Docker</title><link>https://cuisiting.github.io/blog/devops/docker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/devops/docker/</guid><description>
 &lt;p>keyword: Docker&lt;/p>
 &lt;p>&lt;a href="https://docs.docker.com/desktop/faqs/linuxfaqs/#:~:text=What%20is%20the%20difference%20between,technology%20that%20powers%20Docker%20containers.">What is the difference between Docker Desktop for Linux and Docker Engine?&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://docs.docker.com/desktop/faqs/linuxfaqs/#:~:text=What%20is%20the%20difference%20between,technology%20that%20powers%20Docker%20containers.">Docker Desktop 和 Docker Engine 的区别&lt;/a>&lt;/p>
@@ -74,9 +74,9 @@ find PasswordAuthentication key ,change value to yes
 sudo passwd 你的用户名
 # 重新登录
 sudo pkill -9 -u 你的用户名
-&lt;/code>&lt;/pre></description></item><item><title>Blog: Flow Diagram</title><link>https://testtest.com/blog/product_efficiency/flowdiagram/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/product_efficiency/flowdiagram/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Blog: Flow Diagram</title><link>https://cuisiting.github.io/blog/product_efficiency/flowdiagram/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/product_efficiency/flowdiagram/</guid><description>
 &lt;p>keyword: Flow Diagram, product , efficiency, 工程效率&lt;/p>
-&lt;h2 id="最好的-流程图-架构图-软件">最好的 流程图 架构图 软件&lt;/h2></description></item><item><title>Blog: Hadoop Architecture</title><link>https://testtest.com/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/it/hadooparchitecture/</guid><description>
+&lt;h2 id="最好的-流程图-架构图-软件">最好的 流程图 架构图 软件&lt;/h2></description></item><item><title>Blog: Hadoop Architecture</title><link>https://cuisiting.github.io/blog/it/hadooparchitecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/it/hadooparchitecture/</guid><description>
 &lt;p>keyword: Hadoop, big data, AI, Architecture&lt;/p>
 &lt;p>&lt;a href="https://www.cloudduggu.com/hadoop/architecture/">Hadoop Architecture&lt;/a>.&lt;/p>
 &lt;p>Apache Hadoop has the following three layers of Architecture.&lt;/p>
@@ -109,7 +109,7 @@ sudo pkill -9 -u 你的用户名
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/hadoop_architecture_hdfs_3.png" style="width:50%;">
 &lt;/p>
 &lt;/li>
-&lt;/ol></description></item><item><title>Blog: Installation</title><link>https://testtest.com/blog/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/my2/</guid><description>
+&lt;/ol></description></item><item><title>Blog: Installation</title><link>https://cuisiting.github.io/blog/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/my2/</guid><description>
 &lt;p>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this &lt;a href="https://gohugo.io/overview/quickstart/">great documentation for beginners&lt;/a>.&lt;/p>
 &lt;h2 id="create-your-project">Create your project&lt;/h2>
 &lt;p>Hugo provides a &lt;code>new&lt;/code> command to create a new website.&lt;/p>
@@ -132,7 +132,7 @@ sudo pkill -9 -u 你的用户名
 # Basics
 Discover what this Hugo theme is all about and the core concepts behind it.
 &lt;/code>&lt;/pre>&lt;p>renders as&lt;/p>
-&lt;p>&lt;img src="https://testtest.com/en/basics/installation/images/chapter.png?classes=shadow&amp;amp;width=60pc" alt="A Chapter">&lt;/p>
+&lt;p>&lt;img src="https://cuisiting.github.io/en/basics/installation/images/chapter.png?classes=shadow&amp;amp;width=60pc" alt="A Chapter">&lt;/p>
 &lt;p>&lt;strong>Hugo-theme-learn&lt;/strong> provides archetypes to create skeletons for your website. Begin by creating your first chapter page with the following command&lt;/p>
 &lt;pre tabindex="0">&lt;code>hugo new --kind chapter basics/_index.md
 &lt;/code>&lt;/pre>&lt;p>By opening the given file, you should see the property &lt;code>chapter=true&lt;/code> on top, meaning this page is a &lt;em>chapter&lt;/em>.&lt;/p>
@@ -155,12 +155,12 @@ hugo new basics/second-content/_index.md
 &lt;h2 id="build-the-website">Build the website&lt;/h2>
 &lt;p>When your site is ready to deploy, run the following command:&lt;/p>
 &lt;pre tabindex="0">&lt;code>hugo
-&lt;/code>&lt;/pre>&lt;p>A &lt;code>public&lt;/code> folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.&lt;/p></description></item><item><title>Blog: sideidea</title><link>https://testtest.com/blog/product/sideidea/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/product/sideidea/</guid><description>
+&lt;/code>&lt;/pre>&lt;p>A &lt;code>public&lt;/code> folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.&lt;/p></description></item><item><title>Blog: sideidea</title><link>https://cuisiting.github.io/blog/product/sideidea/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/product/sideidea/</guid><description>
 &lt;p>&lt;a href="https://sideidea.com/">SideIdea&lt;/a>&lt;/p>
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/product_sideidea.png" style="width:50%;"></description></item><item><title>Blog: Spark Architecture</title><link>https://testtest.com/blog/it/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/it/spark/</guid><description>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/product_sideidea.png" style="width:50%;"></description></item><item><title>Blog: Spark Architecture</title><link>https://cuisiting.github.io/blog/it/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/it/spark/</guid><description>
 &lt;p>keyword: Spark, big date ,AI, Architecture&lt;/p>
 &lt;p>&lt;a href="https://avinash333.com/spark-architecture/">Spark Architecture&lt;/a>.&lt;/p>
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/h_s_avinash333.png" style="width:50%;"></description></item><item><title>Blog: Spark&amp;Hadoop</title><link>https://testtest.com/blog/it/sparkhadoop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/it/sparkhadoop/</guid><description>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/h_s_avinash333.png" style="width:50%;"></description></item><item><title>Blog: Spark&amp;Hadoop</title><link>https://cuisiting.github.io/blog/it/sparkhadoop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/it/sparkhadoop/</guid><description>
 &lt;p>keyword: Hadopp, Spark, big data, AI, Architecture&lt;/p>
 &lt;p>&lt;a href="https://developer.hpe.com/blog/performance-tuning-of-an-apache-kafkaspark-streaming-system-telecom-case/">Case Study 1&lt;/a>.&lt;/p>
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/h_s_telecom_case.png" style="width:50%;">
@@ -219,7 +219,7 @@ hugo new basics/second-content/_index.md
 &lt;/ul>
 &lt;/li>
 &lt;/ol>
-&lt;p>根据项目需求和资源情况，可以选择适合的框架。在某些复杂的项目中，Hadoop 和 Spark 可以并行使用，以充分利用两者的优势。&lt;/p></description></item><item><title>Blog: 不花钱 ！搭建Blog！</title><link>https://testtest.com/blog/hugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/hugogithubaction/</guid><description>
+&lt;p>根据项目需求和资源情况，可以选择适合的框架。在某些复杂的项目中，Hadoop 和 Spark 可以并行使用，以充分利用两者的优势。&lt;/p></description></item><item><title>Blog: 不花钱 ！搭建Blog！</title><link>https://cuisiting.github.io/blog/hugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/hugogithubaction/</guid><description>
 &lt;h2 id="环境要求">环境要求&lt;/h2>
 &lt;p>git&lt;/p>
 &lt;h2 id="开始盖别墅">开始盖别墅&lt;/h2>
@@ -340,7 +340,7 @@ publish_branch: main
 &lt;li>&lt;a href="https://gohugo.io/installation/">https://gohugo.io/installation/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://gohugo.io/getting-started/quick-start/">https://gohugo.io/getting-started/quick-start/&lt;/a>&lt;/li>
 &lt;/ol>
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image-7.png" width="50%"></description></item><item><title>Blog: 好产品, StepNpull, 卫生间</title><link>https://testtest.com/blog/fun/stepnpull/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/fun/stepnpull/</guid><description>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image-7.png" width="50%"></description></item><item><title>Blog: 好产品, StepNpull, 卫生间</title><link>https://cuisiting.github.io/blog/fun/stepnpull/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/fun/stepnpull/</guid><description>
 &lt;p>StepNpul&lt;/p>
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/producat_stepnpull.png" style="width:50%;">
 &lt;p>每次上完卫生间洗完手，在用手开门把手 总感觉白洗这个手了。&lt;/p>
@@ -349,13 +349,13 @@ publish_branch: main
 &lt;p>&lt;a href="https://www.bilibili.com/video/av844366428/?bsource=sogou&amp;amp;fr=seo.bilibili.com">《飞行家》片段 莱昂纳多严重洁癖厕所疯狂洗手
 &lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=krBsPw-c2XU&amp;amp;ab_channel=StepNpull">场景 1&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.youtube.com/watch?v=hac0h5IMmm4&amp;amp;ab_channel=StepNpull">场景 2&lt;/a>&lt;/p></description></item><item><title>Blog: 湾区好公司</title><link>https://testtest.com/blog/it%E5%85%AB%E5%8D%A6/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/it%E5%85%AB%E5%8D%A6/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</guid><description>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=hac0h5IMmm4&amp;amp;ab_channel=StepNpull">场景 2&lt;/a>&lt;/p></description></item><item><title>Blog: 湾区好公司</title><link>https://cuisiting.github.io/blog/it%E5%85%AB%E5%8D%A6/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/it%E5%85%AB%E5%8D%A6/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</guid><description>
 &lt;p>keyword: 亚麻,八卦, 湾区,&lt;/p>
 &lt;h2 id="湾区好公司">湾区好公司&lt;/h2>
 &lt;p>&lt;a href="https://www.intuit.com/">https://www.intuit.com/&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.levels.fyi/companies/intuit/salaries">https://www.levels.fyi/companies/intuit/salaries&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.adobe.com/">https://www.adobe.com/&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://www.levels.fyi/companies/adobe/salaries">https://www.levels.fyi/companies/adobe/salaries&lt;/a>&lt;/p></description></item><item><title>Blog: 英语书面语缩写</title><link>https://testtest.com/blog/english/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/english/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</guid><description>
+&lt;p>&lt;a href="https://www.levels.fyi/companies/adobe/salaries">https://www.levels.fyi/companies/adobe/salaries&lt;/a>&lt;/p></description></item><item><title>Blog: 英语书面语缩写</title><link>https://cuisiting.github.io/blog/english/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/english/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</guid><description>
 &lt;p>keyword: 英语,书面语,缩写,&lt;/p>
 &lt;table>
 &lt;thead>
@@ -382,9 +382,9 @@ publish_branch: main
 &lt;td>一般用于IT 支持服务, 非通用&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>https://testtest.com/blog/%E6%A8%A1%E6%9D%BF/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/%E6%A8%A1%E6%9D%BF/</guid><description>
-&lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>https://testtest.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://testtest.com/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>
-&lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item><item><title>Blog: 美国 计算机 硕士</title><link>https://testtest.com/blog/cs/master/</link><pubDate>Thu, 11 Jan 2024 11:39:49 +0200</pubDate><guid>https://testtest.com/blog/cs/master/</guid><description>
+&lt;/table></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>https://cuisiting.github.io/blog/%E6%A8%A1%E6%9D%BF/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/%E6%A8%A1%E6%9D%BF/</guid><description>
+&lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item><item><title>Blog: 设置HugoMarkdown图片大小</title><link>https://cuisiting.github.io/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>
+&lt;p>&lt;a href="https://gohugo.io/templates/render-hooks/">https://gohugo.io/templates/render-hooks/&lt;/a>&lt;/p></description></item><item><title>Blog: 美国 计算机 硕士</title><link>https://cuisiting.github.io/blog/cs/master/</link><pubDate>Thu, 11 Jan 2024 11:39:49 +0200</pubDate><guid>https://cuisiting.github.io/blog/cs/master/</guid><description>
 &lt;p>keyword: 美国 计算机 硕士, USA ,CS , Master&lt;/p>
 &lt;h2 id="大学">大学&lt;/h2>
 &lt;ul>
@@ -418,7 +418,7 @@ H[MS in CIS] --&amp;gt; CIS[Computer Information Systems]
 I[MS in MIS] --&amp;gt; MIS[Management Information Systems]
 J[MS in IT] --&amp;gt; IT[Information Technology]
 &lt;/code>&lt;/pre>
-&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/cs_diff_tree_1.png" style="width:50%;"></description></item><item><title>Blog: Hugo - amnet</title><link>https://testtest.com/blog/sample/a/</link><pubDate>Fri, 11 May 2018 11:39:49 +0200</pubDate><guid>https://testtest.com/blog/sample/a/</guid><description>
+&lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/cs_diff_tree_1.png" style="width:50%;"></description></item><item><title>Blog: Hugo - amnet</title><link>https://cuisiting.github.io/blog/sample/a/</link><pubDate>Fri, 11 May 2018 11:39:49 +0200</pubDate><guid>https://cuisiting.github.io/blog/sample/a/</guid><description>
 &lt;p>Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non orci
 commodo lobortis. Proin neque massa, cursus ut, gravida ut, lobortis eget,
 lacus.&lt;/p>
