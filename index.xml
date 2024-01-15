@@ -2,7 +2,7 @@
 &lt;p>keyword: Alfred, Script, Filter&lt;/p>
 &lt;p>在配置Alfred Script Filter 时,
 若要打开的文件路径 为&lt;/p>
-&lt;pre tabindex="0">&lt;code>/Users/cocui/Library/Application\ Support/xxxxxx
+&lt;pre tabindex="0">&lt;code>/Users/your_user/Library/Application\ Support/xxxxxx
 &lt;/code>&lt;/pre>
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/script_filter_k_link_1.png" style="width:50%;">
 &lt;p>这类中间带有空格的路径, Alfred 将不能正常打开&lt;/p>
@@ -12,7 +12,7 @@
 &amp;#34;title&amp;#34;: &amp;#34;k config&amp;#34;,
 &amp;#34;subtitle&amp;#34;: &amp;#34;~/Desktop&amp;#34;,
 &amp;#34;arg&amp;#34;: [&amp;#34;vscode&amp;#34;,
-&amp;#34;/Users/cocui/toolchain/MyShell/Alfred/script_filter_k_link/info.plist&amp;#34;],
+&amp;#34;/Users/your_user/toolchain/MyShell/Alfred/script_filter_k_link/info.plist&amp;#34;],
 &amp;#34;autocomplete&amp;#34;: &amp;#34;Desktop&amp;#34;,
 &amp;#34;icon&amp;#34;: {
 &amp;#34;type&amp;#34;: &amp;#34;fileicon&amp;#34;,
