@@ -420,6 +420,7 @@ H[MS in CIS] --&amp;gt; CIS[Computer Information Systems]
 I[MS in MIS] --&amp;gt; MIS[Management Information Systems]
 J[MS in IT] --&amp;gt; IT[Information Technology]
 &lt;/code>&lt;/pre>
+&lt;div>
 &lt;pre class="mermaid">
 graph LR
 A[Degree Types] -->|Master's Degree| B[MA/MS]
@@ -439,9 +440,11 @@ G[MS in SE] --> SE[Software Engineering]
 H[MS in CIS] --> CIS[Computer Information Systems]
 I[MS in MIS] --> MIS[Management Information Systems]
 J[MS in IT] --> IT[Information Technology]
+&lt;/pre>
 &lt;script type="module">
 import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-&lt;/script></description></item><item><title>Blog: Hugo - amnet</title><link>https://cuisiting.github.io/blog/sample/a/</link><pubDate>Fri, 11 May 2018 11:39:49 +0200</pubDate><guid>https://cuisiting.github.io/blog/sample/a/</guid><description>
+&lt;/script>
+&lt;/div></description></item><item><title>Blog: Hugo - amnet</title><link>https://cuisiting.github.io/blog/sample/a/</link><pubDate>Fri, 11 May 2018 11:39:49 +0200</pubDate><guid>https://cuisiting.github.io/blog/sample/a/</guid><description>
 &lt;p>Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non orci
 commodo lobortis. Proin neque massa, cursus ut, gravida ut, lobortis eget,
 lacus.&lt;/p>
