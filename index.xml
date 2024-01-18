@@ -155,7 +155,14 @@ hugo new basics/second-content/_index.md
 &lt;h2 id="build-the-website">Build the website&lt;/h2>
 &lt;p>When your site is ready to deploy, run the following command:&lt;/p>
 &lt;pre tabindex="0">&lt;code>hugo
-&lt;/code>&lt;/pre>&lt;p>A &lt;code>public&lt;/code> folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.&lt;/p></description></item><item><title>Blog: sideidea</title><link>https://cuisiting.github.io/blog/product/sideidea/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/product/sideidea/</guid><description>
+&lt;/code>&lt;/pre>&lt;p>A &lt;code>public&lt;/code> folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.&lt;/p></description></item><item><title>Blog: macos inputmethod auto switch</title><link>https://cuisiting.github.io/blog/product_efficiency/macos_inputmethod_auto_switch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/product_efficiency/macos_inputmethod_auto_switch/</guid><description>
+&lt;p>keyword: macos, inputmethod ,auto ,switch&lt;/p>
+&lt;p>&lt;a href="https://github.com/minoki/InputSourceSelector">InputSourceSelector&lt;/a>&lt;/p>
+&lt;pre tabindex="0">&lt;code># 查看
+InputSourceSelector list
+# 切换
+InputSourceSelector select
+&lt;/code>&lt;/pre></description></item><item><title>Blog: sideidea</title><link>https://cuisiting.github.io/blog/product/sideidea/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/product/sideidea/</guid><description>
 &lt;p>keyword: 副业,idea,&lt;/p>
 &lt;p>&lt;a href="https://sideidea.com/">SideIdea&lt;/a>&lt;/p>
 &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/product_sideidea.png" style="width:50%;"></description></item><item><title>Blog: Spark Architecture</title><link>https://cuisiting.github.io/blog/it/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/blog/it/spark/</guid><description>
