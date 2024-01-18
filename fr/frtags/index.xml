@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FRtags on PaperModL2</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/</link>
+    <link>https://cuisiting.github.io/fr/frtags/</link>
     <description>Recent content in FRtags on PaperModL2</description>
     <image>
       <title>PaperModL2</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://cuisiting.github.io/images/papermod-cover.png</url>
+      <link>https://cuisiting.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/fr/frtags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cuisiting.github.io/fr/frtags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

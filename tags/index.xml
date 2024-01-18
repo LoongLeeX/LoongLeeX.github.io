@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PaperMod</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/tags/</link>
+    <link>https://cuisiting.github.io/tags/</link>
     <description>Recent content in Tags on PaperMod</description>
     <image>
       <title>PaperMod</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://cuisiting.github.io/images/papermod-cover.png</url>
+      <link>https://cuisiting.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Jan 2024 11:39:49 +0200</lastBuildDate>
-    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cuisiting.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/tags/hugo/</link>
+      <link>https://cuisiting.github.io/tags/hugo/</link>
       <pubDate>Thu, 11 Jan 2024 11:39:49 +0200</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/tags/hugo/</guid>
+      <guid>https://cuisiting.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>pictures</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/tags/pictures/</link>
+      <link>https://cuisiting.github.io/tags/pictures/</link>
       <pubDate>Thu, 11 Jan 2024 11:39:49 +0200</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/tags/pictures/</guid>
+      <guid>https://cuisiting.github.io/tags/pictures/</guid>
       <description></description>
     </item>
     <item>
       <title>resources</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/tags/resources/</link>
+      <link>https://cuisiting.github.io/tags/resources/</link>
       <pubDate>Thu, 11 Jan 2024 11:39:49 +0200</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/tags/resources/</guid>
+      <guid>https://cuisiting.github.io/tags/resources/</guid>
       <description></description>
     </item>
     <item>
       <title>shortcodes</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/tags/shortcodes/</link>
+      <link>https://cuisiting.github.io/tags/shortcodes/</link>
       <pubDate>Thu, 11 Jan 2024 11:39:49 +0200</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/tags/shortcodes/</guid>
+      <guid>https://cuisiting.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>web</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/tags/web/</link>
+      <link>https://cuisiting.github.io/tags/web/</link>
       <pubDate>Thu, 11 Jan 2024 11:39:49 +0200</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/tags/web/</guid>
+      <guid>https://cuisiting.github.io/tags/web/</guid>
       <description></description>
     </item>
   </channel>

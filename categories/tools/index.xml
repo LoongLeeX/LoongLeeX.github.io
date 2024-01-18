@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tools on PaperMod</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/categories/tools/</link>
+    <link>https://cuisiting.github.io/categories/tools/</link>
     <description>Recent content in tools on PaperMod</description>
     <image>
       <title>PaperMod</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://cuisiting.github.io/images/papermod-cover.png</url>
+      <link>https://cuisiting.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Jan 2024 11:39:49 +0200</lastBuildDate>
-    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cuisiting.github.io/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>美国 计算机 硕士</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/master_cs/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/master_cs/</link>
       <pubDate>Thu, 11 Jan 2024 11:39:49 +0200</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/master_cs/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/master_cs/</guid>
       <description>keyword: 美国 计算机 硕士, USA ,CS , Master
 大学 MS - Master of Science EE - Electrical Engineering CE - Computer Engineering CS - Computer Science SE - Software Engineering CIS - Computer Information Systems MIS - Management Information Systems IT - Information Technology 德克萨斯州立大学（Texas State University）
 graph LR A[Degree Types] --&amp;gt;|Master&amp;#39;s Degree| B[MA/MS] A --&amp;gt;|Doctoral Degree| C[DA] B --&amp;gt; D[MS in EE] B --&amp;gt; E[MS in CE] B --&amp;gt; F[MS in CS] B --&amp;gt; G[MS in SE] B --&amp;gt; H[MS in CIS] B --&amp;gt; I[MS in MIS] B --&amp;gt; J[MS in IT] D[MS in EE] --&amp;gt; EE[Electrical Engineering] E[MS in CE] --&amp;gt; CE[Computer Engineering] F[MS in CS] --&amp;gt; CS[Computer Science] F[MS in CS] --&amp;gt; DS[Data Science] G[MS in SE] --&amp;gt; SE[Software Engineering] H[MS in CIS] --&amp;gt; CIS[Computer Information Systems] I[MS in MIS] --&amp;gt; MIS[Management Information Systems] J[MS in IT] --&amp;gt; IT[Information Technology] graph LR A[Degree Types] --&gt;|Master&#39;s Degree| B[MA/MS] A --&gt;|Doctoral Degree| C[DA] B --&gt; D[MS in EE] B --&gt; E[MS in CE] B --&gt; F[MS in CS] B --&gt; G[MS in SE] B --&gt; H[MS in CIS] B --&gt; I[MS in MIS] B --&gt; J[MS in IT] D[MS in EE] --&gt; EE[Electrical Engineering] E[MS in CE] --&gt; CE[Computer Engineering] F[MS in CS] --&gt; CS[Computer Science] F[MS in CS] --&gt; DS[Data Science] G[MS in SE] --&gt; SE[Software Engineering] H[MS in CIS] --&gt; CIS[Computer Information Systems] I[MS in MIS] --&gt; MIS[Management Information Systems] J[MS in IT] --&gt; IT[Information Technology] </description>

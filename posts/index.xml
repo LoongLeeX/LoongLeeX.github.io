@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on PaperMod</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/posts/</link>
+    <link>https://cuisiting.github.io/posts/</link>
     <description>Recent content in Posts on PaperMod</description>
     <image>
       <title>PaperMod</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://cuisiting.github.io/images/papermod-cover.png</url>
+      <link>https://cuisiting.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Jan 2024 11:39:49 +0200</lastBuildDate>
-    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cuisiting.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alfred Script Filter</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/script_filter_k_link/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/script_filter_k_link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/script_filter_k_link/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/script_filter_k_link/</guid>
       <description>keyword: Alfred, Script, Filter
 在配置Alfred Script Filter 时, 若要打开的文件路径 为
 /Users/your_user/Library/Application\ Support/xxxxxx 这类中间带有空格的路径, Alfred 将不能正常打开
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>Aws Shadowsocket</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/awsshadowsocket/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/awsshadowsocket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/awsshadowsocket/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/awsshadowsocket/</guid>
       <description>keyword: AWS instance
 创建key 用于 ssh 鉴权登陆
 创建成功后，查看instance Details ip , ssh 登陆
@@ -38,9 +38,9 @@ ps=&amp;lt;你的密码&amp;gt; port=&amp;lt;你的端口&amp;gt; docker run -e 
     </item>
     <item>
       <title>Docker</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/docker/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/docker/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/docker/</guid>
       <description>keyword: Docker
 What is the difference between Docker Desktop for Linux and Docker Engine?
 Docker Desktop 和 Docker Engine 的区别
@@ -50,17 +50,17 @@ Install using the apt repository
     </item>
     <item>
       <title>Flow Diagram</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/flowdiagram/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/flowdiagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/flowdiagram/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/flowdiagram/</guid>
       <description>keyword: Flow Diagram, product , efficiency, 工程效率
 最好的 流程图 架构图 软件 </description>
     </item>
     <item>
       <title>Hadoop Architecture</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/hadooparchitecture/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/hadooparchitecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/hadooparchitecture/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/hadooparchitecture/</guid>
       <description>keyword: Hadoop, big data, AI, Architecture
 Hadoop Architecture.
 Apache Hadoop has the following three layers of Architecture.
@@ -71,9 +71,9 @@ Map-Reduce YARN HDFS </description>
     </item>
     <item>
       <title>hugo-theme-learn 不支持 shortcode</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid>
       <description>hugo-theme-learn 不支持 shortcode 按照 Hugo 官方关于自定义 shortcode 文档 https://gohugo.io/templates/shortcode-templates/ 设置如下 :
 在 layouts/shortcodes 创建文件，并添加
 &amp;lt;!-- rawhtml --&amp;gt; {{.Inner}} 在Test.md 中添加 图片
@@ -81,9 +81,9 @@ Map-Reduce YARN HDFS </description>
     </item>
     <item>
       <title>Installation</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/my2/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/my2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/my2/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/my2/</guid>
       <description>The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
 Create your project Hugo provides a new command to create a new website.
 hugo new site &amp;lt;new_project&amp;gt; Install the theme Install the Hugo-theme-learn theme by following this documentation
@@ -92,34 +92,34 @@ Alternatively, you can download the theme as .</description>
     </item>
     <item>
       <title>macos inputmethod auto switch</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/macos_inputmethod_auto_switch/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/macos_inputmethod_auto_switch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/macos_inputmethod_auto_switch/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/macos_inputmethod_auto_switch/</guid>
       <description>keyword: macos, inputmethod ,auto ,switch
 InputSourceSelector
 # 查看 InputSourceSelector list # 切换 InputSourceSelector select </description>
     </item>
     <item>
       <title>sideidea</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/sideidea/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/sideidea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/sideidea/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/sideidea/</guid>
       <description>keyword: 副业,idea,
 SideIdea</description>
     </item>
     <item>
       <title>Spark Architecture</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/spark/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/spark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/spark/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/spark/</guid>
       <description>keyword: Spark, big date ,AI, Architecture
 Spark Architecture.</description>
     </item>
     <item>
       <title>Spark&amp;Hadoop</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/sparkhadoop/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/sparkhadoop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/sparkhadoop/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/sparkhadoop/</guid>
       <description>keyword: Hadopp, Spark, big data, AI, Architecture
 Case Study 1.
 Case Study 2.
@@ -131,9 +131,9 @@ Hadoop vs Spark: 使用场景 Hadoop 使用场景 Hadoop 适合以下场景：
     </item>
     <item>
       <title>不花钱 ！搭建Blog！</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/hugogithubaction/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/hugogithubaction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/hugogithubaction/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/hugogithubaction/</guid>
       <description>环境要求 git
 开始盖别墅 安装hugo Hugo 官方安装：https://gohugo.io/installation/ 用hugo 命令 创建 后台工程，相当于系统后台，用于编辑Blog hugo new site MyBlog cd MyBlog git init # 安装主题 git submodule add git@github.com:cuisiting/ hugo-theme-learn.git themes/hugo-theme-learn # 指定主题 echo &amp;#34;theme = &amp;#39;hugo-theme-learn&amp;#39;&amp;#34; &amp;gt;&amp;gt; hugo.toml # 部署到本地查看一下 hugo server 至此，我们在本地电脑上，创建一个hugo 工程来存储blog 文件
 小练习：增加一篇Blog，按如下的目录结构 添加文件 ，注意 需要创建 _index.md &amp;amp; 格式
@@ -145,9 +145,9 @@ RootProject └──content/ ├── _index.md └── 个人随想 ├─�
     </item>
     <item>
       <title>好产品, StepNpull, 卫生间</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/stepnpull/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/stepnpull/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/stepnpull/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/stepnpull/</guid>
       <description>StepNpul
 每次上完卫生间洗完手，在用手开门把手 总感觉白洗这个手了。
 有这这个脚开门把手真的舒服。在流感 COVID-19 期间很有用
@@ -156,9 +156,9 @@ RootProject └──content/ ├── _index.md └── 个人随想 ├─�
     </item>
     <item>
       <title>湾区好公司</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</guid>
       <description>keyword: 亚麻,八卦, 湾区,
 湾区好公司 https://www.intuit.com/
 https://www.levels.fyi/companies/intuit/salaries
@@ -167,31 +167,31 @@ https://www.levels.fyi/companies/adobe/salaries</description>
     </item>
     <item>
       <title>英语书面语缩写</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</guid>
       <description>keyword: 英语,书面语,缩写,
 ASAP as soon as possible 通常用于书面和口语交流中，意味着希望某事能尽快完成或希望对方能够迅速响应 RSVP Respond, if it pleases you 通常用在邀请函中，请求收件人回复他们是否会出席所邀请的活动。这是一种礼仪性的请求，意在让举办者知道预期的出席人数，以便相应地做好准备 RSVP wikipedia RITM Request Item 一般用于IT 支持服务, 非通用 </description>
     </item>
     <item>
       <title>设置HugoMarkdown图片大小</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/%E6%A8%A1%E6%9D%BF/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/%E6%A8%A1%E6%9D%BF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/%E6%A8%A1%E6%9D%BF/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/%E6%A8%A1%E6%9D%BF/</guid>
       <description>https://gohugo.io/templates/render-hooks/</description>
     </item>
     <item>
       <title>设置HugoMarkdown图片大小</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid>
       <description>https://gohugo.io/templates/render-hooks/</description>
     </item>
     <item>
       <title>美国 计算机 硕士</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/master_cs/</link>
+      <link>https://cuisiting.github.io/posts/cuisiting/master_cs/</link>
       <pubDate>Thu, 11 Jan 2024 11:39:49 +0200</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/posts/cuisiting/master_cs/</guid>
+      <guid>https://cuisiting.github.io/posts/cuisiting/master_cs/</guid>
       <description>keyword: 美国 计算机 硕士, USA ,CS , Master
 大学 MS - Master of Science EE - Electrical Engineering CE - Computer Engineering CS - Computer Science SE - Software Engineering CIS - Computer Information Systems MIS - Management Information Systems IT - Information Technology 德克萨斯州立大学（Texas State University）
 graph LR A[Degree Types] --&amp;gt;|Master&amp;#39;s Degree| B[MA/MS] A --&amp;gt;|Doctoral Degree| C[DA] B --&amp;gt; D[MS in EE] B --&amp;gt; E[MS in CE] B --&amp;gt; F[MS in CS] B --&amp;gt; G[MS in SE] B --&amp;gt; H[MS in CIS] B --&amp;gt; I[MS in MIS] B --&amp;gt; J[MS in IT] D[MS in EE] --&amp;gt; EE[Electrical Engineering] E[MS in CE] --&amp;gt; CE[Computer Engineering] F[MS in CS] --&amp;gt; CS[Computer Science] F[MS in CS] --&amp;gt; DS[Data Science] G[MS in SE] --&amp;gt; SE[Software Engineering] H[MS in CIS] --&amp;gt; CIS[Computer Information Systems] I[MS in MIS] --&amp;gt; MIS[Management Information Systems] J[MS in IT] --&amp;gt; IT[Information Technology] graph LR A[Degree Types] --&gt;|Master&#39;s Degree| B[MA/MS] A --&gt;|Doctoral Degree| C[DA] B --&gt; D[MS in EE] B --&gt; E[MS in CE] B --&gt; F[MS in CS] B --&gt; G[MS in SE] B --&gt; H[MS in CIS] B --&gt; I[MS in MIS] B --&gt; J[MS in IT] D[MS in EE] --&gt; EE[Electrical Engineering] E[MS in CE] --&gt; CE[Computer Engineering] F[MS in CS] --&gt; CS[Computer Science] F[MS in CS] --&gt; DS[Data Science] G[MS in SE] --&gt; SE[Software Engineering] H[MS in CIS] --&gt; CIS[Computer Information Systems] I[MS in MIS] --&gt; MIS[Management Information Systems] J[MS in IT] --&gt; IT[Information Technology] </description>
