@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sideidea on PaperMod</title>
+    <link>https://cuisiting.github.io/tags/sideidea/</link>
+    <description>Recent content in sideidea on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://cuisiting.github.io/images/papermod-cover.png</url>
+      <link>https://cuisiting.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://cuisiting.github.io/tags/sideidea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sideidea</title>
+      <link>https://cuisiting.github.io/posts/cuisiting/sideidea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cuisiting.github.io/posts/cuisiting/sideidea/</guid>
+      <description>keyword: 副业,idea,
+SideIdea</description>
+    </item>
+  </channel>
+</rss>

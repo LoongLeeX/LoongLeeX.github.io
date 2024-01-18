@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theme on PaperMod</title>
+    <link>https://cuisiting.github.io/tags/theme/</link>
+    <description>Recent content in theme on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://cuisiting.github.io/images/papermod-cover.png</url>
+      <link>https://cuisiting.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://cuisiting.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo-theme-learn 不支持 shortcode</title>
+      <link>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid>
+      <description>hugo-theme-learn 不支持 shortcode 按照 Hugo 官方关于自定义 shortcode 文档 https://gohugo.io/templates/shortcode-templates/ 设置如下 :
+在 layouts/shortcodes 创建文件，并添加
+&amp;lt;!-- rawhtml --&amp;gt; {{.Inner}} 在Test.md 中添加 图片
+结果：不能将 中的内容原样作为标签显示</description>
+    </item>
+  </channel>
+</rss>
