@@ -48,5 +48,26 @@
       <guid>https://cuisiting.github.io/tags/web/</guid>
       <description></description>
     </item>
+    <item>
+      <title>AWS</title>
+      <link>https://cuisiting.github.io/tags/aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cuisiting.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>instance</title>
+      <link>https://cuisiting.github.io/tags/instance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cuisiting.github.io/tags/instance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shadowsocket</title>
+      <link>https://cuisiting.github.io/tags/shadowsocket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cuisiting.github.io/tags/shadowsocket/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

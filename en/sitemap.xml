@@ -96,6 +96,10 @@
                 href="https://cuisiting.github.io/archives/"
                 />
   </url><url>
+    <loc>https://cuisiting.github.io/tags/aws/</loc>
+  </url><url>
+    <loc>https://cuisiting.github.io/tags/instance/</loc>
+  </url><url>
     <loc>https://cuisiting.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -109,5 +113,7 @@
                 />
   </url><url>
     <loc>https://cuisiting.github.io/series/</loc>
+  </url><url>
+    <loc>https://cuisiting.github.io/tags/shadowsocket/</loc>
   </url>
 </urlset>
