@@ -1,38 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Architecture on Cuisiting</title>
-    <link>https://cuisiting.github.io/tags/architecture/</link>
-    <description>Recent content in Architecture on Cuisiting</description>
-    <image>
-      <title>Cuisiting</title>
-      <url>https://cuisiting.github.io/images/papermod-cover.png</url>
-      <link>https://cuisiting.github.io/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cuisiting.github.io/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hadoop Architecture</title>
-      <link>https://cuisiting.github.io/posts/cuisiting/hadooparchitecture/</link>
-      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://cuisiting.github.io/posts/cuisiting/hadooparchitecture/</guid>
-      <description>keyword: Hadoop, big data, AI, Architecture
-Hadoop Architecture.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Architecture on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/architecture/</link><description>Recent content in Architecture on Hugo Theme Tailwind Example Site</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Xiaoliang Wang</copyright><lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/architecture/index.xml" rel="self" type="application/rss+xml"/><item><title>Hadoop Architecture</title><link>https://cuisiting.github.io/posts/cuisiting/hadooparchitecture/</link><pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hadooparchitecture/</guid><description>keyword: Hadoop, big data, AI, Architecture
+Hadoop Architecture .
 Apache Hadoop has the following three layers of Architecture.
 Map-Reduce
 YARN
 HDFS
-Map-Reduce YARN HDFS </description>
-    </item>
-    <item>
-      <title>Spark Architecture</title>
-      <link>https://cuisiting.github.io/posts/cuisiting/spark/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cuisiting.github.io/posts/cuisiting/spark/</guid>
-      <description>keyword: Spark, big date ,AI, Architecture
-Spark Architecture.</description>
-    </item>
-  </channel>
-</rss>
+Map-Reduce YARN HDFS</description></item><item><title>Spark Architecture</title><link>https://cuisiting.github.io/posts/cuisiting/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/spark/</guid><description>keyword: Spark, big date ,AI, Architecture
+Spark Architecture .</description></item></channel></rss>
