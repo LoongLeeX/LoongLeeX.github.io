@@ -1,1 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>软件性能 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD/</link><description>Recent content in 软件性能 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD/index.xml" rel="self" type="application/rss+xml"/><item><title>软件性能描述维度</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</guid><description>English Term English Explanation 中文名称 中文解释 Response Time The time taken for the system to respond to a request. 响应时间 系统接收到请求后，到返回响应所需要的时间。 Throughput The number of requests processed by the system per unit time. 吞吐量 系统在单位时间内处理的请求数量。 Concurrent Users The number of users simultaneously making requests to the system. 并发用户数 同时向系统发出请求的用户数量。 Load The amount of work given to the system over a period. 负载 在一定时间内施加给系统的工作量。 Latency The time taken for data to travel from one point to another.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>软件性能 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD/</link><description>Recent content in 软件性能 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD/index.xml" rel="self" type="application/rss+xml"/><item><title>软件性能描述维度</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">English Term&lt;/th>
+ &lt;th style="text-align: left">English Explanation&lt;/th>
+ &lt;th style="text-align: left">中文名称&lt;/th>
+ &lt;th style="text-align: left">中文解释&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Response Time&lt;/td>
+ &lt;td style="text-align: left">The time taken for the system to respond to a request.&lt;/td>
+ &lt;td style="text-align: left">响应时间&lt;/td>
+ &lt;td style="text-align: left">系统接收到请求后，到返回响应所需要的时间。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Throughput&lt;/td>
+ &lt;td style="text-align: left">The number of requests processed by the system per unit time.&lt;/td>
+ &lt;td style="text-align: left">吞吐量&lt;/td>
+ &lt;td style="text-align: left">系统在单位时间内处理的请求数量。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Concurrent Users&lt;/td>
+ &lt;td style="text-align: left">The number of users simultaneously making requests to the system.&lt;/td>
+ &lt;td style="text-align: left">并发用户数&lt;/td>
+ &lt;td style="text-align: left">同时向系统发出请求的用户数量。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Load&lt;/td>
+ &lt;td style="text-align: left">The amount of work given to the system over a period.&lt;/td>
+ &lt;td style="text-align: left">负载&lt;/td>
+ &lt;td style="text-align: left">在一定时间内施加给系统的工作量。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Latency&lt;/td>
+ &lt;td style="text-align: left">The time taken for data to travel from one point to another.&lt;/td>
+ &lt;td style="text-align: left">延迟&lt;/td>
+ &lt;td style="text-align: left">数据从一个点传输到另一个点所花费的时间。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Bottleneck&lt;/td>
+ &lt;td style="text-align: left">The limiting factor in system performance.&lt;/td>
+ &lt;td style="text-align: left">瓶颈&lt;/td>
+ &lt;td style="text-align: left">系统性能的限制因素。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Stability Testing&lt;/td>
+ &lt;td style="text-align: left">Testing system performance and stability over an extended period.&lt;/td>
+ &lt;td style="text-align: left">稳定性测试&lt;/td>
+ &lt;td style="text-align: left">测试系统在长时间运行下的性能和稳定性。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Stress Testing&lt;/td>
+ &lt;td style="text-align: left">Testing system performance under extreme conditions.&lt;/td>
+ &lt;td style="text-align: left">压力测试&lt;/td>
+ &lt;td style="text-align: left">测试系统在极端条件下的性能。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Load Testing&lt;/td>
+ &lt;td style="text-align: left">Testing system performance under expected load.&lt;/td>
+ &lt;td style="text-align: left">负载测试&lt;/td>
+ &lt;td style="text-align: left">测试系统在预期负载下的性能。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Capacity Planning&lt;/td>
+ &lt;td style="text-align: left">Predicting and planning for the resources needed for future system loads.&lt;/td>
+ &lt;td style="text-align: left">容量规划&lt;/td>
+ &lt;td style="text-align: left">预测和规划系统需要的资源。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Benchmarking&lt;/td>
+ &lt;td style="text-align: left">Comparing the performance of different systems or configurations using standard tests.&lt;/td>
+ &lt;td style="text-align: left">基准测试&lt;/td>
+ &lt;td style="text-align: left">通过运行一组标准测试，比较不同系统或配置的性能。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Cache Hit Rate&lt;/td>
+ &lt;td style="text-align: left">The ratio of cache accesses that result in a hit compared to the total number of accesses.&lt;/td>
+ &lt;td style="text-align: left">缓存命中率&lt;/td>
+ &lt;td style="text-align: left">缓存访问的命中次数与总访问次数的比率。&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>

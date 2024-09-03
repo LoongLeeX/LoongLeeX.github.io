@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MongoDB on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/mongodb/</link><description>Recent content in MongoDB on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/mongodb/index.xml" rel="self" type="application/rss+xml"/><item><title>MongoDB</title><link>https://cuisiting.github.io/posts/cuisiting/mongodb-usage/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/mongodb-usage/</guid><description>Install Install MongoDB Community Edition — MongoDB Manual Start Stop brew services stop mongodb-community CURD Insert Documents — MongoDB Manual UI client MongoDB Compass Download (GUI) | MongoDB</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MongoDB on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/mongodb/</link><description>Recent content in MongoDB on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/mongodb/index.xml" rel="self" type="application/rss+xml"/><item><title>MongoDB</title><link>https://cuisiting.github.io/posts/cuisiting/mongodb-usage/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/mongodb-usage/</guid><description>&lt;h1 id="install">Install&lt;/h1>
+&lt;p>&lt;a href="https://www.mongodb.com/docs/manual/administration/install-community/" target="_blank" rel="noopener">Install MongoDB Community Edition — MongoDB Manual&lt;/a>
+&lt;/p>
+&lt;h1 id="start">Start&lt;/h1>
+&lt;pre tabindex="0">&lt;code>&lt;/code>&lt;/pre>&lt;h1 id="stop">Stop&lt;/h1>
+&lt;pre tabindex="0">&lt;code>brew services stop mongodb-community
+&lt;/code>&lt;/pre>&lt;h1 id="curd">CURD&lt;/h1>
+&lt;p>&lt;a href="https://www.mongodb.com/docs/manual/tutorial/insert-documents/" target="_blank" rel="noopener">Insert Documents — MongoDB Manual&lt;/a>
+&lt;/p>
+&lt;h1 id="ui-client">UI client&lt;/h1>
+&lt;p>&lt;a href="https://www.mongodb.com/try/download/compass" target="_blank" rel="noopener">MongoDB Compass Download (GUI) | MongoDB&lt;/a>
+&lt;/p></description></item></channel></rss>

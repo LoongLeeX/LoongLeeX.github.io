@@ -1,8 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hive on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/hive/</link><description>Recent content in Hive on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/hive/index.xml" rel="self" type="application/rss+xml"/><item><title>Hadoop Architecture</title><link>https://cuisiting.github.io/posts/cuisiting/hadooparchitecture/</link><pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hadooparchitecture/</guid><description>keyword: Hadoop, big data, AI, Architecture
-Hadoop Architecture .
-Apache Hadoop has the following three layers of Architecture.
-Map-Reduce
-YARN
-HDFS
-Map-Reduce YARN
-HDFS</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hive on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/hive/</link><description>Recent content in Hive on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/hive/index.xml" rel="self" type="application/rss+xml"/><item><title>Hadoop Architecture</title><link>https://cuisiting.github.io/posts/cuisiting/hadooparchitecture/</link><pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hadooparchitecture/</guid><description>&lt;p>keyword: Hadoop, big data, AI, Architecture&lt;/p>
+&lt;p>&lt;a href="https://www.cloudduggu.com/hadoop/architecture/" target="_blank" rel="noopener">Hadoop Architecture&lt;/a>
+.&lt;/p>
+&lt;p>Apache Hadoop has the following three layers of Architecture.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Map-Reduce&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>YARN&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>HDFS&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item></channel></rss>

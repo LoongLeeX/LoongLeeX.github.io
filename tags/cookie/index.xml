@@ -1,3 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cookie on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/cookie/</link><description>Recent content in Cookie on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/cookie/index.xml" rel="self" type="application/rss+xml"/><item><title>WebPageData2</title><link>https://cuisiting.github.io/posts/cuisiting/webpagedata2/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/webpagedata2/</guid><description>对比 LocalStorage、SessionStorage、IndexedDB和Cookies四种客户端存储技术的关键特性：
-特性 LocalStorage SessionStorage IndexedDB Cookies 数据生命周期 持久存储，除非用户或脚本手动删除 页面会话期间，窗口或标签页关闭则数据消失 持久存储，除非用户或脚本手动删除 设置的有效期内，或直至手动删除 存储容量 约5MB 约5MB 无明确限制，但可能受硬盘容量影响 每个cookie最大约4KB，每个域名限制数量不同 访问性 同源策略限制 同源策略限制，仅限当前页面会话 同源策略限制 所有请求都会携带，可跨域（如果设置了Domain属性） 数据格式 字符串 字符串 支持多种数据格式，包括二进制数据 字符串 与服务器通信 不自动发送，需要通过AJAX/Fetch等手动发送 不自动发送，需要通过AJAX/Fetch等手动发送 不自动发送，需要通过AJAX/Fetch等手动发送 自动随每个HTTP请求发送到服务器 使用场景 长期保存大量数据（如用户偏好设置） 单页面会话数据（如表单输入） 大型数据集合，如离线应用数据 身份验证，跟踪用户会话 安全性 相对较高，但需防止XSS攻击 相对较高，但需防止XSS攻击 相对较高，但需防止XSS攻击 较低，特别是未设置HttpOnly标志时容易受到CSRF攻击 **LocalStorage ** or SessionStorage
-// 设置localStorage localStorage.setItem(&amp;#39;key&amp;#39;, &amp;#39;localStorage value顶顶顶顶的点点滴滴&amp;#39;); // 设置sessionStorage sessionStorage.setItem(&amp;#39;key&amp;#39;, &amp;#39;设置sessionStorage value顶顶顶顶的点点滴滴&amp;#39;); // 获取sessionStorage var sessionData = sessionStorage.getItem(&amp;#39;key&amp;#39;); // 获取localStorage var localStorageData = localStorage.getItem(&amp;#39;key&amp;#39;); console.log(&amp;#34;localStorageData:&amp;#34;+localStorageData); console.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cookie on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/cookie/</link><description>Recent content in Cookie on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/cookie/index.xml" rel="self" type="application/rss+xml"/><item><title>WebPageData2</title><link>https://cuisiting.github.io/posts/cuisiting/webpagedata2/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/webpagedata2/</guid><description>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/blog/javascript_cookie_data_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;h1 id="对比">对比&lt;/h1>
+&lt;p>LocalStorage、SessionStorage、IndexedDB和Cookies四种客户端存储技术的关键特性：&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">特性&lt;/th>
+ &lt;th style="text-align: left">LocalStorage&lt;/th>
+ &lt;th style="text-align: left">SessionStorage&lt;/th>
+ &lt;th style="text-align: left">IndexedDB&lt;/th>
+ &lt;th style="text-align: left">Cookies&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">数据生命周期&lt;/td>
+ &lt;td style="text-align: left">持久存储，除非用户或脚本手动删除&lt;/td>
+ &lt;td style="text-align: left">页面会话期间，窗口或标签页关闭则数据消失&lt;/td>
+ &lt;td style="text-align: left">持久存储，除非用户或脚本手动删除&lt;/td>
+ &lt;td style="text-align: left">设置的有效期内，或直至手动删除&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">存储容量&lt;/td>
+ &lt;td style="text-align: left">约5MB&lt;/td>
+ &lt;td style="text-align: left">约5MB&lt;/td>
+ &lt;td style="text-align: left">无明确限制，但可能受硬盘容量影响&lt;/td>
+ &lt;td style="text-align: left">每个cookie最大约4KB，每个域名限制数量不同&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">访问性&lt;/td>
+ &lt;td style="text-align: left">同源策略限制&lt;/td>
+ &lt;td style="text-align: left">同源策略限制，仅限当前页面会话&lt;/td>
+ &lt;td style="text-align: left">同源策略限制&lt;/td>
+ &lt;td style="text-align: left">所有请求都会携带，可跨域（如果设置了&lt;code>Domain&lt;/code>属性）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">数据格式&lt;/td>
+ &lt;td style="text-align: left">字符串&lt;/td>
+ &lt;td style="text-align: left">字符串&lt;/td>
+ &lt;td style="text-align: left">支持多种数据格式，包括二进制数据&lt;/td>
+ &lt;td style="text-align: left">字符串&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">与服务器通信&lt;/td>
+ &lt;td style="text-align: left">不自动发送，需要通过AJAX/Fetch等手动发送&lt;/td>
+ &lt;td style="text-align: left">不自动发送，需要通过AJAX/Fetch等手动发送&lt;/td>
+ &lt;td style="text-align: left">不自动发送，需要通过AJAX/Fetch等手动发送&lt;/td>
+ &lt;td style="text-align: left">自动随每个HTTP请求发送到服务器&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">使用场景&lt;/td>
+ &lt;td style="text-align: left">长期保存大量数据（如用户偏好设置）&lt;/td>
+ &lt;td style="text-align: left">单页面会话数据（如表单输入）&lt;/td>
+ &lt;td style="text-align: left">大型数据集合，如离线应用数据&lt;/td>
+ &lt;td style="text-align: left">身份验证，跟踪用户会话&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">安全性&lt;/td>
+ &lt;td style="text-align: left">相对较高，但需防止XSS攻击&lt;/td>
+ &lt;td style="text-align: left">相对较高，但需防止XSS攻击&lt;/td>
+ &lt;td style="text-align: left">相对较高，但需防止XSS攻击&lt;/td>
+ &lt;td style="text-align: left">较低，特别是未设置HttpOnly标志时容易受到CSRF攻击&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>**LocalStorage ** or &lt;strong>SessionStorage&lt;/strong>&lt;/p></description></item></channel></rss>

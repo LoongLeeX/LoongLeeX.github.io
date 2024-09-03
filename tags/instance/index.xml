@@ -1,7 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Instance on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/instance/</link><description>Recent content in Instance on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/instance/index.xml" rel="self" type="application/rss+xml"/><item><title>Aws Shadowsocket</title><link>https://cuisiting.github.io/posts/cuisiting/awsshadowsocket/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/awsshadowsocket/</guid><description>keyword: AWS instance
-创建key 用于 ssh 鉴权登陆
-创建成功后，查看instance Details ip , ssh 登陆
-chmod 400 [your pem path] ssh -i [your pem path] admin@your_ip 安装 shadowsocket docker docker pull shadowsocks/shadowsocks-libev 指定 shadowsocks container 的端口，检查你的云服务是否开启了该端口
-启动 docker instance
-检查你的云服务是否开启了该端口
-ps=&amp;lt;你的密码&amp;gt; port=&amp;lt;你的端口&amp;gt; docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always shadowsocks/shadowsocks-libev</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Instance on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/instance/</link><description>Recent content in Instance on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/instance/index.xml" rel="self" type="application/rss+xml"/><item><title>Aws Shadowsocket</title><link>https://cuisiting.github.io/posts/cuisiting/awsshadowsocket/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/awsshadowsocket/</guid><description>&lt;p>keyword: AWS instance&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/aws_instance_name.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>创建key 用于 ssh 鉴权登陆&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/aws_instance_create_key.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item></channel></rss>

@@ -1,7 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ffmpeg on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/ffmpeg/</link><description>Recent content in Ffmpeg on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml"/><item><title>Youtube DL</title><link>https://cuisiting.github.io/posts/cuisiting/python-merge-concat-webm-and-mp3/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/python-merge-concat-webm-and-mp3/</guid><description>Download for webm(without audio)
-SSYouTube: Online Video Downloader - SSYouTube.com for audio
-Yt5s Video Youtube Downloader For Free Install 安装ffmpeg brew install ffmpeg 安装 ffmpeg 的python api
-注意是 pip install ffmpeg-python
-instead of pip install ffmpeg pip install ffmpeg-python 如果已经安装了 module 为 ffmpeg 的api，则先uninstall
-注意此处区分 brew install 和 pip install 的区别
-pip uninstall ffmpeg pip uninstall ffmpeg-python pip install ffmpeg-python AttributeError: module &amp;lsquo;ffmpeg&amp;rsquo; has no attribute &amp;lsquo;input&amp;rsquo; · Issue #174 · kkroening/ffmpeg-python (github.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ffmpeg on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/ffmpeg/</link><description>Recent content in Ffmpeg on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml"/><item><title>Youtube DL</title><link>https://cuisiting.github.io/posts/cuisiting/python-merge-concat-webm-and-mp3/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/python-merge-concat-webm-and-mp3/</guid><description>&lt;h1 id="download">Download&lt;/h1>
+&lt;p>for webm(without audio)&lt;br>
+&lt;a href="https://ssyoutube.com/en771qN/" target="_blank" rel="noopener">SSYouTube: Online Video Downloader - SSYouTube.com&lt;/a>
+&lt;/p>
+&lt;p>for audio&lt;br>
+&lt;a href="https://yt5s.biz/en/" target="_blank" rel="noopener">Yt5s Video Youtube Downloader For Free&lt;/a>
+&lt;/p>
+&lt;h1 id="install">Install&lt;/h1>
+&lt;ol>
+&lt;li>安装ffmpeg&lt;/li>
+&lt;/ol>
+&lt;pre tabindex="0">&lt;code>brew install ffmpeg
+&lt;/code>&lt;/pre>&lt;ol start="2">
+&lt;li>安装 ffmpeg 的python api&lt;br>
+注意是 &lt;code>pip install ffmpeg-python&lt;/code>&lt;br>
+instead of &lt;code>pip install ffmpeg&lt;/code>&lt;/li>
+&lt;/ol>
+&lt;pre tabindex="0">&lt;code>pip install ffmpeg-python
+&lt;/code>&lt;/pre>&lt;p>如果已经安装了 module 为 ffmpeg 的api，则先uninstall&lt;br>
+注意此处区分 &lt;code>brew install&lt;/code> 和 &lt;code>pip install&lt;/code> 的区别&lt;/p></description></item></channel></rss>

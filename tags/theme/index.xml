@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theme on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/theme/</link><description>Recent content in Theme on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>hugo-theme-learn 不支持 shortcode 按照 Hugo 官方关于自定义 shortcode 文档 https://gohugo.io/templates/shortcode-templates/ 设置如下 :
-在 layouts/shortcodes 创建文件，并添加
-&amp;lt;!-- rawhtml --&amp;gt; {{.Inner}} 在Test.md 中添加 图片
-结果：不能将 中的内容原样作为标签显示</description></item><item><title>Hugo Theme Colletion</title><link>https://cuisiting.github.io/posts/cuisiting/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugotheme/</guid><description> https://themes.gohugo.io/tags/blog/ https://themes.gohugo.io/themes/hugo-theme-tailwind/ https://perplex.desider.at/blog/ https://neonmirrors.net/ https://hbs.razonyang.com/v1/en/categories/ https://themes.gohugo.io/themes/hugo-dead-simple/</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theme on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/theme/</link><description>Recent content in Theme on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>&lt;h1 id="hugo-theme-learn-不支持-shortcode">hugo-theme-learn 不支持 shortcode&lt;/h1>
+&lt;p>按照 Hugo 官方关于自定义 shortcode 文档 &lt;a href="https://gohugo.io/templates/shortcode-templates/" target="_blank" rel="noopener">https://gohugo.io/templates/shortcode-templates/&lt;/a>
+&lt;br>
+设置如下 :&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>在 &lt;code>layouts/shortcodes&lt;/code> 创建文件，并添加&lt;/p>
+&lt;pre tabindex="0">&lt;code>&amp;lt;!-- rawhtml --&amp;gt;
+{{.Inner}}
+&lt;/code>&lt;/pre>&lt;/li>
+&lt;li>
+&lt;p>在Test.md 中添加 图片&lt;/p>
+&lt;pre tabindex="0">&lt;code>
+ &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image.png" style="width:50%;">
+ 
+&lt;/code>&lt;/pre>&lt;/li>
+&lt;/ol>
+&lt;p>结果：不能将 &lt;rawhtml> 中的内容原样作为标签显示&lt;/p></description></item><item><title>Hugo Theme Colletion</title><link>https://cuisiting.github.io/posts/cuisiting/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugotheme/</guid><description>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hugo_theme_logo_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>&lt;a href="https://themes.gohugo.io/tags/blog/" target="_blank" rel="noopener">https://themes.gohugo.io/tags/blog/&lt;/a>
+&lt;/p>
+&lt;p>&lt;a href="https://themes.gohugo.io/themes/hugo-theme-tailwind/" target="_blank" rel="noopener">https://themes.gohugo.io/themes/hugo-theme-tailwind/&lt;/a>
+&lt;br>
+&lt;a href="https://perplex.desider.at/blog/" target="_blank" rel="noopener">https://perplex.desider.at/blog/&lt;/a>
+&lt;br>
+&lt;a href="https://neonmirrors.net/" target="_blank" rel="noopener">https://neonmirrors.net/&lt;/a>
+&lt;br>
+&lt;a href="https://hbs.razonyang.com/v1/en/categories/" target="_blank" rel="noopener">https://hbs.razonyang.com/v1/en/categories/&lt;/a>
+&lt;br>
+&lt;a href="https://themes.gohugo.io/themes/hugo-dead-simple/" target="_blank" rel="noopener">https://themes.gohugo.io/themes/hugo-dead-simple/&lt;/a>
+&lt;/p></description></item></channel></rss>
