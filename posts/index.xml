@@ -45,6 +45,29 @@ Online Analytical Processing&lt;br>
  width="50%"
  >
  &lt;/figure>&lt;/div>
+&lt;/p>
+
+ 
+&lt;video controls width="250">
+ &lt;source src="https://cuisiting.github.io/bi/english_word_content.mov" type="video/mp4" />
+&lt;/video>
+
+ 
+&lt;p>&lt;a href="https://forvo.com/search/Desert/en_usa/" target="_blank" rel="noopener">Pronunciations for Desert in English (from desert pupfish to I was deserted - left behind in the vast desert.) (forvo.com)&lt;/a>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/english_practice_2.png"
+ alt="img#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>&lt;a href="https://www.blairenglish.com/pronunciation/exercises/countries-regions-cities/online-english-pronunciation-exercise-countries-regions-cities.html" target="_blank" rel="noopener">在线英语发音练习：国家、地区和城市 |布莱尔英语 &amp;mdash; Online English pronunciation exercise: Countries, regions &amp;amp; cities | Blair English&lt;/a>
 &lt;/p></description></item><item><title>英语介词 English Preposition</title><link>https://cuisiting.github.io/posts/cuisiting/english%E4%BB%8B%E8%AF%8D/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/english%E4%BB%8B%E8%AF%8D/</guid><description>&lt;p>&lt;a href="https://www.english-grammar-revolution.com/list-of-prepositions.html" target="_blank" rel="noopener">english-grammar-revolution.com&lt;/a>
 &lt;br>
 
@@ -86,7 +109,78 @@ Online Analytical Processing&lt;br>
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>Flow Diagram</title><link>https://cuisiting.github.io/posts/cuisiting/flowdiagram/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/flowdiagram/</guid><description>&lt;p>keyword: Flow Diagram, product , efficiency, 工程效率&lt;/p>
+&lt;/p>
+&lt;ol>
+&lt;li>Map-Reduce&lt;/li>
+&lt;/ol>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_map_reduce.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;ol start="2">
+&lt;li>
+&lt;p>YARN&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi//hadoop_architecture_yarn.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>HDFS&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_2.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_3.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Flow Diagram</title><link>https://cuisiting.github.io/posts/cuisiting/flowdiagram/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/flowdiagram/</guid><description>&lt;p>keyword: Flow Diagram, product , efficiency, 工程效率&lt;/p>
 &lt;h2 id="最好的-流程图-架构图-软件">最好的 流程图 架构图 软件&lt;/h2></description></item><item><title>Docker</title><link>https://cuisiting.github.io/posts/cuisiting/docker/</link><pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/docker/</guid><description>&lt;p>keyword: Docker&lt;/p>
 &lt;p>&lt;a href="https://docs.docker.com/desktop/faqs/linuxfaqs/#:~:text=What%20is%20the%20difference%20between,technology%20that%20powers%20Docker%20containers." target="_blank" rel="noopener">What is the difference between Docker Desktop for Linux and Docker Engine?&lt;/a>
 &lt;/p>
@@ -109,7 +203,7 @@ echo \
  $(. /etc/os-release &amp;amp;&amp;amp; echo &amp;#34;$VERSION_CODENAME&amp;#34;) stable&amp;#34; | \
  sudo tee /etc/apt/sources.list.d/docker.list &amp;gt; /dev/null
 sudo apt-get update
-&lt;/code>&lt;/pr</description></item><item><title>Aws Shadowsocket</title><link>https://cuisiting.github.io/posts/cuisiting/awsshadowsocket/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/awsshadowsocket/</guid><description>&lt;p>keyword: AWS instance&lt;/p>
+&lt;/code>&lt;/pre>&lt;p>Install the Docker packages.&lt;/p></description></item><item><title>Aws Shadowsocket</title><link>https://cuisiting.github.io/posts/cuisiting/awsshadowsocket/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/awsshadowsocket/</guid><description>&lt;p>keyword: AWS instance&lt;/p>
 &lt;p>
 
 
@@ -129,6 +223,55 @@ sudo apt-get update
 &lt;div class="not-prose">
 &lt;figure>
  &lt;img src="https://cuisiting.github.io/bi/aws_instance_create_key.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>创建成功后，查看instance Details ip , ssh 登陆&lt;/p>
+&lt;pre tabindex="0">&lt;code>chmod 400 [your pem path]
+ssh -i [your pem path] admin@your_ip
+&lt;/code>&lt;/pre>&lt;p>安装 &lt;a href="https://github.com/shadowsocks/shadowsocks-libev/blob/master/docker/alpine/README.md" target="_blank" rel="noopener">shadowsocket docker&lt;/a>
+&lt;/p>
+&lt;pre tabindex="0">&lt;code>docker pull shadowsocks/shadowsocks-libev
+&lt;/code>&lt;/pre>&lt;p>指定 shadowsocks container 的端口，检查你的云服务是否开启了该端口&lt;br>
+启动 docker instance&lt;br>
+检查你的云服务是否开启了该端口&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/aws_instance_check_port.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;pre tabindex="0">&lt;code>ps=&amp;lt;你的密码&amp;gt;
+port=&amp;lt;你的端口&amp;gt;
+
+docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always shadowsocks/shadowsocks-libev
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/aws_change_port_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/aws_change_port_2.png"
  alt="image#width=50%" 
  loading="lazy"
  width="50%"
@@ -155,7 +298,10 @@ sudo apt-get update
 			&amp;#34;path&amp;#34;: &amp;#34;~/Desktop&amp;#34;
 		}
 	},
-&lt;/code>&lt;/pr</description></item><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>&lt;h1 id="hugo-theme-learn-不支持-shortcode">hugo-theme-learn 不支持 shortcode&lt;/h1>
+&lt;/code>&lt;/pre>&lt;p>解决办法:&lt;br>
+为 上述文件创建文件链接&lt;/p>
+&lt;pre tabindex="0">&lt;code>格式：ln [原文件] [硬链接文件]
+&lt;/code>&lt;/pre></description></item><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>&lt;h1 id="hugo-theme-learn-不支持-shortcode">hugo-theme-learn 不支持 shortcode&lt;/h1>
 &lt;p>按照 Hugo 官方关于自定义 shortcode 文档 &lt;a href="https://gohugo.io/templates/shortcode-templates/" target="_blank" rel="noopener">https://gohugo.io/templates/shortcode-templates/&lt;/a>
 &lt;br>
 设置如下 :&lt;/p>
@@ -179,7 +325,11 @@ sudo apt-get update
 &lt;pre tabindex="0">&lt;code>hugo new site &amp;lt;new_project&amp;gt;
 &lt;/code>&lt;/pre>&lt;h2 id="install-the-theme">Install the theme&lt;/h2>
 &lt;p>Install the &lt;strong>Hugo-theme-learn&lt;/strong> theme by following &lt;a href="https://gohugo.io/getting-started/quick-start/#step-3-add-a-theme" target="_blank" rel="noopener">this documentation&lt;/a>
-&lt;/p></description></item><item><title>macos inputmethod auto switch</title><link>https://cuisiting.github.io/posts/cuisiting/macos_inputmethod_auto_switch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/macos_inputmethod_auto_switch/</guid><description>&lt;p>keyword: macos, inputmethod ,auto ,switch&lt;/p>
+&lt;/p>
+&lt;p>This theme&amp;rsquo;s repository is: &lt;a href="https://github.com/matcornic/hugo-theme-learn.git" target="_blank" rel="noopener">https://github.com/matcornic/hugo-theme-learn.git&lt;/a>
+&lt;/p>
+&lt;p>Alternatively, you can &lt;a href="https://github.com/matcornic/hugo-theme-learn/archive/master.zip" target="_blank" rel="noopener">download the theme as .zip&lt;/a>
+ file and extract it in the &lt;code>themes&lt;/code> directory&lt;/p></description></item><item><title>macos inputmethod auto switch</title><link>https://cuisiting.github.io/posts/cuisiting/macos_inputmethod_auto_switch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/macos_inputmethod_auto_switch/</guid><description>&lt;p>keyword: macos, inputmethod ,auto ,switch&lt;/p>
 &lt;p>&lt;a href="https://github.com/minoki/InputSourceSelector" target="_blank" rel="noopener">InputSourceSelector&lt;/a>
 &lt;/p>
 &lt;pre tabindex="0">&lt;code># 查看
@@ -243,7 +393,85 @@ InputSourceSelector select
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://cuisiting.github.io/posts/cuisiting/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求">环境要求&lt;/h2>
+&lt;/p>
+&lt;p>&lt;a href="https://www.databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html" target="_blank" rel="noopener">Case Study 3&lt;/a>
+.&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/h_s_spark_key_terms.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>&lt;a href="https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671" target="_blank" rel="noopener">Case Study 4&lt;/a>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/h_s_data_engineering_end_end.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;h2 id="hadoop-vs-spark-使用场景">Hadoop vs Spark: 使用场景&lt;/h2>
+&lt;h3 id="hadoop-使用场景">Hadoop 使用场景&lt;/h3>
+&lt;p>Hadoop 适合以下场景：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>大规模数据存储和处理&lt;/strong>:
+&lt;ul>
+&lt;li>当需要处理 PB 级别的数据时，Hadoop 的 HDFS 提供了一个可靠的存储解决方案。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>高吞吐量的批处理作业&lt;/strong>:
+&lt;ul>
+&lt;li>对于需要高吞吐量而不是低延迟的长时间运行的批处理作业，Hadoop 是理想的选择。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>成本效益的解决方案&lt;/strong>:
+&lt;ul>
+&lt;li>对于预算有限的项目，Hadoop 的开源特性使其成为一种成本效益高的选择。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>兼容性和成熟的生态系统&lt;/strong>:
+&lt;ul>
+&lt;li>Hadoop 已经成熟，拥有一个庞大的生态系统，适用于各种数据处理需求。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="spark-使用场景">Spark 使用场景&lt;/h3>
+&lt;p>Spark 适合以下场景：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>快速数据处理和实时分析&lt;/strong>:
+&lt;ul>
+&lt;li>当需要快速处理数据或进行实时数据分析时，Spark 的内存计算功能提供了显著的速度优势。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>迭代算法和机器学习&lt;/strong>:
+&lt;ul>
+&lt;li>对于需要迭代计算的机器学习算法，Spark 的内存计算比 Hadoop 更高效。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>多种数据处理格式&lt;/strong>:
+&lt;ul>
+&lt;li>如果需要支持多种数据处理方式（批处理、流处理、交互式查询、机器学习），Spark 提供了一站式解决方案。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>高级分析&lt;/strong>:
+&lt;ul>
+&lt;li>Spark 支持 SQL 查询、流处理和复杂的分析，这些在 Hadoop MapReduce 中不那么容易实现。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>根据项目需求和资源情况，可以选择适合的框架。在某些复杂的项目中，Hadoop 和 Spark 可以并行使用，以充分利用两者的优势。&lt;/p></description></item><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://cuisiting.github.io/posts/cuisiting/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求">环境要求&lt;/h2>
 &lt;p>git&lt;/p>
 &lt;h2 id="开始盖别墅">开始盖别墅&lt;/h2>
 &lt;ol>
@@ -261,7 +489,42 @@ InputSourceSelector select
  
  # 部署到本地查看一下
  hugo server
-&lt;/code>&lt;/pr</description></item><item><title>好产品, StepNpull, 卫生间</title><link>https://cuisiting.github.io/posts/cuisiting/stepnpull/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/stepnpull/</guid><description>&lt;p>StepNpul&lt;/p>
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/image.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>至此，我们在本地电脑上，创建一个hugo 工程来存储blog 文件&lt;/p>
+&lt;p>小练习：增加一篇Blog，按如下的目录结构 添加文件 ，注意 需要创建 _index.md &amp;amp; 格式&lt;/p>
+&lt;pre tabindex="0">&lt;code>RootProject
+ └──content/
+ ├── _index.md
+ └── 个人随想
+ ├── _index.md
+ └── my_first.md
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/image-3.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+3. 如上，我们在本地电脑上，创建一个 工程MyBlog 来存储blog 文件。&lt;br>
+4. 但是我们最终是需要将Blog 发布到 自由 、广大的互联网上。&lt;br>
+5. 现在我们用一种成本最小，但体验极佳的方式 将我们的Blog发布&lt;br>
+6. 创建2个仓库https://github.com/new&lt;/p></description></item><item><title>好产品, StepNpull, 卫生间</title><link>https://cuisiting.github.io/posts/cuisiting/stepnpull/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/stepnpull/</guid><description>&lt;p>StepNpul&lt;/p>
 &lt;p>
 
 
@@ -287,6 +550,13 @@ InputSourceSelector select
  width="20%"
  >
  &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>&lt;a href="https://www.bilibili.com/video/av844366428/?bsource=sogou&amp;amp;fr=seo.bilibili.com" target="_blank" rel="noopener">《飞行家》片段 莱昂纳多严重洁癖厕所疯狂洗手&lt;br>
+&lt;/a>
+&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=krBsPw-c2XU&amp;amp;ab_channel=StepNpull" target="_blank" rel="noopener">场景 1&lt;/a>
+&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=hac0h5IMmm4&amp;amp;ab_channel=StepNpull" target="_blank" rel="noopener">场景 2&lt;/a>
 &lt;/p></description></item><item><title>湾区好公司</title><link>https://cuisiting.github.io/posts/cuisiting/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</guid><description>&lt;p>keyword: 亚麻,八卦, 湾区,&lt;/p>
 &lt;h2 id="湾区好公司">湾区好公司&lt;/h2>
 &lt;p>&lt;a href="https://www.intuit.com/" target="_blank" rel="noopener">https://www.intuit.com/&lt;/a>
@@ -359,7 +629,14 @@ InputSourceSelector select
 
 {{- $image_width := index $image_para_json &amp;#34;width&amp;#34; -}}
 {{- $image_height := index $image_para_json &amp;#34;height&amp;#34; -}}
-&lt;/code>&lt;/pr</description></item><item><title>从老外说汉语的腔调看英语发音特点</title><link>https://cuisiting.github.io/posts/cuisiting/%E4%BB%8E%E8%80%81%E5%A4%96%E8%AF%B4%E6%B1%89%E8%AF%AD%E7%9A%84%E8%85%94%E8%B0%83%E7%9C%8B%E8%8B%B1%E8%AF%AD%E5%8F%91%E9%9F%B3%E7%89%B9%E7%82%B9/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E4%BB%8E%E8%80%81%E5%A4%96%E8%AF%B4%E6%B1%89%E8%AF%AD%E7%9A%84%E8%85%94%E8%B0%83%E7%9C%8B%E8%8B%B1%E8%AF%AD%E5%8F%91%E9%9F%B3%E7%89%B9%E7%82%B9/</guid><description>&lt;p>又一次体会到类似《周易》中的阴阳转换。&lt;/p>
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code>&amp;lt;img src=&amp;#34;{{ $hugo_build_file_path }}&amp;#34;
+ alt=&amp;#34;{{ .Text }}&amp;#34; {{ with .Title }} title=&amp;#34;{{ . }}&amp;#34; {{ end }}
+
+ loading=&amp;#34;lazy&amp;#34;
+
+ width=&amp;#34;{{ $image_width }}&amp;#34;
+&amp;gt;
+&lt;/code>&lt;/pre></description></item><item><title>从老外说汉语的腔调看英语发音特点</title><link>https://cuisiting.github.io/posts/cuisiting/%E4%BB%8E%E8%80%81%E5%A4%96%E8%AF%B4%E6%B1%89%E8%AF%AD%E7%9A%84%E8%85%94%E8%B0%83%E7%9C%8B%E8%8B%B1%E8%AF%AD%E5%8F%91%E9%9F%B3%E7%89%B9%E7%82%B9/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E4%BB%8E%E8%80%81%E5%A4%96%E8%AF%B4%E6%B1%89%E8%AF%AD%E7%9A%84%E8%85%94%E8%B0%83%E7%9C%8B%E8%8B%B1%E8%AF%AD%E5%8F%91%E9%9F%B3%E7%89%B9%E7%82%B9/</guid><description>&lt;p>又一次体会到类似《周易》中的阴阳转换。&lt;/p>
 &lt;p>在练习英语翻译的过程中，我始终无法掌握英语的音节、弱读和重音等这些技巧。某个时候，我突然想起自己听外国人说中文时，也会觉得他们的发音怪怪的。这种怪异感应该是因为他们把英语的连读等发音习惯带到了中文发音中。&lt;/p>
 &lt;p>我突然意识到，外国人在说中文时犯的错误，恰恰是我们中国人练习英语发音的一面镜子。在练习英语发音时，我们就要像外国人说中文那样，有一种特定的口音。我们可以先尝试模仿外国人说中文的语调，去体会他们的语言是一种怎样的感觉，而不是一字一句地读。&lt;/p>
 &lt;p>从来没有想到一天既然可以从别人的搞笑发音中获得灵感，&lt;/p></description></item><item><title>对比前端框架</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%AF%B9%E6%AF%94%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%AF%B9%E6%AF%94%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</guid><description>&lt;p>🎉 Web component JS frameworks overview by their syntax and features&lt;br>
@@ -572,7 +849,18 @@ InputSourceSelector select
 &lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;strong>Python NLTK Library&lt;/strong> - 如果你熟悉编程，可以使用Python的NLTK库，它提供了计算编辑距离的功能，可以用来查找编辑距离为一的单词。&lt;/p></description></item><item><title>软件性能描述维度</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</guid><description>&lt;table>
+&lt;p>&lt;strong>Python NLTK Library&lt;/strong> - 如果你熟悉编程，可以使用Python的NLTK库，它提供了计算编辑距离的功能，可以用来查找编辑距离为一的单词。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>使用方法: 安装NLTK库后，可以使用以下代码：&lt;/p>
+&lt;p>python&lt;/p>
+&lt;p>Copy code&lt;/p>
+&lt;p>&lt;code>import nltk from nltk.corpus import words nltk.download('words') def edit_distance_one(word): word_list = words.words() return [w for w in word_list if nltk.edit_distance(word, w) == 1] result = edit_distance_one(&amp;quot;example&amp;quot;) print(result)&lt;/code>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>这些工具和网站可以帮助你查找与给定单词编辑距离为一的所有单词。&lt;/p></description></item><item><title>软件性能描述维度</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th style="text-align: left">English Term&lt;/th>
@@ -716,7 +1004,45 @@ export HISTCONTROL=ignoreboth:erasedups
 &lt;/table>
 &lt;h1 id="网站托管--部署">网站托管 &amp;amp; 部署&lt;/h1>
 &lt;p>托管: 一般是静态网站&lt;br>
-部署：一般是具有后台计算的服务&lt;/p></description></item><item><title>MTBI</title><link>https://cuisiting.github.io/posts/cuisiting/mtbi/</link><pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/mtbi/</guid><description>&lt;h1 id="test">Test&lt;/h1>
+部署：一般是具有后台计算的服务&lt;/p>
+&lt;h1 id="cloudflare">Cloudflare&lt;/h1>
+&lt;p>不想流量被打爆，就上它&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_1_add_NameServers.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_2_add_NameServers.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_3_github_page.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>MTBI</title><link>https://cuisiting.github.io/posts/cuisiting/mtbi/</link><pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/mtbi/</guid><description>&lt;h1 id="test">Test&lt;/h1>
 &lt;p>&lt;a href="https://www.16personalities.com/free-personality-test" target="_blank" rel="noopener">Free Personality Test | 16Personalities&lt;/a>
 &lt;br>
 &lt;a href="https://www.16personalities.com/ch/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95" target="_blank" rel="noopener">免费性格测试 | 16Personalities&lt;/a>
@@ -871,7 +1197,153 @@ export HISTCONTROL=ignoreboth:erasedups
  &lt;/figure>&lt;/div>
 &lt;/p>
 &lt;p>&lt;a href="https://data.worldbank.org/indicator/PA.NUS.FCRF?end=2022&amp;amp;locations=JP&amp;amp;start=1960&amp;amp;view=chart" target="_blank" rel="noopener">Official exchange rate (LCU per US$, period average) - Japan | Data (worldbank.org)&lt;/a>
-&lt;/p></description></item><item><title>英语-语言 Snippet</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD-%E8%AF%AD%E8%A8%80-snippet/</link><pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD-%E8%AF%AD%E8%A8%80-snippet/</guid><description>&lt;p>上学&lt;br>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/japen_eco_1.png"
+ alt="png" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/japen_eco_2.png"
+ alt="xiaohongshu_plugin_1.png" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;h2 id="日元汇率与战后日本经济发展">日元汇率与战后日本经济发展&lt;/h2>
+&lt;p>作者: 中华人民共和国国家发展和改革委员会&lt;/p>
+&lt;p>&lt;a href="https://www.ndrc.gov.cn/fzggw/jgsj/zhs/sijudt/200507/t20050714_974496.html" target="_blank" rel="noopener">【日元汇率与战后日本经济发展】-国家发展和改革委员会 (ndrc.gov.cn)&lt;/a>
+&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">时间&lt;/th>
+ &lt;th style="text-align: left">事件&lt;/th>
+ &lt;th style="text-align: left">内容&lt;/th>
+ &lt;th style="text-align: left">好处&lt;/th>
+ &lt;th style="text-align: left">坏处&lt;/th>
+ &lt;th style="text-align: left">动机&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">1948年底&lt;/td>
+ &lt;td style="text-align: left">国民经济复苏&lt;/td>
+ &lt;td style="text-align: left">日本经济开始从战争废墟中恢复。&lt;/td>
+ &lt;td style="text-align: left">奠定了日后经济发展的基础。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">战后日本急需重建经济基础，恢复国内生产和市场活动。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1949年初&lt;/td>
+ &lt;td style="text-align: left">道奇计划实施&lt;/td>
+ &lt;td style="text-align: left">美国财政专家道奇在日本实行财政紧缩政策，恢复市场价格机制。&lt;/td>
+ &lt;td style="text-align: left">为日本经济的长期增长提供了良好的市场经济环境。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">旨在控制战后的高通胀，恢复经济稳定，为自由市场经济打基础。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1949年4月&lt;/td>
+ &lt;td style="text-align: left">固定汇率制实施&lt;/td>
+ &lt;td style="text-align: left">日元兑美元官方汇率设为360：1。&lt;/td>
+ &lt;td style="text-align: left">提供了出口竞争力，使日本的出口产业和国际贸易显著增长。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">稳定汇率，增强出口竞争力，促进经济快速发展。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1950年&lt;/td>
+ &lt;td style="text-align: left">朝鲜战争开始&lt;/td>
+ &lt;td style="text-align: left">朝鲜战争的特需刺激了日本的设备投资和出口增长。&lt;/td>
+ &lt;td style="text-align: left">经济快速增长，国民生活水平迅速提高。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">利用军事冲突带来的特需，加速国家的工业化进程和经济发展。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1971年&lt;/td>
+ &lt;td style="text-align: left">布雷顿森林体系崩溃&lt;/td>
+ &lt;td style="text-align: left">日元放弃与美元挂钩，开始实行浮动汇率制。&lt;/td>
+ &lt;td style="text-align: left">为日本产业国际竞争力的进一步提升和经济自由化铺平道路。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">应对国际金融环境的变化，提高经济的灵活性和自主性。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1971年12月&lt;/td>
+ &lt;td style="text-align: left">日元升值&lt;/td>
+ &lt;td style="text-align: left">日元兑美元汇率从360：1调整到306：1，升值16.9%。&lt;/td>
+ &lt;td style="text-align: left">降低了日本产品的国际价格，加强了出口竞争力。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">应对美国的压力，减少对美国市场的出口依赖，实现经济更平衡的发展。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1973-1978年&lt;/td>
+ &lt;td style="text-align: left">日元汇率稳步升值&lt;/td>
+ &lt;td style="text-align: left">日元年平均汇率从1美元兑272.19日元上升到1978年的210日元。&lt;/td>
+ &lt;td style="text-align: left">日本经济从高速增长转向稳定增长阶段，电子产业和电器产业迅速发展。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">反映了经济基本面的改善，促进国内产业结构的优化和升级。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1985年&lt;/td>
+ &lt;td style="text-align: left">广场协议签署&lt;/td>
+ &lt;td style="text-align: left">五国集团在纽约广场饭店达成协议，共同干预汇市，引导美元贬值。&lt;/td>
+ &lt;td style="text-align: left">日元急剧升值，刺激日本经济结构调整，增加对外直接投资和能源进口。&lt;/td>
+ &lt;td style="text-align: left">日元升值对出口行业造成冲击。&lt;/td>
+ &lt;td style="text-align: left">应对美国贸易赤字扩大和国际贸易不平衡的压力，同时促进日本经济向更高技术和资本密集型产业转型。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1990年代初&lt;/td>
+ &lt;td style="text-align: left">泡沫经济破裂&lt;/td>
+ &lt;td style="text-align: left">日本股市和房地产市场崩盘，引发经济长期停滞。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">银行体系和信用体系遭受重创，企业和家庭财富缩水，经济萧条。&lt;/td>
+ &lt;td style="text-align: left">经济过热及监管不足导致市场泡沫积累及最终破裂。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1997年&lt;/td>
+ &lt;td style="text-align: left">亚洲金融危机&lt;/td>
+ &lt;td style="text-align: left">日本政府任由日元大幅贬值，尝试通过贬值刺激经济回升。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">日元贬值未能有效刺激经济，经济衰退继续加深。&lt;/td>
+ &lt;td style="text-align: left">试图刺激出口和经济增长，减轻金融危机的影响。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1995年&lt;/td>
+ &lt;td style="text-align: left">强势美元政策&lt;/td>
+ &lt;td style="text-align: left">日本政府应对美国实施的强势美元政策，导致日元走弱。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">日元走弱未能显著提升出口，与紧缩财政政策相抵消，未能有效刺激经济。&lt;/td>
+ &lt;td style="text-align: left">对抗美国的货币政策，保持出口竞争力。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">1990年代后期&lt;/td>
+ &lt;td style="text-align: left">汇率政策调整&lt;/td>
+ &lt;td style="text-align: left">日本政府干预汇市，维持日元汇率在较低水平，同时恢复扩张性财政政策，刺激国内需求。&lt;/td>
+ &lt;td style="text-align: left">短期内日元汇率稳定。&lt;/td>
+ &lt;td style="text-align: left">长期则未能避免经济长时间的低迷。&lt;/td>
+ &lt;td style="text-align: left">应对经济衰退，尝试恢复经济活力和国内需求。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">2002年下半年&lt;/td>
+ &lt;td style="text-align: left">经济出现转机&lt;/td>
+ &lt;td style="text-align: left">日本经济指标改善，政策调整开始见效。&lt;/td>
+ &lt;td style="text-align: left">日本经济开始逐渐恢复，结束长期的经济停滞。&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">政策调整和国际市场环境改善共同作用，促进经济复苏。&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>英语-语言 Snippet</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD-%E8%AF%AD%E8%A8%80-snippet/</link><pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD-%E8%AF%AD%E8%A8%80-snippet/</guid><description>&lt;p>上学&lt;br>
 上课&lt;br>
 上班&lt;br>
 打电话&lt;/p>
@@ -896,7 +1368,11 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
  print(ele.parent.parent.parent.find(&amp;#39;span&amp;#39;, class_=&amp;#39;pos dpos&amp;#39;).text)
  else:
  print(&amp;#34;None found.&amp;#34;)
-&lt;/code>&lt;/pr</description></item><item><title>语言学</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E6%A6%82%E5%BF%B5/</link><pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E6%A6%82%E5%BF%B5/</guid><description>&lt;p>&lt;a href="https://languages.oup.com/google-dictionary-en/" target="_blank" rel="noopener">Oxford Languages and Google - English | Oxford Languages (oup.com)&lt;/a>
+&lt;/code>&lt;/pre>&lt;h1 id="iprogress-not-found">IProgress not found&lt;/h1>
+&lt;h2 id="question">Question&lt;/h2>
+&lt;pre tabindex="0">&lt;code>IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+&lt;/code>&lt;/pre>&lt;h2 id="answer">Answer&lt;/h2>
+&lt;p>确定当前jupter 的python 解释器&lt;/p></description></item><item><title>语言学</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E6%A6%82%E5%BF%B5/</link><pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E6%A6%82%E5%BF%B5/</guid><description>&lt;p>&lt;a href="https://languages.oup.com/google-dictionary-en/" target="_blank" rel="noopener">Oxford Languages and Google - English | Oxford Languages (oup.com)&lt;/a>
 &lt;br>
 This dictionary is regularly updated with evidence from one of the world’s largest lexical research programmes, and features over 350,000 words and phrases.&lt;/p>
 &lt;h1 id="语言中的概念">语言中的概念&lt;/h1>
@@ -1384,7 +1860,7 @@ This dictionary is regularly updated with evidence from one of the world’s lar
  &amp;#34;verb_Past_Simple&amp;#34;:&amp;#34;&amp;#34;,
  &amp;#34;verb_Past_Participle&amp;#34;:&amp;#34;&amp;#34;
 }
-&lt;/code>&lt;/pr</description></item><item><title>Hugo定制Issue</title><link>https://cuisiting.github.io/posts/cuisiting/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</guid><description>&lt;table>
+&lt;/code>&lt;/pre></description></item><item><title>Hugo定制Issue</title><link>https://cuisiting.github.io/posts/cuisiting/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th style="text-align: left">issue&lt;/th>
@@ -1495,7 +1971,13 @@ This dictionary is regularly updated with evidence from one of the world’s lar
 &lt;h1 id="重音等时性stress-timed-">&lt;strong>重音&lt;/strong>等时性(&lt;strong>Stress&lt;/strong>-timed )&lt;/h1>
 &lt;p>&lt;a href="https://languageinstinct.blogspot.com/2006/10/the-stress-timed-rhythm-of-english.html" target="_blank" rel="noopener">Language Matters: The Stress-timed Rhythm of English (languageinstinct.blogspot.com)&lt;/a>
 &lt;br>
-![[language_stress_timed_1.png]]&lt;/p></description></item><item><title>食用油 烟点</title><link>https://cuisiting.github.io/posts/cuisiting/%E9%A3%9F%E7%94%A8%E6%B2%B9-%E7%83%9F%E7%82%B9/</link><pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E9%A3%9F%E7%94%A8%E6%B2%B9-%E7%83%9F%E7%82%B9/</guid><description>&lt;table>
+![[language_stress_timed_1.png]]&lt;/p>
+&lt;p>单词有重读音节和非重读音节，&lt;br>
+重读音节之间的时长基本相等。&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=VMDhdaMkeBU&amp;amp;ab_channel=%E8%8B%B1%E8%AF%AD%E5%85%94" target="_blank" rel="noopener">英语的节奏和&amp;quot;等时性&amp;quot;(这才是中式英语的罪魁祸首!) (youtube.com)&lt;/a>
+&lt;/p>
+&lt;p>&lt;a href="https://linguisticmaps.tumblr.com/" target="_blank" rel="noopener">语言地图 &amp;mdash; Linguistic Maps (tumblr.com)&lt;/a>
+&lt;/p></description></item><item><title>食用油 烟点</title><link>https://cuisiting.github.io/posts/cuisiting/%E9%A3%9F%E7%94%A8%E6%B2%B9-%E7%83%9F%E7%82%B9/</link><pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E9%A3%9F%E7%94%A8%E6%B2%B9-%E7%83%9F%E7%82%B9/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th style="text-align: left">English Name&lt;/th>
@@ -1738,7 +2220,25 @@ This dictionary is regularly updated with evidence from one of the world’s lar
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;p>**LocalStorage ** or &lt;strong>SessionStorage&lt;/strong>&lt;/p></description></item><item><title>死记硬背 rote 记死背硬</title><link>https://cuisiting.github.io/posts/cuisiting/%E6%AD%BB%E8%AE%B0%E7%A1%AC%E8%83%8C-rote-%E8%AE%B0%E6%AD%BB%E8%83%8C%E7%A1%AC/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E6%AD%BB%E8%AE%B0%E7%A1%AC%E8%83%8C-rote-%E8%AE%B0%E6%AD%BB%E8%83%8C%E7%A1%AC/</guid><description>&lt;p>死记硬背 rote 记死背硬&lt;/p>
+&lt;p>**LocalStorage ** or &lt;strong>SessionStorage&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>// 设置localStorage
+localStorage.setItem(&amp;#39;key&amp;#39;, &amp;#39;localStorage value顶顶顶顶的点点滴滴&amp;#39;);
+
+// 设置sessionStorage
+sessionStorage.setItem(&amp;#39;key&amp;#39;, &amp;#39;设置sessionStorage value顶顶顶顶的点点滴滴&amp;#39;);
+
+
+// 获取sessionStorage
+var sessionData = sessionStorage.getItem(&amp;#39;key&amp;#39;);
+ 
+// 获取localStorage
+var localStorageData = localStorage.getItem(&amp;#39;key&amp;#39;);
+ 
+
+console.log(&amp;#34;localStorageData:&amp;#34;+localStorageData);
+console.log(&amp;#34;sessionData:&amp;#34;+sessionData);
+&lt;/code>&lt;/pre>&lt;h1 id="从浏览器中查看支持的数据存储方式">从浏览器中查看支持的数据存储方式&lt;/h1>
+&lt;p>![[javascript_cookie_data_1.png]]&lt;/p></description></item><item><title>死记硬背 rote 记死背硬</title><link>https://cuisiting.github.io/posts/cuisiting/%E6%AD%BB%E8%AE%B0%E7%A1%AC%E8%83%8C-rote-%E8%AE%B0%E6%AD%BB%E8%83%8C%E7%A1%AC/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E6%AD%BB%E8%AE%B0%E7%A1%AC%E8%83%8C-rote-%E8%AE%B0%E6%AD%BB%E8%83%8C%E7%A1%AC/</guid><description>&lt;p>死记硬背 rote 记死背硬&lt;/p>
 &lt;p>memorize first, make sense later&lt;/p>
 &lt;p>![[hard_record_dead_remember_2.png]]&lt;br>
 ![[hard_record_dead_remember_1.png]]&lt;/p></description></item><item><title>Hugo 按文章中的时间排序</title><link>https://cuisiting.github.io/posts/cuisiting/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid><description>&lt;pre tabindex="0">&lt;code>
@@ -1753,7 +2253,7 @@ This dictionary is regularly updated with evidence from one of the world’s lar
  &amp;lt;article class=&amp;#34;flex flex-col gap-y-3 p-6 mt-6 mx-2 md:mx-0 rounded-lg shadow-md bg-white dark:bg-gray-700&amp;#34;&amp;gt;
  &amp;lt;div data-hveid=&amp;#34;CBEQAA&amp;#34;&amp;gt;
  &amp;lt;div&amp;gt;
-&lt;/code>&lt;/pr</description></item><item><title>LLM, What's the Token?</title><link>https://cuisiting.github.io/posts/cuisiting/llm-whatisthetoken/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/llm-whatisthetoken/</guid><description>&lt;h1 id="token--vs-word">Token vs Word&lt;/h1>
+&lt;/code>&lt;/pre></description></item><item><title>LLM, What's the Token?</title><link>https://cuisiting.github.io/posts/cuisiting/llm-whatisthetoken/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/llm-whatisthetoken/</guid><description>&lt;h1 id="token--vs-word">Token vs Word&lt;/h1>
 &lt;h2 id="summary">Summary:&lt;/h2>
 &lt;p>Summary OpenAi&lt;br>
 &lt;a href="https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them" target="_blank" rel="noopener">What are tokens and how to count them? | OpenAI Help Center&lt;/a>
@@ -1770,7 +2270,32 @@ Or
 &lt;/code>&lt;/pre>&lt;h2 id="why-need-token">Why need Token?&lt;/h2>
 &lt;p>在大型语言模型（如GPT系列）中，&lt;br>
 &lt;strong>&amp;ldquo;Token&amp;quot;通常指的是文本处理的基本单位&lt;/strong>。&lt;br>
-在传统的文本处理中，我们可能会将文本&lt;strong>分割&lt;/strong>成词（words）或者句子作为基本的处理单位。然而，在现代的大型语言模型中，&amp;ldquo;Token&amp;quot;可以是更小的单位，如&lt;strong>字（characters）&lt;/strong>、&lt;strong>词根&lt;/strong>、甚至是&lt;strong>词的&lt;/strong>一部分，这取决于所使用的分词方法（tokenization method）。&lt;/p></description></item><item><title>计算增长率</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%AE%A1%E7%AE%97%E5%A2%9E%E9%95%BF%E7%8E%87/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%AE%A1%E7%AE%97%E5%A2%9E%E9%95%BF%E7%8E%87/</guid><description>&lt;h1 id="javascript">JavaScript&lt;/h1>
+在传统的文本处理中，我们可能会将文本&lt;strong>分割&lt;/strong>成词（words）或者句子作为基本的处理单位。然而，在现代的大型语言模型中，&amp;ldquo;Token&amp;quot;可以是更小的单位，如&lt;strong>字（characters）&lt;/strong>、&lt;strong>词根&lt;/strong>、甚至是&lt;strong>词的&lt;/strong>一部分，这取决于所使用的分词方法（tokenization method）。&lt;/p>
+&lt;p>分词方法将原始文本分解为一系列的token，这些token随后被模型用于训练和生成文本。这一过程允许模型理解和生成包括多种语言在内的复杂文本，因为它可以捕捉到词汇的细微差别、语法结构和语境意义。&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/llm_token_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/llm_token_2.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>计算增长率</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%AE%A1%E7%AE%97%E5%A2%9E%E9%95%BF%E7%8E%87/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%AE%A1%E7%AE%97%E5%A2%9E%E9%95%BF%E7%8E%87/</guid><description>&lt;h1 id="javascript">JavaScript&lt;/h1>
 &lt;pre tabindex="0">&lt;code>function calculateRatio(start, end, year) {
 	// 计算ratio
 	const ratio = Math.pow(end / start, 1 / year) - 1;
@@ -1821,7 +2346,15 @@ The goal is to ensure that the indentation (spaces or tabs) is preserved when th
 &lt;li>LLM 擅长在常规上下文下对提示做出响应，但在未接受过训练的特定领域却很吃力。_提示_是人们寻求 LLM 回复时所用的查询。例如，LLM 可以通过提供估算值来回答计算机成本问题。但是，它无法列出贵公司销售的特定计算机型号的价格。&lt;/li>
 &lt;/ol>
 &lt;h1 id="langchain">LangChain&lt;/h1>
-&lt;p>&lt;strong>LangChain&lt;/strong> is a framework for developing applications powered by language models. It enables applications that:&lt;/p></description></item><item><title>龙蛇之变，木雁之间</title><link>https://cuisiting.github.io/posts/cuisiting/%E9%BE%99%E8%9B%87%E4%B9%8B%E5%8F%98%E6%9C%A8%E9%9B%81%E4%B9%8B%E9%97%B4/</link><pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E9%BE%99%E8%9B%87%E4%B9%8B%E5%8F%98%E6%9C%A8%E9%9B%81%E4%B9%8B%E9%97%B4/</guid><description>&lt;p>庄子行于山中，见大木，枝叶盛茂，伐木者止其旁而不取也。&lt;br>
+&lt;p>&lt;strong>LangChain&lt;/strong> is a framework for developing applications powered by language models. It enables applications that:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Are context-aware&lt;/strong>: connect a language model to sources of context (prompt instructions, few shot examples, content to ground its response in, etc.)&lt;/li>
+&lt;li>&lt;strong>Reason&lt;/strong>: rely on a language model to reason (about how to answer based on provided context, what actions to take, etc.)&lt;br>
+Build context-aware reasoning applications&lt;/li>
+&lt;/ul>
+&lt;h1 id="aws-explain">AWS explain&lt;/h1>
+&lt;p>&lt;a href="https://aws.amazon.com/cn/what-is/langchain/" target="_blank" rel="noopener">https://aws.amazon.com/cn/what-is/langchain/&lt;/a>
+&lt;/p></description></item><item><title>龙蛇之变，木雁之间</title><link>https://cuisiting.github.io/posts/cuisiting/%E9%BE%99%E8%9B%87%E4%B9%8B%E5%8F%98%E6%9C%A8%E9%9B%81%E4%B9%8B%E9%97%B4/</link><pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E9%BE%99%E8%9B%87%E4%B9%8B%E5%8F%98%E6%9C%A8%E9%9B%81%E4%B9%8B%E9%97%B4/</guid><description>&lt;p>庄子行于山中，见大木，枝叶盛茂，伐木者止其旁而不取也。&lt;br>
 问其故。曰：“无所可用。”&lt;br>
 庄子曰：“此木以不材得终其天年。”&lt;/p>
 &lt;p>夫子出于山，舍于故人之家。故人喜，命竖子杀雁而烹之。&lt;br>
@@ -1951,6 +2484,20 @@ The goal is to ensure that the indentation (spaces or tabs) is preserved when th
  width="50%"
  >
  &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>&lt;a href="https://fred.stlouisfed.org/series/FEDFUNDS" target="_blank" rel="noopener">Federal Funds Effective Rate (FEDFUNDS) | FRED | St. Louis Fed (stlouisfed.org)&lt;/a>
+&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/ffe_2.png"
+ alt="img#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
 &lt;/p></description></item><item><title>数据格式</title><link>https://cuisiting.github.io/posts/cuisiting/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</guid><description>&lt;p>&lt;strong>二进制数据格式&lt;/strong>：&lt;/p>
 &lt;table>
  &lt;thead>
@@ -1988,7 +2535,74 @@ The goal is to ensure that the indentation (spaces or tabs) is preserved when th
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;strong>文本数据格式&lt;/strong>：&lt;/p></description></item><item><title>共轭Conjugate</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%85%B1%E8%BD%AD/</link><pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%85%B1%E8%BD%AD/</guid><description>&lt;p>
+&lt;p>&lt;strong>文本数据格式&lt;/strong>：&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">数据格式&lt;/th>
+ &lt;th style="text-align: left">特点&lt;/th>
+ &lt;th style="text-align: left">适用场景&lt;/th>
+ &lt;th style="text-align: left">使用服务/应用程序&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">JSON&lt;/td>
+ &lt;td style="text-align: left">文本格式，易于阅读，易于编写&lt;/td>
+ &lt;td style="text-align: left">Web应用程序，API，配置文件&lt;/td>
+ &lt;td style="text-align: left">RESTful API，JavaScript&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">XML&lt;/td>
+ &lt;td style="text-align: left">标记语言，支持嵌套，复杂结构&lt;/td>
+ &lt;td style="text-align: left">数据交换，配置文件，复杂文档&lt;/td>
+ &lt;td style="text-align: left">SOAP，RSS，配置文件&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">YAML&lt;/td>
+ &lt;td style="text-align: left">人类可读，简洁语法，易于编写&lt;/td>
+ &lt;td style="text-align: left">配置文件，人类可读数据交换&lt;/td>
+ &lt;td style="text-align: left">Docker Compose，Ansible&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>其他数据格式&lt;/strong>：&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">数据格式&lt;/th>
+ &lt;th style="text-align: left">特点&lt;/th>
+ &lt;th style="text-align: left">适用场景&lt;/th>
+ &lt;th style="text-align: left">使用服务/应用程序&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">TOML&lt;/td>
+ &lt;td style="text-align: left">人类可读，简单，易于编写&lt;/td>
+ &lt;td style="text-align: left">配置文件，人类可读数据交换&lt;/td>
+ &lt;td style="text-align: left">Rust，Cargo配置文件&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">CSV&lt;/td>
+ &lt;td style="text-align: left">文本格式，表格数据，易于导入导出&lt;/td>
+ &lt;td style="text-align: left">数据导入导出，电子表格&lt;/td>
+ &lt;td style="text-align: left">Microsoft Excel，Pandas&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">HTML&lt;/td>
+ &lt;td style="text-align: left">网页标记语言，网页内容描述&lt;/td>
+ &lt;td style="text-align: left">网页制作，数据抓取，内容展示&lt;/td>
+ &lt;td style="text-align: left">Web浏览器，网页编辑器&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">EDN&lt;/td>
+ &lt;td style="text-align: left">可扩展数据表示，Clojure相关&lt;/td>
+ &lt;td style="text-align: left">Clojure编程，数据交换&lt;/td>
+ &lt;td style="text-align: left">Clojure，Datomic&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>共轭Conjugate</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%85%B1%E8%BD%AD/</link><pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%85%B1%E8%BD%AD/</guid><description>&lt;p>
 
 
 &lt;div class="not-prose">
@@ -2021,7 +2635,26 @@ The goal is to ensure that the indentation (spaces or tabs) is preserved when th
 &lt;p>&lt;strong>方面&lt;/strong>：表示动作的持续性、重复性或一次性等特征。&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;p>不同语言的动词共轭系统可能非常复杂，涉及多种语法要素的组合。例如，在罗曼语族中，动词的共轭非常丰富和复杂，而在一些其他语言中，如中文，动词共轭可能相对简单或几乎不存在。&lt;/p></description></item><item><title>Check My CreditScore</title><link>https://cuisiting.github.io/posts/cuisiting/check-my-creditscore/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/check-my-creditscore/</guid><description>&lt;p>
+&lt;p>不同语言的动词共轭系统可能非常复杂，涉及多种语法要素的组合。例如，在罗曼语族中，动词的共轭非常丰富和复杂，而在一些其他语言中，如中文，动词共轭可能相对简单或几乎不存在。&lt;/p>
+&lt;p>共轭（Conjugate）在数学中有多种含义，具体取决于所讨论的数学对象。以下是一些常见的共轭的概念：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>复数的共轭&lt;/strong>：一个复数的共轭是其实部不变，虚部符号相反的复数。例如，复数 &lt;code>a + bi&lt;/code> 的共轭是 &lt;code>a - bi&lt;/code>。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>矩阵的共轭转置&lt;/strong>：一个矩阵的共轭转置（也称为伴随矩阵）是将矩阵的每个元素取共轭，然后对矩阵进行转置（即行列互换）。如果矩阵 &lt;code>A&lt;/code> 的元素为 &lt;code>A_{ij}&lt;/code>，那么它的共轭转置矩阵的元素为 &lt;code>\overline{A_{ji}}&lt;/code>，其中 &lt;code>\overline{A_{ji}}&lt;/code> 表示 &lt;code>A_{ji}&lt;/code> 的共轭复数。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>二项式的共轭&lt;/strong>：在代数中，如果有一个二项式 &lt;code>a + b&lt;/code>，那么它的共轭是 &lt;code>a - b&lt;/code>。这在二次方程的解中尤为常见。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>群论中的共轭&lt;/strong>：在群论中，如果有群 &lt;code>G&lt;/code> 中的元素 &lt;code>g&lt;/code> 和 &lt;code>h&lt;/code>，则 &lt;code>g&lt;/code> 和 &lt;code>h&lt;/code> 是共轭的，如果存在 &lt;code>G&lt;/code> 中的某个元素 &lt;code>x&lt;/code> 使得 &lt;code>xgx^{-1} = h&lt;/code>。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>四元数的共轭&lt;/strong>：四元数的共轭类似于复数的共轭，是将四元数的虚部的符号取反。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>这些是共轭的一些常见含义，但在不同的数学领域中，共轭可能有其他特定的定义。&lt;/p></description></item><item><title>Check My CreditScore</title><link>https://cuisiting.github.io/posts/cuisiting/check-my-creditscore/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/check-my-creditscore/</guid><description>&lt;p>
 
 
 &lt;div class="not-prose">
@@ -2037,7 +2670,82 @@ The goal is to ensure that the indentation (spaces or tabs) is preserved when th
 &lt;p>&lt;a href="https://www.usa.gov/credit-reports" target="_blank" rel="noopener">https://www.usa.gov/credit-reports&lt;/a>
 &lt;br>
 By law, you can get a free credit report each year from the three credit reporting agencies (CRAs). These agencies include Equifax, Experian, and TransUnion.&lt;br>
-根据法律规定，您每年可以从三个信用报告机构 (CRA) 获得免费的信用报告。这些机构包括 Equifax、Experian 和 TransUnion。&lt;/p></description></item><item><title>基于Neo4j构建源码可视化</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h2 id="插入数据">插入数据&lt;/h2>
+根据法律规定，您每年可以从三个信用报告机构 (CRA) 获得免费的信用报告。这些机构包括 Equifax、Experian 和 TransUnion。&lt;/p>
+&lt;h2 id="equifaxexperian-vs-transunion">Equifax、Experian VS TransUnion&lt;/h2>
+&lt;p>&lt;a href="https://www.chase.com/personal/credit-cards/education/credit-score/credit-bureau-differences" target="_blank" rel="noopener">https://www.chase.com/personal/credit-cards/education/credit-score/credit-bureau-differences&lt;/a>
+&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">项目（Project）&lt;/th>
+ &lt;th style="text-align: left">Experian&lt;/th>
+ &lt;th style="text-align: left">Equifax&lt;/th>
+ &lt;th style="text-align: left">TransUnion&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">简介 (Introduction)&lt;/td>
+ &lt;td style="text-align: left">美国最大的信用局，为超过2.2亿消费者维护信用信息。独特之处在于收集房东报告的租金支付数据。 (The largest credit bureau in the U.S., maintaining credit information for over 220 million consumers. Unique for collecting rental payment data from landlords.)&lt;/td>
+ &lt;td style="text-align: left">总部位于乔治亚州亚特兰大，成立于1899年，是继Experian之后的第二大信用局。 (Based in Atlanta, Georgia, founded in 1899, the second-largest credit bureau after Experian.)&lt;/td>
+ &lt;td style="text-align: left">在全球30多个国家收集超过10亿消费者的信息。与其他两个信用局相比，更重视支付历史和信用年龄。 (Gathers information on over 1 billion consumers in over 30 countries. Weighs payment history and credit age more than the other bureaus.)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">支付历史 (Payment History)&lt;/td>
+ &lt;td style="text-align: left">35%&lt;/td>
+ &lt;td style="text-align: left">35%&lt;/td>
+ &lt;td style="text-align: left">40%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">信用利用率 (Credit Utilization)&lt;/td>
+ &lt;td style="text-align: left">30%&lt;/td>
+ &lt;td style="text-align: left">30%&lt;/td>
+ &lt;td style="text-align: left">20%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">信用年龄 (Credit Age)&lt;/td>
+ &lt;td style="text-align: left">15%&lt;/td>
+ &lt;td style="text-align: left">15%&lt;/td>
+ &lt;td style="text-align: left">21%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">不同类型的信用 (Different Types of Credit)&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>信用查询次数 (Number of Inquiries)&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;td style="text-align: left">10%&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">最近报告的余额 (Recently Reported Balances)&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">11%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">新信用 (New Credit)&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">5%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">可用信用 (Available Credit)&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;td style="text-align: left">3%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">信用评分范围 (Credit Score Range)&lt;/td>
+ &lt;td style="text-align: left">300-850 (FICO)&lt;/td>
+ &lt;td style="text-align: left">280-850 (FICO)&lt;/td>
+ &lt;td style="text-align: left">300-850 (FICO)&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>基于Neo4j构建源码可视化</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h2 id="插入数据">插入数据&lt;/h2>
 &lt;p>
 
 
@@ -2061,7 +2769,19 @@ By law, you can get a free credit report each year from the three credit reporti
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>0模板</title><link>https://cuisiting.github.io/posts/cuisiting/0%E6%A8%A1%E6%9D%BF/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/0%E6%A8%A1%E6%9D%BF/</guid><description>&lt;h1 id="heading">&lt;/h1>
+&lt;/p>
+&lt;h2 id="查询所有节点">查询所有节点&lt;/h2>
+&lt;pre tabindex="0">&lt;code>MATCH (n)
+RETURN n
+&lt;/code>&lt;/pre>&lt;h2 id="查询两个节点之间的直接间接关系和节点">查询两个节点之间的直接&amp;amp;间接关系和节点&lt;/h2>
+&lt;pre tabindex="0">&lt;code>MATCH path = (a)-[*]-(b)
+
+WHERE a.name = &amp;#39;your_nodo_name_1&amp;#39; AND
+
+b.name = &amp;#39;your_nodo_name_2&amp;#39;
+
+RETURN path
+&lt;/code>&lt;/pre></description></item><item><title>0模板</title><link>https://cuisiting.github.io/posts/cuisiting/0%E6%A8%A1%E6%9D%BF/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/0%E6%A8%A1%E6%9D%BF/</guid><description>&lt;h1 id="heading">&lt;/h1>
 &lt;h1 id="heading-1">&lt;/h1>
 &lt;h1 id="heading-2">&lt;/h1>
 &lt;p>
@@ -2359,7 +3079,19 @@ if commit.committer_name == old_author_name and commit.committer_email == old_au
  commit.committer_name = new_author_name
  commit.committer_email = new_author_email
 &amp;#39;
-&lt;/code>&lt;/pr</description></item><item><title>Gradle Dependcy Graph 可视化</title><link>https://cuisiting.github.io/posts/cuisiting/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h1 id="buildgradle">build.gradle&lt;/h1>
+&lt;/code>&lt;/pre>&lt;h1 id="heading">&lt;/h1>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>Gradle Dependcy Graph 可视化</title><link>https://cuisiting.github.io/posts/cuisiting/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h1 id="buildgradle">build.gradle&lt;/h1>
 &lt;pre tabindex="0">&lt;code>...
  
 apply from: &amp;#39;depend.gradle&amp;#39;
@@ -2473,7 +3205,20 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  
  return result 
 }
-&lt;/code>&lt;/pr</description></item><item><title>mac os 应用&amp;浏览器 window 管理</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</guid><description>&lt;p>&lt;a href="https://github.com/peterdotjs/tab-resize" target="_blank" rel="noopener">https://github.com/peterdotjs/tab-resize&lt;/a>
+&lt;/code>&lt;/pre>&lt;h1 id="heading">&lt;/h1>
+&lt;h1 id="heading-1">&lt;/h1>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>mac os 应用&amp;浏览器 window 管理</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</guid><description>&lt;p>&lt;a href="https://github.com/peterdotjs/tab-resize" target="_blank" rel="noopener">https://github.com/peterdotjs/tab-resize&lt;/a>
 &lt;br>
 
 
@@ -2492,6 +3237,49 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
 &lt;p>&lt;a href="https://github.com/Hammerspoon/hammerspoon" target="_blank" rel="noopener">Hammerspoon/hammerspoon: Staggeringly powerful macOS desktop automation with Lua (github.com)&lt;/a>
 &lt;br>
 &lt;a href="https://www.hammerspoon.org/go/" target="_blank" rel="noopener">Getting Started (hammerspoon.org)&lt;/a>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/macos_window_manager_inputsourcepro_2.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>&lt;a href="https://inputsource.pro/" target="_blank" rel="noopener">Input Source Pro - Switch and track your input sources with ease&lt;/a>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/macos_window_manager_inputsourcepro_3.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+![[macos_window_manager_inputsourcepro_3.png]]&lt;/p>
+&lt;p>&lt;a href="https://github.com/ianyh/Amethyst" target="_blank" rel="noopener">ianyh/Amethyst: Automatic tiling window manager for macOS à la xmonad. (github.com)&lt;/a>
+&lt;/p>
+&lt;p>&lt;a href="https://github.com/Hammerspoon/hammerspoon/issues/3636" target="_blank" rel="noopener">hs.spaces.moveWindowToSpace not working · Issue #3636 · Hammerspoon/hammerspoon (github.com)&lt;/a>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
 &lt;/p></description></item><item><title>Month English 月份</title><link>https://cuisiting.github.io/posts/cuisiting/month-english-%E6%9C%88%E4%BB%BD/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/month-english-%E6%9C%88%E4%BB%BD/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
@@ -2738,7 +3526,113 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  &lt;td style="text-align: left">&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>历史地图时间线</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%8E%86%E5%8F%B2%E5%9C%B0%E5%9B%BE%E6%97%B6%E9%97%B4%E7%BA%BF/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%8E%86%E5%8F%B2%E5%9C%B0%E5%9B%BE%E6%97%B6%E9%97%B4%E7%BA%BF/</guid><description>&lt;p>&lt;a href="https://www.runningreality.org/#01/01/1700&amp;amp;38.38448,-83.26869&amp;amp;zoom=5" target="_blank" rel="noopener">Running Reality - The World History Model&lt;/a>
+&lt;/table></description></item><item><title>从 REST api vs gRPC 选型看网络协议</title><link>https://cuisiting.github.io/posts/cuisiting/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</guid><description>&lt;h1 id="rest-api-与-grpc-的对比">REST API 与 gRPC 的对比&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">特性&lt;/th>
+ &lt;th style="text-align: left">REST API&lt;/th>
+ &lt;th style="text-align: left">gRPC&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>协议&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">基于 HTTP/1.1 或 HTTP/2&lt;/td>
+ &lt;td style="text-align: left">基于 HTTP/2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>数据格式&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">通常使用 JSON 或 XML&lt;/td>
+ &lt;td style="text-align: left">使用 Protocol Buffers（protobuf）二进制格式&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>性能&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">因为文本格式，解析速度较慢，占用带宽较多&lt;/td>
+ &lt;td style="text-align: left">二进制序列化，速度快，效率高，占用带宽较小&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>类型安全&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">动态类型，类型安全性较低&lt;/td>
+ &lt;td style="text-align: left">强类型，通过 protobuf 定义&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>流式支持&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">支持有限，主要是单向&lt;/td>
+ &lt;td style="text-align: left">支持全双工流式传输（客户端和服务器双向流式）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>语言支持&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">广泛支持，任何支持 HTTP 的语言都可使用&lt;/td>
+ &lt;td style="text-align: left">通过代码生成，支持多种语言（如 C++, Java, Go）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>可读性&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">人类可读，易于调试和测试&lt;/td>
+ &lt;td style="text-align: left">二进制格式，不易人类阅读，需要工具解析&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>生态系统&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">成熟，拥有大量工具和文档支持&lt;/td>
+ &lt;td style="text-align: left">相对较新，生态系统正在快速发展&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>典型应用场景&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">公共 API、Web 服务&lt;/td>
+ &lt;td style="text-align: left">微服务间通信、性能要求高的内部服务&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h1 id="osi-模型各层及其代表性协议">OSI 模型各层及其代表性协议&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">层次&lt;/th>
+ &lt;th style="text-align: left">名称&lt;/th>
+ &lt;th style="text-align: left">代表性协议或标准&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">第七层&lt;/td>
+ &lt;td style="text-align: left">应用层&lt;/td>
+ &lt;td style="text-align: left">HTTP、FTP、SMTP、DNS、Telnet、SNMP、&lt;strong>gRPC&lt;/strong>、&lt;strong>SSH&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第六层&lt;/td>
+ &lt;td style="text-align: left">表示层&lt;/td>
+ &lt;td style="text-align: left">SSL/TLS、ASCII、JPEG、MPEG、加密协议、压缩格式、&lt;strong>SSH&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第五层&lt;/td>
+ &lt;td style="text-align: left">会话层&lt;/td>
+ &lt;td style="text-align: left">RPC、SQL、NetBIOS、PPTP、SAP、&lt;strong>SSH&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第四层&lt;/td>
+ &lt;td style="text-align: left">传输层&lt;/td>
+ &lt;td style="text-align: left">TCP、UDP、SCTP、SPX&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第三层&lt;/td>
+ &lt;td style="text-align: left">网络层&lt;/td>
+ &lt;td style="text-align: left">IP、ICMP、IGMP、IPSec、ARP、RARP、RIP、OSPF&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第二层&lt;/td>
+ &lt;td style="text-align: left">数据链路层&lt;/td>
+ &lt;td style="text-align: left">Ethernet（以太网）、PPP、HDLC、STP、Frame Relay&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第一层&lt;/td>
+ &lt;td style="text-align: left">物理层&lt;/td>
+ &lt;td style="text-align: left">物理介质（如双绞线、光纤）、IEEE 802.3、RS-232、USB、Bluetooth&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>gRPC&lt;/strong>：位于 &lt;strong>应用层（第七层）&lt;/strong>，是一种高性能的开源 RPC 框架，基于 HTTP/2 传输协议，使用 Protocol Buffers 作为接口描述语言和数据序列化方式。&lt;/p></description></item><item><title>历史地图时间线</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%8E%86%E5%8F%B2%E5%9C%B0%E5%9B%BE%E6%97%B6%E9%97%B4%E7%BA%BF/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%8E%86%E5%8F%B2%E5%9C%B0%E5%9B%BE%E6%97%B6%E9%97%B4%E7%BA%BF/</guid><description>&lt;p>&lt;a href="https://www.runningreality.org/#01/01/1700&amp;amp;38.38448,-83.26869&amp;amp;zoom=5" target="_blank" rel="noopener">Running Reality - The World History Model&lt;/a>
 &lt;/p>
 &lt;p>
 
@@ -2815,7 +3709,32 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="3-使用浏览器扩展">3. 使用浏览器扩展&lt;/h3>
-&lt;p>一些浏览器扩展可以帮助你识别网页是否使用了特定的框架：&lt;/p></description></item><item><title>浏览器</title><link>https://cuisiting.github.io/posts/cuisiting/%E6%B5%8F%E8%A7%88%E5%99%A8/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid><description>&lt;h1 id="浏览器产品">浏览器产品&lt;/h1>
+&lt;p>一些浏览器扩展可以帮助你识别网页是否使用了特定的框架：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>React Developer Tools&lt;/strong>: 可以在页面上显示React组件结构。&lt;/li>
+&lt;li>&lt;strong>Vue.js devtools&lt;/strong>: 可以在页面上显示Vue组件结构。&lt;/li>
+&lt;/ul>
+&lt;h3 id="4-使用在线工具">4. 使用在线工具&lt;/h3>
+&lt;p>一些在线工具可以分析网页并告诉你其使用的技术栈，例如：&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.wappalyzer.com/" target="_blank" rel="noopener">Wappalyzer&lt;/a>
+: 可以识别网页使用的各种技术，包括React.js和Vue.js。&lt;/li>
+&lt;li>&lt;a href="https://builtwith.com/" target="_blank" rel="noopener">BuiltWith&lt;/a>
+: 提供关于网页技术栈的详细信息。&lt;/li>
+&lt;/ul>
+&lt;p>通过上述方法，你可以很容易地判断一个网页是使用了React.js还是Vue.js。&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>浏览器</title><link>https://cuisiting.github.io/posts/cuisiting/%E6%B5%8F%E8%A7%88%E5%99%A8/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid><description>&lt;h1 id="浏览器产品">浏览器产品&lt;/h1>
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -3219,7 +4138,18 @@ BlogSource-Repository &amp;mdash;提交后github action 自动编译 , push 到 
  mediaType = &amp;#34;text/plain&amp;#34;
  permalinkable = false
  rel = &amp;#34;canonical&amp;#34;
-&lt;/code>&lt;/pr</description></item><item><title>401K</title><link>https://cuisiting.github.io/posts/cuisiting/401k/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/401k/</guid><description>&lt;table>
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/blog_hugo_domain_config_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>401K</title><link>https://cuisiting.github.io/posts/cuisiting/401k/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/401k/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th style="text-align: left">项目&lt;/th>
@@ -3520,6 +4450,21 @@ a word can be broken into &lt;code>prefix-root-suffix &lt;/code>&lt;/li>
 &lt;/p>
 &lt;h1 id="医学">医学&lt;/h1>
 &lt;p>&lt;a href="https://globalrph.com/medical-terms-introduction/" target="_blank" rel="noopener">https://globalrph.com/medical-terms-introduction/&lt;/a>
+&lt;/p>
+&lt;h1 id="词典">词典&lt;/h1>
+&lt;p>&lt;a href="https://www.wordreference.com/enzh/learning" target="_blank" rel="noopener">learning - WordReference.com 英汉词典&lt;/a>
+&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/english_res_1.png"
+ alt="img#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
 &lt;/p></description></item><item><title>Github</title><link>https://cuisiting.github.io/posts/cuisiting/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/github/</guid><description>&lt;h1 id="github-most-popular-fork">Github most popular fork&lt;/h1>
 &lt;p>&lt;a href="https://gitpop2.vercel.app/" target="_blank" rel="noopener">https://gitpop2.vercel.app/&lt;/a>
 &lt;br>
@@ -3631,7 +4576,61 @@ SORT file.name ASC
  &lt;/tbody>
 &lt;/table>
 &lt;h1 id="盈利模式">盈利模式&lt;/h1>
-&lt;p>加密货币交易所的盈利模式主要可以分为以下几种：&lt;/p></description></item><item><title>python Html parse</title><link>https://cuisiting.github.io/posts/cuisiting/html-parse-lxml.html/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/html-parse-lxml.html/</guid><description>&lt;p>若从浏览器获得的xpath 为&lt;/p>
+&lt;p>加密货币交易所的盈利模式主要可以分为以下几种：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>交易费&lt;/strong>：这是加密货币交易所最直接的收入来源。每当用户在平台上买卖加密货币时，交易所会收取一定比例的费用作为交易费。这个费用通常是交易金额的一小部分，比如0.1%到0.5%不等。对于一些大型交易所来说，即便这个比例很小，但由于交易量巨大，累积起来的收入也非常可观。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>提现费和充值费&lt;/strong>：除了交易费之外，一些交易所还会在用户提现或充值时收取一定的费用。这些费用的具体数额可以根据不同的货币和提现方式有所不同。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>市场做市&lt;/strong>：一些交易所通过自己或合作伙伴在市场上买卖加密货币，以保证市场的流动性。这种做法可以让交易所从市场价差中获利。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>新币上市费&lt;/strong>：对于想要在交易所上市的加密货币项目方来说，交易所通常会收取一定的上市费。这个费用可以根据交易所的影响力和加密货币项目的热度有很大的差异。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>利息收入&lt;/strong>：一些交易所提供加密货币存款服务，用户可以将自己的加密货币存放在交易所，以获得一定的利息。交易所则可以利用这些资金进行各种投资或贷款活动，从中获得收益。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>衍生品和杠杆交易&lt;/strong>：提供期货、期权和杠杆交易服务的交易所可以通过收取更高的交易费、资金费率或是利息来获得额外的收入。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>广告和推广服务&lt;/strong>：交易所还可以通过在其平台上提供广告位给加密货币项目方或其他合作伙伴，从而获得广告收入。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>其他服务&lt;/strong>：包括但不限于加密货币托管服务、API服务、教育资源、数据分析服务等，这些都可以为交易所带来额外的收入来源。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>加密货币交易所的盈利模式多样，随着市场的发展和监管的变化，这些模式也在不断地演进和创新。&lt;/p>
+&lt;h1 id="okx-欧科云链-欧易">OKX 欧科云链 欧易&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">名称&lt;/th>
+ &lt;th style="text-align: left">类别&lt;/th>
+ &lt;th style="text-align: left">描述&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">欧易/OKEx&lt;/td>
+ &lt;td style="text-align: left">交易所&lt;/td>
+ &lt;td style="text-align: left">原名欧易，现在更名为OKX，是一个提供虚拟货币交易服务的平台，包括现货和衍生品交易。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">OKX&lt;/td>
+ &lt;td style="text-align: left">品牌/交易所&lt;/td>
+ &lt;td style="text-align: left">欧易的新名称，依旧是欧科云链旗下的虚拟货币交易所，提供广泛的交易服务。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">欧科云链&lt;/td>
+ &lt;td style="text-align: left">科技集团&lt;/td>
+ &lt;td style="text-align: left">OK Group的中文名称，是一个涵盖多个业务领域的集团，包括区块链技术研发、虚拟货币交易所运营等。欧易/OKX就是其旗下的一个交易所品牌。&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>python Html parse</title><link>https://cuisiting.github.io/posts/cuisiting/html-parse-lxml.html/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/html-parse-lxml.html/</guid><description>&lt;p>若从浏览器获得的xpath 为&lt;/p>
 &lt;pre tabindex="0">&lt;code>//*[@id=&amp;#34;contenttable&amp;#34;]/tbody/tr/td/table/tbody/tr/td[2]/h3
 &lt;/code>&lt;/pre>&lt;p>则 lxml_tree.xpath 的 参数应为：&lt;/p>
 &lt;pre tabindex="0">&lt;code>浏览器 : //*[@id=&amp;#34;contenttable&amp;#34;]/tbody/tr/td/table/tbody/tr/td[2]/h3
@@ -3663,7 +4662,14 @@ instead of &lt;code>pip install ffmpeg&lt;/code>&lt;/li>
 &lt;/ol>
 &lt;pre tabindex="0">&lt;code>pip install ffmpeg-python
 &lt;/code>&lt;/pre>&lt;p>如果已经安装了 module 为 ffmpeg 的api，则先uninstall&lt;br>
-注意此处区分 &lt;code>brew install&lt;/code> 和 &lt;code>pip install&lt;/code> 的区别&lt;/p></description></item><item><title>云主机</title><link>https://cuisiting.github.io/posts/cuisiting/%E4%BA%91%E4%B8%BB%E6%9C%BA/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E4%BA%91%E4%B8%BB%E6%9C%BA/</guid><description>&lt;p>
+注意此处区分 &lt;code>brew install&lt;/code> 和 &lt;code>pip install&lt;/code> 的区别&lt;/p>
+&lt;pre tabindex="0">&lt;code>
+pip uninstall ffmpeg
+pip uninstall ffmpeg-python
+
+pip install ffmpeg-python
+&lt;/code>&lt;/pre>&lt;p>&lt;a href="https://github.com/kkroening/ffmpeg-python/issues/174" target="_blank" rel="noopener">AttributeError: module &amp;lsquo;ffmpeg&amp;rsquo; has no attribute &amp;lsquo;input&amp;rsquo; · Issue #174 · kkroening/ffmpeg-python (github.com)&lt;/a>
+&lt;/p></description></item><item><title>云主机</title><link>https://cuisiting.github.io/posts/cuisiting/%E4%BA%91%E4%B8%BB%E6%9C%BA/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E4%BA%91%E4%B8%BB%E6%9C%BA/</guid><description>&lt;p>
 
 
 &lt;div class="not-prose">
@@ -3897,7 +4903,65 @@ draw.io 可以将save as svg&lt;/p></description></item><item><title>小红书</
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>英语动词</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E5%8A%A8%E8%AF%8D%E5%8F%98%E5%8C%96-----%E5%90%8E%E7%BC%80/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E5%8A%A8%E8%AF%8D%E5%8F%98%E5%8C%96-----%E5%90%8E%E7%BC%80/</guid><description>&lt;p>一般动词 加上哪些后缀会形成新单词》&lt;/p>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cs_diff_2.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;pre tabindex="0">&lt;code>graph LR
+ A[Degree Types] --&amp;gt;|Master&amp;#39;s Degree| B[MA/MS]
+ A --&amp;gt;|Doctoral Degree| C[DA]
+ B --&amp;gt; D[MS in EE]
+ B --&amp;gt; E[MS in CE]
+ B --&amp;gt; F[MS in CS]
+ B --&amp;gt; G[MS in SE]
+ B --&amp;gt; H[MS in CIS]
+ B --&amp;gt; I[MS in MIS]
+ B --&amp;gt; J[MS in IT]
+
+ D[MS in EE] --&amp;gt; EE[Electrical Engineering]
+ E[MS in CE] --&amp;gt; CE[Computer Engineering]
+ F[MS in CS] --&amp;gt; CS[Computer Science]
+ F[MS in CS] --&amp;gt; DS[Data Science]
+ G[MS in SE] --&amp;gt; SE[Software Engineering]
+ H[MS in CIS] --&amp;gt; CIS[Computer Information Systems]
+ I[MS in MIS] --&amp;gt; MIS[Management Information Systems]
+ J[MS in IT] --&amp;gt; IT[Information Technology]
+&lt;/code>&lt;/pre>
+ &lt;div>
+ &lt;pre class="mermaid">
+ graph LR
+ A[Degree Types] -->|Master's Degree| B[MA/MS]
+ A -->|Doctoral Degree| C[DA]
+ B --> D[MS in EE]
+ B --> E[MS in CE]
+ B --> F[MS in CS]
+ B --> G[MS in SE]
+ B --> H[MS in CIS]
+ B --> I[MS in MIS]
+ B --> J[MS in IT]
+ 
+ D[MS in EE] --> EE[Electrical Engineering]
+ E[MS in CE] --> CE[Computer Engineering]
+ F[MS in CS] --> CS[Computer Science]
+ F[MS in CS] --> DS[Data Science]
+ G[MS in SE] --> SE[Software Engineering]
+ H[MS in CIS] --> CIS[Computer Information Systems]
+ I[MS in MIS] --> MIS[Management Information Systems]
+ J[MS in IT] --> IT[Information Technology]
+ &lt;/pre>
+ &lt;script type="module">
+ import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+ &lt;/script>
+ &lt;/div></description></item><item><title>英语动词</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E5%8A%A8%E8%AF%8D%E5%8F%98%E5%8C%96-----%E5%90%8E%E7%BC%80/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E5%8A%A8%E8%AF%8D%E5%8F%98%E5%8C%96-----%E5%90%8E%E7%BC%80/</guid><description>&lt;p>一般动词 加上哪些后缀会形成新单词》&lt;/p>
 &lt;p>英语中，动词可以通过添加不同的后缀形成新的单词，特别是名词、形容词和副词。这里是一些常见的后缀及其用途：&lt;/p>
 &lt;h3 id="名词后缀">名词后缀&lt;/h3>
 &lt;ul>
@@ -4043,7 +5107,13 @@ draw.io 可以将save as svg&lt;/p></description></item><item><title>小红书</
 &lt;p>&lt;strong>FastText：&lt;/strong> 由 Facebook 开发，类似于 Word2Vec，但它不仅考虑词本身，还将词内部的子字符串作为训练的基本单位，从而更好地处理罕见词和词形变化。&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;strong>BERT（Bidirectional Encoder Representations from Transformers）：&lt;/strong> 一个更先进的方法，使用 Transformer 架构来捕捉单词在其上下文中的双向关系，生成深层双向上下文词嵌入。&lt;/p></description></item><item><title>英语学习-体检</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0-%E4%BD%93%E6%A3%80/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0-%E4%BD%93%E6%A3%80/</guid><description>&lt;p>最近要体检, 看到体检的英文不是 &lt;code>body check &lt;/code> 也不是&lt;code>body check&lt;/code> , 而是&lt;code>physical examination&lt;/code>.&lt;/p>
+&lt;p>&lt;strong>BERT（Bidirectional Encoder Representations from Transformers）：&lt;/strong> 一个更先进的方法，使用 Transformer 架构来捕捉单词在其上下文中的双向关系，生成深层双向上下文词嵌入。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="应用">应用&lt;/h3>
+&lt;p>词嵌入被广泛应用于各种 NLP 任务，如文本分类、情感分析、机器翻译、问答系统等。它们提供了一种有效的方式来处理自然语言并提取有用的信息和模式。&lt;/p>
+&lt;h3 id="总结">总结&lt;/h3>
+&lt;p>词嵌入是理解和处理自然语言的强大工具，通过将词汇映射为向量，它们为机器提供了理解词汇之间复杂关系的能力。随着 NLP 技术的不断发展，词嵌入模型也在不断进化，提供更丰富的语义表示和更高效的处理能力。&lt;/p></description></item><item><title>英语学习-体检</title><link>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0-%E4%BD%93%E6%A3%80/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0-%E4%BD%93%E6%A3%80/</guid><description>&lt;p>最近要体检, 看到体检的英文不是 &lt;code>body check &lt;/code> 也不是&lt;code>body check&lt;/code> , 而是&lt;code>physical examination&lt;/code>.&lt;/p>
 &lt;p>Why？让我们研究下!&lt;/p>
 &lt;p>对比其他类似的场景，驾照考试是&lt;code>drive test&lt;/code> , 血液检查是&lt;code>bloid test&lt;/code>&lt;/p>
 &lt;table>
@@ -4257,4 +5327,6 @@ draw.io 可以将save as svg&lt;/p></description></item><item><title>小红书</
  &lt;/tbody>
 &lt;/table>
 &lt;p>&lt;a href="https://aws.amazon.com/nosql/" target="_blank" rel="noopener">What is NoSQL? | Nonrelational Databases, Flexible Schema Data Models | AWS (amazon.com)&lt;/a>
-&lt;/p></description></item></channel></rss>
+&lt;/p>
+&lt;h3 id="sql-vs-nosql-terminology">SQL vs. NoSQL terminology&lt;/h3>
+&lt;p>The following table compares terminology used by select NoSQL databases with terminology used by SQL databases.&lt;/p></description></item></channel></rss>

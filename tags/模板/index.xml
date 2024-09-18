@@ -36,4 +36,15 @@ BlogSource-Repository &amp;mdash;提交后github action 自动编译 , push 到 
  mediaType = &amp;#34;text/plain&amp;#34;
  permalinkable = false
  rel = &amp;#34;canonical&amp;#34;
-&lt;/code>&lt;/pr</description></item></channel></rss>
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/blog_hugo_domain_config_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item></channel></rss>

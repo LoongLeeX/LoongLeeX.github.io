@@ -22,4 +22,16 @@
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item></channel></rss>
+&lt;/p>
+&lt;h2 id="查询所有节点">查询所有节点&lt;/h2>
+&lt;pre tabindex="0">&lt;code>MATCH (n)
+RETURN n
+&lt;/code>&lt;/pre>&lt;h2 id="查询两个节点之间的直接间接关系和节点">查询两个节点之间的直接&amp;amp;间接关系和节点&lt;/h2>
+&lt;pre tabindex="0">&lt;code>MATCH path = (a)-[*]-(b)
+
+WHERE a.name = &amp;#39;your_nodo_name_1&amp;#39; AND
+
+b.name = &amp;#39;your_nodo_name_2&amp;#39;
+
+RETURN path
+&lt;/code>&lt;/pre></description></item></channel></rss>

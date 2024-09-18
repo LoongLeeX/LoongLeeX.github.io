@@ -36,4 +36,29 @@
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="3-使用浏览器扩展">3. 使用浏览器扩展&lt;/h3>
-&lt;p>一些浏览器扩展可以帮助你识别网页是否使用了特定的框架：&lt;/p></description></item></channel></rss>
+&lt;p>一些浏览器扩展可以帮助你识别网页是否使用了特定的框架：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>React Developer Tools&lt;/strong>: 可以在页面上显示React组件结构。&lt;/li>
+&lt;li>&lt;strong>Vue.js devtools&lt;/strong>: 可以在页面上显示Vue组件结构。&lt;/li>
+&lt;/ul>
+&lt;h3 id="4-使用在线工具">4. 使用在线工具&lt;/h3>
+&lt;p>一些在线工具可以分析网页并告诉你其使用的技术栈，例如：&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.wappalyzer.com/" target="_blank" rel="noopener">Wappalyzer&lt;/a>
+: 可以识别网页使用的各种技术，包括React.js和Vue.js。&lt;/li>
+&lt;li>&lt;a href="https://builtwith.com/" target="_blank" rel="noopener">BuiltWith&lt;/a>
+: 提供关于网页技术栈的详细信息。&lt;/li>
+&lt;/ul>
+&lt;p>通过上述方法，你可以很容易地判断一个网页是使用了React.js还是Vue.js。&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item></channel></rss>

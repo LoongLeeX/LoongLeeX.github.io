@@ -19,4 +19,8 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
  print(ele.parent.parent.parent.find(&amp;#39;span&amp;#39;, class_=&amp;#39;pos dpos&amp;#39;).text)
  else:
  print(&amp;#34;None found.&amp;#34;)
-&lt;/code>&lt;/pr</description></item></channel></rss>
+&lt;/code>&lt;/pre>&lt;h1 id="iprogress-not-found">IProgress not found&lt;/h1>
+&lt;h2 id="question">Question&lt;/h2>
+&lt;pre tabindex="0">&lt;code>IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+&lt;/code>&lt;/pre>&lt;h2 id="answer">Answer&lt;/h2>
+&lt;p>确定当前jupter 的python 解释器&lt;/p></description></item></channel></rss>

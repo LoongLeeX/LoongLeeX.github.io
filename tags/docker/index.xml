@@ -20,4 +20,4 @@ echo \
  $(. /etc/os-release &amp;amp;&amp;amp; echo &amp;#34;$VERSION_CODENAME&amp;#34;) stable&amp;#34; | \
  sudo tee /etc/apt/sources.list.d/docker.list &amp;gt; /dev/null
 sudo apt-get update
-&lt;/code>&lt;/pr</description></item></channel></rss>
+&lt;/code>&lt;/pre>&lt;p>Install the Docker packages.&lt;/p></description></item></channel></rss>

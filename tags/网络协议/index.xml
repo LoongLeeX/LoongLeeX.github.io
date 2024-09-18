@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>网络协议 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</link><description>Recent content in 网络协议 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>从 REST api vs gRPC 选型看网络协议</title><link>https://cuisiting.github.io/posts/cuisiting/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</guid><description>&lt;h1 id="rest-api-与-grpc-的对比">REST API 与 gRPC 的对比&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">特性&lt;/th>
+ &lt;th style="text-align: left">REST API&lt;/th>
+ &lt;th style="text-align: left">gRPC&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>协议&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">基于 HTTP/1.1 或 HTTP/2&lt;/td>
+ &lt;td style="text-align: left">基于 HTTP/2&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>数据格式&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">通常使用 JSON 或 XML&lt;/td>
+ &lt;td style="text-align: left">使用 Protocol Buffers（protobuf）二进制格式&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>性能&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">因为文本格式，解析速度较慢，占用带宽较多&lt;/td>
+ &lt;td style="text-align: left">二进制序列化，速度快，效率高，占用带宽较小&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>类型安全&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">动态类型，类型安全性较低&lt;/td>
+ &lt;td style="text-align: left">强类型，通过 protobuf 定义&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>流式支持&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">支持有限，主要是单向&lt;/td>
+ &lt;td style="text-align: left">支持全双工流式传输（客户端和服务器双向流式）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>语言支持&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">广泛支持，任何支持 HTTP 的语言都可使用&lt;/td>
+ &lt;td style="text-align: left">通过代码生成，支持多种语言（如 C++, Java, Go）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>可读性&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">人类可读，易于调试和测试&lt;/td>
+ &lt;td style="text-align: left">二进制格式，不易人类阅读，需要工具解析&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>生态系统&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">成熟，拥有大量工具和文档支持&lt;/td>
+ &lt;td style="text-align: left">相对较新，生态系统正在快速发展&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">&lt;strong>典型应用场景&lt;/strong>&lt;/td>
+ &lt;td style="text-align: left">公共 API、Web 服务&lt;/td>
+ &lt;td style="text-align: left">微服务间通信、性能要求高的内部服务&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h1 id="osi-模型各层及其代表性协议">OSI 模型各层及其代表性协议&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">层次&lt;/th>
+ &lt;th style="text-align: left">名称&lt;/th>
+ &lt;th style="text-align: left">代表性协议或标准&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">第七层&lt;/td>
+ &lt;td style="text-align: left">应用层&lt;/td>
+ &lt;td style="text-align: left">HTTP、FTP、SMTP、DNS、Telnet、SNMP、&lt;strong>gRPC&lt;/strong>、&lt;strong>SSH&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第六层&lt;/td>
+ &lt;td style="text-align: left">表示层&lt;/td>
+ &lt;td style="text-align: left">SSL/TLS、ASCII、JPEG、MPEG、加密协议、压缩格式、&lt;strong>SSH&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第五层&lt;/td>
+ &lt;td style="text-align: left">会话层&lt;/td>
+ &lt;td style="text-align: left">RPC、SQL、NetBIOS、PPTP、SAP、&lt;strong>SSH&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第四层&lt;/td>
+ &lt;td style="text-align: left">传输层&lt;/td>
+ &lt;td style="text-align: left">TCP、UDP、SCTP、SPX&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第三层&lt;/td>
+ &lt;td style="text-align: left">网络层&lt;/td>
+ &lt;td style="text-align: left">IP、ICMP、IGMP、IPSec、ARP、RARP、RIP、OSPF&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第二层&lt;/td>
+ &lt;td style="text-align: left">数据链路层&lt;/td>
+ &lt;td style="text-align: left">Ethernet（以太网）、PPP、HDLC、STP、Frame Relay&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">第一层&lt;/td>
+ &lt;td style="text-align: left">物理层&lt;/td>
+ &lt;td style="text-align: left">物理介质（如双绞线、光纤）、IEEE 802.3、RS-232、USB、Bluetooth&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>gRPC&lt;/strong>：位于 &lt;strong>应用层（第七层）&lt;/strong>，是一种高性能的开源 RPC 框架，基于 HTTP/2 传输协议，使用 Protocol Buffers 作为接口描述语言和数据序列化方式。&lt;/p></description></item></channel></rss>

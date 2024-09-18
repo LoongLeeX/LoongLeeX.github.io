@@ -16,4 +16,39 @@
  
  # 部署到本地查看一下
  hugo server
-&lt;/code>&lt;/pr</description></item></channel></rss>
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/image.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>至此，我们在本地电脑上，创建一个hugo 工程来存储blog 文件&lt;/p>
+&lt;p>小练习：增加一篇Blog，按如下的目录结构 添加文件 ，注意 需要创建 _index.md &amp;amp; 格式&lt;/p>
+&lt;pre tabindex="0">&lt;code>RootProject
+ └──content/
+ ├── _index.md
+ └── 个人随想
+ ├── _index.md
+ └── my_first.md
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/image-3.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+3. 如上，我们在本地电脑上，创建一个 工程MyBlog 来存储blog 文件。&lt;br>
+4. 但是我们最终是需要将Blog 发布到 自由 、广大的互联网上。&lt;br>
+5. 现在我们用一种成本最小，但体验极佳的方式 将我们的Blog发布&lt;br>
+6. 创建2个仓库https://github.com/new&lt;/p></description></item></channel></rss>

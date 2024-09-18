@@ -30,7 +30,45 @@
 &lt;/table>
 &lt;h1 id="网站托管--部署">网站托管 &amp;amp; 部署&lt;/h1>
 &lt;p>托管: 一般是静态网站&lt;br>
-部署：一般是具有后台计算的服务&lt;/p></description></item><item><title>WebPageData2</title><link>https://cuisiting.github.io/posts/cuisiting/webpagedata2/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/webpagedata2/</guid><description>&lt;p>
+部署：一般是具有后台计算的服务&lt;/p>
+&lt;h1 id="cloudflare">Cloudflare&lt;/h1>
+&lt;p>不想流量被打爆，就上它&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_1_add_NameServers.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_2_add_NameServers.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_3_github_page.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>WebPageData2</title><link>https://cuisiting.github.io/posts/cuisiting/webpagedata2/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/webpagedata2/</guid><description>&lt;p>
 
 
 &lt;div class="not-prose">
@@ -106,7 +144,25 @@
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;p>**LocalStorage ** or &lt;strong>SessionStorage&lt;/strong>&lt;/p></description></item><item><title>Cytoscape.js</title><link>https://cuisiting.github.io/posts/cuisiting/cytoscape.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/cytoscape.js/</guid><description>&lt;p>&lt;a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener">cytoscape/cytoscape.js: Graph theory (network) library for visualisation and analysis (github.com)&lt;/a>
+&lt;p>**LocalStorage ** or &lt;strong>SessionStorage&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>// 设置localStorage
+localStorage.setItem(&amp;#39;key&amp;#39;, &amp;#39;localStorage value顶顶顶顶的点点滴滴&amp;#39;);
+
+// 设置sessionStorage
+sessionStorage.setItem(&amp;#39;key&amp;#39;, &amp;#39;设置sessionStorage value顶顶顶顶的点点滴滴&amp;#39;);
+
+
+// 获取sessionStorage
+var sessionData = sessionStorage.getItem(&amp;#39;key&amp;#39;);
+ 
+// 获取localStorage
+var localStorageData = localStorage.getItem(&amp;#39;key&amp;#39;);
+ 
+
+console.log(&amp;#34;localStorageData:&amp;#34;+localStorageData);
+console.log(&amp;#34;sessionData:&amp;#34;+sessionData);
+&lt;/code>&lt;/pre>&lt;h1 id="从浏览器中查看支持的数据存储方式">从浏览器中查看支持的数据存储方式&lt;/h1>
+&lt;p>![[javascript_cookie_data_1.png]]&lt;/p></description></item><item><title>Cytoscape.js</title><link>https://cuisiting.github.io/posts/cuisiting/cytoscape.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/cytoscape.js/</guid><description>&lt;p>&lt;a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener">cytoscape/cytoscape.js: Graph theory (network) library for visualisation and analysis (github.com)&lt;/a>
 &lt;br>
 
 
@@ -158,4 +214,62 @@
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item></channel></rss>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cs_diff_2.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;pre tabindex="0">&lt;code>graph LR
+ A[Degree Types] --&amp;gt;|Master&amp;#39;s Degree| B[MA/MS]
+ A --&amp;gt;|Doctoral Degree| C[DA]
+ B --&amp;gt; D[MS in EE]
+ B --&amp;gt; E[MS in CE]
+ B --&amp;gt; F[MS in CS]
+ B --&amp;gt; G[MS in SE]
+ B --&amp;gt; H[MS in CIS]
+ B --&amp;gt; I[MS in MIS]
+ B --&amp;gt; J[MS in IT]
+
+ D[MS in EE] --&amp;gt; EE[Electrical Engineering]
+ E[MS in CE] --&amp;gt; CE[Computer Engineering]
+ F[MS in CS] --&amp;gt; CS[Computer Science]
+ F[MS in CS] --&amp;gt; DS[Data Science]
+ G[MS in SE] --&amp;gt; SE[Software Engineering]
+ H[MS in CIS] --&amp;gt; CIS[Computer Information Systems]
+ I[MS in MIS] --&amp;gt; MIS[Management Information Systems]
+ J[MS in IT] --&amp;gt; IT[Information Technology]
+&lt;/code>&lt;/pre>
+ &lt;div>
+ &lt;pre class="mermaid">
+ graph LR
+ A[Degree Types] -->|Master's Degree| B[MA/MS]
+ A -->|Doctoral Degree| C[DA]
+ B --> D[MS in EE]
+ B --> E[MS in CE]
+ B --> F[MS in CS]
+ B --> G[MS in SE]
+ B --> H[MS in CIS]
+ B --> I[MS in MIS]
+ B --> J[MS in IT]
+ 
+ D[MS in EE] --> EE[Electrical Engineering]
+ E[MS in CE] --> CE[Computer Engineering]
+ F[MS in CS] --> CS[Computer Science]
+ F[MS in CS] --> DS[Data Science]
+ G[MS in SE] --> SE[Software Engineering]
+ H[MS in CIS] --> CIS[Computer Information Systems]
+ I[MS in MIS] --> MIS[Management Information Systems]
+ J[MS in IT] --> IT[Information Technology]
+ &lt;/pre>
+ &lt;script type="module">
+ import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+ &lt;/script>
+ &lt;/div></description></item></channel></rss>

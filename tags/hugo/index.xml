@@ -33,7 +33,42 @@
  
  # 部署到本地查看一下
  hugo server
-&lt;/code>&lt;/pr</description></item><item><title>Hugo定制Issue</title><link>https://cuisiting.github.io/posts/cuisiting/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</guid><description>&lt;table>
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/image.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>至此，我们在本地电脑上，创建一个hugo 工程来存储blog 文件&lt;/p>
+&lt;p>小练习：增加一篇Blog，按如下的目录结构 添加文件 ，注意 需要创建 _index.md &amp;amp; 格式&lt;/p>
+&lt;pre tabindex="0">&lt;code>RootProject
+ └──content/
+ ├── _index.md
+ └── 个人随想
+ ├── _index.md
+ └── my_first.md
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/image-3.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+3. 如上，我们在本地电脑上，创建一个 工程MyBlog 来存储blog 文件。&lt;br>
+4. 但是我们最终是需要将Blog 发布到 自由 、广大的互联网上。&lt;br>
+5. 现在我们用一种成本最小，但体验极佳的方式 将我们的Blog发布&lt;br>
+6. 创建2个仓库https://github.com/new&lt;/p></description></item><item><title>Hugo定制Issue</title><link>https://cuisiting.github.io/posts/cuisiting/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th style="text-align: left">issue&lt;/th>
@@ -84,7 +119,7 @@
  &amp;lt;article class=&amp;#34;flex flex-col gap-y-3 p-6 mt-6 mx-2 md:mx-0 rounded-lg shadow-md bg-white dark:bg-gray-700&amp;#34;&amp;gt;
  &amp;lt;div data-hveid=&amp;#34;CBEQAA&amp;#34;&amp;gt;
  &amp;lt;div&amp;gt;
-&lt;/code>&lt;/pr</description></item><item><title>Hugo Theme Colletion</title><link>https://cuisiting.github.io/posts/cuisiting/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugotheme/</guid><description>&lt;p>
+&lt;/code>&lt;/pre></description></item><item><title>Hugo Theme Colletion</title><link>https://cuisiting.github.io/posts/cuisiting/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/hugotheme/</guid><description>&lt;p>
 
 
 &lt;div class="not-prose">
@@ -132,4 +167,62 @@
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item></channel></rss>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cs_diff_2.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;pre tabindex="0">&lt;code>graph LR
+ A[Degree Types] --&amp;gt;|Master&amp;#39;s Degree| B[MA/MS]
+ A --&amp;gt;|Doctoral Degree| C[DA]
+ B --&amp;gt; D[MS in EE]
+ B --&amp;gt; E[MS in CE]
+ B --&amp;gt; F[MS in CS]
+ B --&amp;gt; G[MS in SE]
+ B --&amp;gt; H[MS in CIS]
+ B --&amp;gt; I[MS in MIS]
+ B --&amp;gt; J[MS in IT]
+
+ D[MS in EE] --&amp;gt; EE[Electrical Engineering]
+ E[MS in CE] --&amp;gt; CE[Computer Engineering]
+ F[MS in CS] --&amp;gt; CS[Computer Science]
+ F[MS in CS] --&amp;gt; DS[Data Science]
+ G[MS in SE] --&amp;gt; SE[Software Engineering]
+ H[MS in CIS] --&amp;gt; CIS[Computer Information Systems]
+ I[MS in MIS] --&amp;gt; MIS[Management Information Systems]
+ J[MS in IT] --&amp;gt; IT[Information Technology]
+&lt;/code>&lt;/pre>
+ &lt;div>
+ &lt;pre class="mermaid">
+ graph LR
+ A[Degree Types] -->|Master's Degree| B[MA/MS]
+ A -->|Doctoral Degree| C[DA]
+ B --> D[MS in EE]
+ B --> E[MS in CE]
+ B --> F[MS in CS]
+ B --> G[MS in SE]
+ B --> H[MS in CIS]
+ B --> I[MS in MIS]
+ B --> J[MS in IT]
+ 
+ D[MS in EE] --> EE[Electrical Engineering]
+ E[MS in CE] --> CE[Computer Engineering]
+ F[MS in CS] --> CS[Computer Science]
+ F[MS in CS] --> DS[Data Science]
+ G[MS in SE] --> SE[Software Engineering]
+ H[MS in CIS] --> CIS[Computer Information Systems]
+ I[MS in MIS] --> MIS[Management Information Systems]
+ J[MS in IT] --> IT[Information Technology]
+ &lt;/pre>
+ &lt;script type="module">
+ import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+ &lt;/script>
+ &lt;/div></description></item></channel></rss>

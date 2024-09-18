@@ -15,7 +15,32 @@ Or
 &lt;/code>&lt;/pre>&lt;h2 id="why-need-token">Why need Token?&lt;/h2>
 &lt;p>在大型语言模型（如GPT系列）中，&lt;br>
 &lt;strong>&amp;ldquo;Token&amp;quot;通常指的是文本处理的基本单位&lt;/strong>。&lt;br>
-在传统的文本处理中，我们可能会将文本&lt;strong>分割&lt;/strong>成词（words）或者句子作为基本的处理单位。然而，在现代的大型语言模型中，&amp;ldquo;Token&amp;quot;可以是更小的单位，如&lt;strong>字（characters）&lt;/strong>、&lt;strong>词根&lt;/strong>、甚至是&lt;strong>词的&lt;/strong>一部分，这取决于所使用的分词方法（tokenization method）。&lt;/p></description></item><item><title>LangChain</title><link>https://cuisiting.github.io/posts/cuisiting/langchain/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/langchain/</guid><description>&lt;p>
+在传统的文本处理中，我们可能会将文本&lt;strong>分割&lt;/strong>成词（words）或者句子作为基本的处理单位。然而，在现代的大型语言模型中，&amp;ldquo;Token&amp;quot;可以是更小的单位，如&lt;strong>字（characters）&lt;/strong>、&lt;strong>词根&lt;/strong>、甚至是&lt;strong>词的&lt;/strong>一部分，这取决于所使用的分词方法（tokenization method）。&lt;/p>
+&lt;p>分词方法将原始文本分解为一系列的token，这些token随后被模型用于训练和生成文本。这一过程允许模型理解和生成包括多种语言在内的复杂文本，因为它可以捕捉到词汇的细微差别、语法结构和语境意义。&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/llm_token_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/llm_token_2.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>LangChain</title><link>https://cuisiting.github.io/posts/cuisiting/langchain/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/langchain/</guid><description>&lt;p>
 
 
 &lt;div class="not-prose">
@@ -32,4 +57,12 @@ Or
 &lt;li>LLM 擅长在常规上下文下对提示做出响应，但在未接受过训练的特定领域却很吃力。_提示_是人们寻求 LLM 回复时所用的查询。例如，LLM 可以通过提供估算值来回答计算机成本问题。但是，它无法列出贵公司销售的特定计算机型号的价格。&lt;/li>
 &lt;/ol>
 &lt;h1 id="langchain">LangChain&lt;/h1>
-&lt;p>&lt;strong>LangChain&lt;/strong> is a framework for developing applications powered by language models. It enables applications that:&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>LangChain&lt;/strong> is a framework for developing applications powered by language models. It enables applications that:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Are context-aware&lt;/strong>: connect a language model to sources of context (prompt instructions, few shot examples, content to ground its response in, etc.)&lt;/li>
+&lt;li>&lt;strong>Reason&lt;/strong>: rely on a language model to reason (about how to answer based on provided context, what actions to take, etc.)&lt;br>
+Build context-aware reasoning applications&lt;/li>
+&lt;/ul>
+&lt;h1 id="aws-explain">AWS explain&lt;/h1>
+&lt;p>&lt;a href="https://aws.amazon.com/cn/what-is/langchain/" target="_blank" rel="noopener">https://aws.amazon.com/cn/what-is/langchain/&lt;/a>
+&lt;/p></description></item></channel></rss>

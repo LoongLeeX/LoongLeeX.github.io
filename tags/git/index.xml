@@ -23,4 +23,16 @@ if commit.committer_name == old_author_name and commit.committer_email == old_au
  commit.committer_name = new_author_name
  commit.committer_email = new_author_email
 &amp;#39;
-&lt;/code>&lt;/pr</description></item></channel></rss>
+&lt;/code>&lt;/pre>&lt;h1 id="heading">&lt;/h1>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item></channel></rss>

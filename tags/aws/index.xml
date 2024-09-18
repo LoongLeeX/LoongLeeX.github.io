@@ -23,6 +23,55 @@
  width="50%"
  >
  &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>创建成功后，查看instance Details ip , ssh 登陆&lt;/p>
+&lt;pre tabindex="0">&lt;code>chmod 400 [your pem path]
+ssh -i [your pem path] admin@your_ip
+&lt;/code>&lt;/pre>&lt;p>安装 &lt;a href="https://github.com/shadowsocks/shadowsocks-libev/blob/master/docker/alpine/README.md" target="_blank" rel="noopener">shadowsocket docker&lt;/a>
+&lt;/p>
+&lt;pre tabindex="0">&lt;code>docker pull shadowsocks/shadowsocks-libev
+&lt;/code>&lt;/pre>&lt;p>指定 shadowsocks container 的端口，检查你的云服务是否开启了该端口&lt;br>
+启动 docker instance&lt;br>
+检查你的云服务是否开启了该端口&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/aws_instance_check_port.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;pre tabindex="0">&lt;code>ps=&amp;lt;你的密码&amp;gt;
+port=&amp;lt;你的端口&amp;gt;
+
+docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always shadowsocks/shadowsocks-libev
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/aws_change_port_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/aws_change_port_2.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
 &lt;/p></description></item><item><title>use React.js , deploy on Vercel , control AWS EC2</title><link>https://cuisiting.github.io/posts/cuisiting/use-react.js--deploy-on-vercel--control-aws-ec2/</link><pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/use-react.js--deploy-on-vercel--control-aws-ec2/</guid><description/></item><item><title>AWS EC2 instance</title><link>https://cuisiting.github.io/posts/cuisiting/aws-ec2-instance/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/aws-ec2-instance/</guid><description>&lt;h1 id="heading">&lt;/h1>
 &lt;h1 id="choose-regions">Choose Regions&lt;/h1>
 &lt;p>

@@ -74,4 +74,22 @@
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;p>**LocalStorage ** or &lt;strong>SessionStorage&lt;/strong>&lt;/p></description></item></channel></rss>
+&lt;p>**LocalStorage ** or &lt;strong>SessionStorage&lt;/strong>&lt;/p>
+&lt;pre tabindex="0">&lt;code>// 设置localStorage
+localStorage.setItem(&amp;#39;key&amp;#39;, &amp;#39;localStorage value顶顶顶顶的点点滴滴&amp;#39;);
+
+// 设置sessionStorage
+sessionStorage.setItem(&amp;#39;key&amp;#39;, &amp;#39;设置sessionStorage value顶顶顶顶的点点滴滴&amp;#39;);
+
+
+// 获取sessionStorage
+var sessionData = sessionStorage.getItem(&amp;#39;key&amp;#39;);
+ 
+// 获取localStorage
+var localStorageData = localStorage.getItem(&amp;#39;key&amp;#39;);
+ 
+
+console.log(&amp;#34;localStorageData:&amp;#34;+localStorageData);
+console.log(&amp;#34;sessionData:&amp;#34;+sessionData);
+&lt;/code>&lt;/pre>&lt;h1 id="从浏览器中查看支持的数据存储方式">从浏览器中查看支持的数据存储方式&lt;/h1>
+&lt;p>![[javascript_cookie_data_1.png]]&lt;/p></description></item></channel></rss>

@@ -112,4 +112,17 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  
  return result 
 }
-&lt;/code>&lt;/pr</description></item></channel></rss>
+&lt;/code>&lt;/pre>&lt;h1 id="heading">&lt;/h1>
+&lt;h1 id="heading-1">&lt;/h1>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item></channel></rss>

@@ -30,4 +30,42 @@
 &lt;/table>
 &lt;h1 id="网站托管--部署">网站托管 &amp;amp; 部署&lt;/h1>
 &lt;p>托管: 一般是静态网站&lt;br>
-部署：一般是具有后台计算的服务&lt;/p></description></item></channel></rss>
+部署：一般是具有后台计算的服务&lt;/p>
+&lt;h1 id="cloudflare">Cloudflare&lt;/h1>
+&lt;p>不想流量被打爆，就上它&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_1_add_NameServers.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_2_add_NameServers.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_3_github_page.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item></channel></rss>

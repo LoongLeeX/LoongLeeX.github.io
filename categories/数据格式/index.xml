@@ -35,4 +35,71 @@
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;strong>文本数据格式&lt;/strong>：&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>文本数据格式&lt;/strong>：&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">数据格式&lt;/th>
+ &lt;th style="text-align: left">特点&lt;/th>
+ &lt;th style="text-align: left">适用场景&lt;/th>
+ &lt;th style="text-align: left">使用服务/应用程序&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">JSON&lt;/td>
+ &lt;td style="text-align: left">文本格式，易于阅读，易于编写&lt;/td>
+ &lt;td style="text-align: left">Web应用程序，API，配置文件&lt;/td>
+ &lt;td style="text-align: left">RESTful API，JavaScript&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">XML&lt;/td>
+ &lt;td style="text-align: left">标记语言，支持嵌套，复杂结构&lt;/td>
+ &lt;td style="text-align: left">数据交换，配置文件，复杂文档&lt;/td>
+ &lt;td style="text-align: left">SOAP，RSS，配置文件&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">YAML&lt;/td>
+ &lt;td style="text-align: left">人类可读，简洁语法，易于编写&lt;/td>
+ &lt;td style="text-align: left">配置文件，人类可读数据交换&lt;/td>
+ &lt;td style="text-align: left">Docker Compose，Ansible&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>其他数据格式&lt;/strong>：&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">数据格式&lt;/th>
+ &lt;th style="text-align: left">特点&lt;/th>
+ &lt;th style="text-align: left">适用场景&lt;/th>
+ &lt;th style="text-align: left">使用服务/应用程序&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">TOML&lt;/td>
+ &lt;td style="text-align: left">人类可读，简单，易于编写&lt;/td>
+ &lt;td style="text-align: left">配置文件，人类可读数据交换&lt;/td>
+ &lt;td style="text-align: left">Rust，Cargo配置文件&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">CSV&lt;/td>
+ &lt;td style="text-align: left">文本格式，表格数据，易于导入导出&lt;/td>
+ &lt;td style="text-align: left">数据导入导出，电子表格&lt;/td>
+ &lt;td style="text-align: left">Microsoft Excel，Pandas&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">HTML&lt;/td>
+ &lt;td style="text-align: left">网页标记语言，网页内容描述&lt;/td>
+ &lt;td style="text-align: left">网页制作，数据抓取，内容展示&lt;/td>
+ &lt;td style="text-align: left">Web浏览器，网页编辑器&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">EDN&lt;/td>
+ &lt;td style="text-align: left">可扩展数据表示，Clojure相关&lt;/td>
+ &lt;td style="text-align: left">Clojure编程，数据交换&lt;/td>
+ &lt;td style="text-align: left">Clojure，Datomic&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item></channel></rss>

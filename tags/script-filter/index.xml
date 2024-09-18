@@ -19,4 +19,7 @@
 			&amp;#34;path&amp;#34;: &amp;#34;~/Desktop&amp;#34;
 		}
 	},
-&lt;/code>&lt;/pr</description></item></channel></rss>
+&lt;/code>&lt;/pre>&lt;p>解决办法:&lt;br>
+为 上述文件创建文件链接&lt;/p>
+&lt;pre tabindex="0">&lt;code>格式：ln [原文件] [硬链接文件]
+&lt;/code>&lt;/pre></description></item></channel></rss>

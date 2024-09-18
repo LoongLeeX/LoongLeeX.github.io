@@ -31,4 +31,15 @@
 &lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;strong>Python NLTK Library&lt;/strong> - 如果你熟悉编程，可以使用Python的NLTK库，它提供了计算编辑距离的功能，可以用来查找编辑距离为一的单词。&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>Python NLTK Library&lt;/strong> - 如果你熟悉编程，可以使用Python的NLTK库，它提供了计算编辑距离的功能，可以用来查找编辑距离为一的单词。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>使用方法: 安装NLTK库后，可以使用以下代码：&lt;/p>
+&lt;p>python&lt;/p>
+&lt;p>Copy code&lt;/p>
+&lt;p>&lt;code>import nltk from nltk.corpus import words nltk.download('words') def edit_distance_one(word): word_list = words.words() return [w for w in word_list if nltk.edit_distance(word, w) == 1] result = edit_distance_one(&amp;quot;example&amp;quot;) print(result)&lt;/code>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>这些工具和网站可以帮助你查找与给定单词编辑距离为一的所有单词。&lt;/p></description></item></channel></rss>

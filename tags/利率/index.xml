@@ -27,4 +27,18 @@
  width="50%"
  >
  &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>&lt;a href="https://fred.stlouisfed.org/series/FEDFUNDS" target="_blank" rel="noopener">Federal Funds Effective Rate (FEDFUNDS) | FRED | St. Louis Fed (stlouisfed.org)&lt;/a>
+&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/ffe_2.png"
+ alt="img#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
 &lt;/p></description></item></channel></rss>

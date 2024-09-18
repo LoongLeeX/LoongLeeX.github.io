@@ -38,7 +38,19 @@
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>awesome-visjs demo</title><link>https://cuisiting.github.io/posts/cuisiting/awesome-visjs-demo/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/awesome-visjs-demo/</guid><description>&lt;p>&lt;a href="https://github.com/visjs/awesome-visjs/blob/master/README.md" target="_blank" rel="noopener">https://github.com/visjs/awesome-visjs/blob/master/README.md&lt;/a>
+&lt;/p>
+&lt;h2 id="查询所有节点">查询所有节点&lt;/h2>
+&lt;pre tabindex="0">&lt;code>MATCH (n)
+RETURN n
+&lt;/code>&lt;/pre>&lt;h2 id="查询两个节点之间的直接间接关系和节点">查询两个节点之间的直接&amp;amp;间接关系和节点&lt;/h2>
+&lt;pre tabindex="0">&lt;code>MATCH path = (a)-[*]-(b)
+
+WHERE a.name = &amp;#39;your_nodo_name_1&amp;#39; AND
+
+b.name = &amp;#39;your_nodo_name_2&amp;#39;
+
+RETURN path
+&lt;/code>&lt;/pre></description></item><item><title>awesome-visjs demo</title><link>https://cuisiting.github.io/posts/cuisiting/awesome-visjs-demo/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/awesome-visjs-demo/</guid><description>&lt;p>&lt;a href="https://github.com/visjs/awesome-visjs/blob/master/README.md" target="_blank" rel="noopener">https://github.com/visjs/awesome-visjs/blob/master/README.md&lt;/a>
 &lt;/p>
 &lt;p>&lt;a href="https://js.cytoscape.org/" target="_blank" rel="noopener">https://js.cytoscape.org/&lt;/a>
 &lt;br>
@@ -200,7 +212,20 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  
  return result 
 }
-&lt;/code>&lt;/pr</description></item><item><title>CallTree</title><link>https://cuisiting.github.io/posts/cuisiting/calltree/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/calltree/</guid><description/></item><item><title>Github</title><link>https://cuisiting.github.io/posts/cuisiting/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/github/</guid><description>&lt;h1 id="github-most-popular-fork">Github most popular fork&lt;/h1>
+&lt;/code>&lt;/pre>&lt;h1 id="heading">&lt;/h1>
+&lt;h1 id="heading-1">&lt;/h1>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>CallTree</title><link>https://cuisiting.github.io/posts/cuisiting/calltree/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/calltree/</guid><description/></item><item><title>Github</title><link>https://cuisiting.github.io/posts/cuisiting/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/github/</guid><description>&lt;h1 id="github-most-popular-fork">Github most popular fork&lt;/h1>
 &lt;p>&lt;a href="https://gitpop2.vercel.app/" target="_blank" rel="noopener">https://gitpop2.vercel.app/&lt;/a>
 &lt;br>
 

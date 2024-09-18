@@ -24,4 +24,75 @@
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item></channel></rss>
+&lt;/p>
+&lt;ol>
+&lt;li>Map-Reduce&lt;/li>
+&lt;/ol>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_map_reduce.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;ol start="2">
+&lt;li>
+&lt;p>YARN&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi//hadoop_architecture_yarn.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>HDFS&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_2.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_3.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;/li>
+&lt;/ol></description></item></channel></rss>

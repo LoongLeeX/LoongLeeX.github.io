@@ -23,4 +23,62 @@
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item></channel></rss>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cs_diff_2.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;pre tabindex="0">&lt;code>graph LR
+ A[Degree Types] --&amp;gt;|Master&amp;#39;s Degree| B[MA/MS]
+ A --&amp;gt;|Doctoral Degree| C[DA]
+ B --&amp;gt; D[MS in EE]
+ B --&amp;gt; E[MS in CE]
+ B --&amp;gt; F[MS in CS]
+ B --&amp;gt; G[MS in SE]
+ B --&amp;gt; H[MS in CIS]
+ B --&amp;gt; I[MS in MIS]
+ B --&amp;gt; J[MS in IT]
+
+ D[MS in EE] --&amp;gt; EE[Electrical Engineering]
+ E[MS in CE] --&amp;gt; CE[Computer Engineering]
+ F[MS in CS] --&amp;gt; CS[Computer Science]
+ F[MS in CS] --&amp;gt; DS[Data Science]
+ G[MS in SE] --&amp;gt; SE[Software Engineering]
+ H[MS in CIS] --&amp;gt; CIS[Computer Information Systems]
+ I[MS in MIS] --&amp;gt; MIS[Management Information Systems]
+ J[MS in IT] --&amp;gt; IT[Information Technology]
+&lt;/code>&lt;/pre>
+ &lt;div>
+ &lt;pre class="mermaid">
+ graph LR
+ A[Degree Types] -->|Master's Degree| B[MA/MS]
+ A -->|Doctoral Degree| C[DA]
+ B --> D[MS in EE]
+ B --> E[MS in CE]
+ B --> F[MS in CS]
+ B --> G[MS in SE]
+ B --> H[MS in CIS]
+ B --> I[MS in MIS]
+ B --> J[MS in IT]
+ 
+ D[MS in EE] --> EE[Electrical Engineering]
+ E[MS in CE] --> CE[Computer Engineering]
+ F[MS in CS] --> CS[Computer Science]
+ F[MS in CS] --> DS[Data Science]
+ G[MS in SE] --> SE[Software Engineering]
+ H[MS in CIS] --> CIS[Computer Information Systems]
+ I[MS in MIS] --> MIS[Management Information Systems]
+ J[MS in IT] --> IT[Information Technology]
+ &lt;/pre>
+ &lt;script type="module">
+ import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+ &lt;/script>
+ &lt;/div></description></item></channel></rss>

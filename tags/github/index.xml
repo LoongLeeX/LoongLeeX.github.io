@@ -23,7 +23,19 @@ if commit.committer_name == old_author_name and commit.committer_email == old_au
  commit.committer_name = new_author_name
  commit.committer_email = new_author_email
 &amp;#39;
-&lt;/code>&lt;/pr</description></item><item><title>Github</title><link>https://cuisiting.github.io/posts/cuisiting/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/github/</guid><description>&lt;h1 id="github-most-popular-fork">Github most popular fork&lt;/h1>
+&lt;/code>&lt;/pre>&lt;h1 id="heading">&lt;/h1>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>Github</title><link>https://cuisiting.github.io/posts/cuisiting/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/github/</guid><description>&lt;h1 id="github-most-popular-fork">Github most popular fork&lt;/h1>
 &lt;p>&lt;a href="https://gitpop2.vercel.app/" target="_blank" rel="noopener">https://gitpop2.vercel.app/&lt;/a>
 &lt;br>
 
