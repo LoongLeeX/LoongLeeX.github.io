@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>可视化 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</link><description>Recent content in 可视化 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>经济数据</title><link>https://cuisiting.github.io/posts/cuisiting/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</guid><description>&lt;p>![[economy_data_1.png]]&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>可视化 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</link><description>Recent content in 可视化 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>经济数据</title><link>https://cuisiting.github.io/posts/external/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</guid><description>&lt;p>![[economy_data_1.png]]&lt;br>
 &lt;a href="https://sc.macromicro.me/" target="_blank" rel="noopener">https://sc.macromicro.me/&lt;/a>
 &lt;/p>
 &lt;p>&lt;a href="https://www.tradingview.com/chart/iuFHyfXI/" target="_blank" rel="noopener">https://www.tradingview.com/chart/iuFHyfXI/&lt;/a>
@@ -14,7 +14,7 @@
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>基于Neo4j构建源码可视化</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h2 id="插入数据">插入数据&lt;/h2>
+&lt;/p></description></item><item><title>基于Neo4j构建源码可视化</title><link>https://cuisiting.github.io/posts/external/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h2 id="插入数据">插入数据&lt;/h2>
 &lt;p>
 
 
@@ -50,7 +50,7 @@ WHERE a.name = &amp;#39;your_nodo_name_1&amp;#39; AND
 b.name = &amp;#39;your_nodo_name_2&amp;#39;
 
 RETURN path
-&lt;/code>&lt;/pre></description></item><item><title>awesome-visjs demo</title><link>https://cuisiting.github.io/posts/cuisiting/awesome-visjs-demo/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/awesome-visjs-demo/</guid><description>&lt;p>&lt;a href="https://github.com/visjs/awesome-visjs/blob/master/README.md" target="_blank" rel="noopener">https://github.com/visjs/awesome-visjs/blob/master/README.md&lt;/a>
+&lt;/code>&lt;/pre></description></item><item><title>awesome-visjs demo</title><link>https://cuisiting.github.io/posts/external/awesome-visjs-demo/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/awesome-visjs-demo/</guid><description>&lt;p>&lt;a href="https://github.com/visjs/awesome-visjs/blob/master/README.md" target="_blank" rel="noopener">https://github.com/visjs/awesome-visjs/blob/master/README.md&lt;/a>
 &lt;/p>
 &lt;p>&lt;a href="https://js.cytoscape.org/" target="_blank" rel="noopener">https://js.cytoscape.org/&lt;/a>
 &lt;br>
@@ -71,7 +71,7 @@ RETURN path
  width=""
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>Cytoscape.js</title><link>https://cuisiting.github.io/posts/cuisiting/cytoscape.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/cytoscape.js/</guid><description>&lt;p>&lt;a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener">cytoscape/cytoscape.js: Graph theory (network) library for visualisation and analysis (github.com)&lt;/a>
+&lt;/p></description></item><item><title>Cytoscape.js</title><link>https://cuisiting.github.io/posts/external/cytoscape.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/cytoscape.js/</guid><description>&lt;p>&lt;a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener">cytoscape/cytoscape.js: Graph theory (network) library for visualisation and analysis (github.com)&lt;/a>
 &lt;br>
 
 
@@ -85,8 +85,8 @@ RETURN path
  >
  &lt;/figure>&lt;/div>
 &lt;/p>
-&lt;h1 id="heading">&lt;/h1>
-&lt;h1 id="heading-1">&lt;/h1>
+&lt;h1>&lt;/h1>
+&lt;h1>&lt;/h1>
 &lt;p>
 
 
@@ -98,7 +98,7 @@ RETURN path
  width=""
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>Gradle Dependcy Graph 可视化</title><link>https://cuisiting.github.io/posts/cuisiting/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h1 id="buildgradle">build.gradle&lt;/h1>
+&lt;/p></description></item><item><title>Gradle Dependcy Graph 可视化</title><link>https://cuisiting.github.io/posts/external/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h1 id="buildgradle">build.gradle&lt;/h1>
 &lt;pre tabindex="0">&lt;code>...
  
 apply from: &amp;#39;depend.gradle&amp;#39;
@@ -212,8 +212,8 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  
  return result 
 }
-&lt;/code>&lt;/pre>&lt;h1 id="heading">&lt;/h1>
-&lt;h1 id="heading-1">&lt;/h1>
+&lt;/code>&lt;/pre>&lt;h1>&lt;/h1>
+&lt;h1>&lt;/h1>
 &lt;p>
 
 
@@ -225,7 +225,7 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  width=""
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>CallTree</title><link>https://cuisiting.github.io/posts/cuisiting/calltree/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/calltree/</guid><description/></item><item><title>Github</title><link>https://cuisiting.github.io/posts/cuisiting/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/github/</guid><description>&lt;h1 id="github-most-popular-fork">Github most popular fork&lt;/h1>
+&lt;/p></description></item><item><title>CallTree</title><link>https://cuisiting.github.io/posts/external/calltree/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/calltree/</guid><description/></item><item><title>Github</title><link>https://cuisiting.github.io/posts/external/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/github/</guid><description>&lt;h1 id="github-most-popular-fork">Github most popular fork&lt;/h1>
 &lt;p>&lt;a href="https://gitpop2.vercel.app/" target="_blank" rel="noopener">https://gitpop2.vercel.app/&lt;/a>
 &lt;br>
 
@@ -255,4 +255,4 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  width="50%"
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>Vis.js</title><link>https://cuisiting.github.io/posts/cuisiting/vis.js/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/vis.js/</guid><description/></item></channel></rss>
+&lt;/p></description></item><item><title>Vis.js</title><link>https://cuisiting.github.io/posts/external/vis.js/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/vis.js/</guid><description/></item></channel></rss>

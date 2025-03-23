@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>浏览器 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</link><description>Recent content in 浏览器 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>mac os 应用&amp;浏览器 window 管理</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</guid><description>&lt;p>&lt;a href="https://github.com/peterdotjs/tab-resize" target="_blank" rel="noopener">https://github.com/peterdotjs/tab-resize&lt;/a>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>浏览器 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</link><description>Recent content in 浏览器 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>mac os 应用&amp;浏览器 window 管理</title><link>https://cuisiting.github.io/posts/external/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</guid><description>&lt;p>&lt;a href="https://github.com/peterdotjs/tab-resize" target="_blank" rel="noopener">https://github.com/peterdotjs/tab-resize&lt;/a>
 &lt;br>
 
 
@@ -60,73 +60,73 @@
  width=""
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>浏览器</title><link>https://cuisiting.github.io/posts/cuisiting/%E6%B5%8F%E8%A7%88%E5%99%A8/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid><description>&lt;h1 id="浏览器产品">浏览器产品&lt;/h1>
+&lt;/p></description></item><item><title>浏览器</title><link>https://cuisiting.github.io/posts/external/%E6%B5%8F%E8%A7%88%E5%99%A8/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid><description>&lt;h1 id="浏览器产品">浏览器产品&lt;/h1>
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">浏览器&lt;/th>
- &lt;th style="text-align: left">出品公司&lt;/th>
- &lt;th style="text-align: left">内核&lt;/th>
- &lt;th style="text-align: left">主要特性&lt;/th>
- &lt;th style="text-align: left">现代使用场景&lt;/th>
+ &lt;th>浏览器&lt;/th>
+ &lt;th>出品公司&lt;/th>
+ &lt;th>内核&lt;/th>
+ &lt;th>主要特性&lt;/th>
+ &lt;th>现代使用场景&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Google Chrome&lt;/td>
- &lt;td style="text-align: left">Google&lt;/td>
- &lt;td style="text-align: left">Blink&lt;/td>
- &lt;td style="text-align: left">高性能、强大功能、广泛支持现代Web标准&lt;/td>
- &lt;td style="text-align: left">桌面和移动设备上的广泛浏览，开发者工具和扩展支持&lt;/td>
+ &lt;td>Google Chrome&lt;/td>
+ &lt;td>Google&lt;/td>
+ &lt;td>Blink&lt;/td>
+ &lt;td>高性能、强大功能、广泛支持现代Web标准&lt;/td>
+ &lt;td>桌面和移动设备上的广泛浏览，开发者工具和扩展支持&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Safari&lt;/td>
- &lt;td style="text-align: left">Apple&lt;/td>
- &lt;td style="text-align: left">WebKit&lt;/td>
- &lt;td style="text-align: left">性能优化较好，适合移动设备，支持最新JavaScript标准&lt;/td>
- &lt;td style="text-align: left">苹果设备上的默认浏览器，注重隐私保护和性能优化&lt;/td>
+ &lt;td>Safari&lt;/td>
+ &lt;td>Apple&lt;/td>
+ &lt;td>WebKit&lt;/td>
+ &lt;td>性能优化较好，适合移动设备，支持最新JavaScript标准&lt;/td>
+ &lt;td>苹果设备上的默认浏览器，注重隐私保护和性能优化&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Mozilla Firefox&lt;/td>
- &lt;td style="text-align: left">Mozilla&lt;/td>
- &lt;td style="text-align: left">Gecko&lt;/td>
- &lt;td style="text-align: left">高度定制化，注重隐私和安全&lt;/td>
- &lt;td style="text-align: left">桌面和移动设备浏览，强大的隐私保护功能，丰富的扩展支持&lt;/td>
+ &lt;td>Mozilla Firefox&lt;/td>
+ &lt;td>Mozilla&lt;/td>
+ &lt;td>Gecko&lt;/td>
+ &lt;td>高度定制化，注重隐私和安全&lt;/td>
+ &lt;td>桌面和移动设备浏览，强大的隐私保护功能，丰富的扩展支持&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Microsoft Edge&lt;/td>
- &lt;td style="text-align: left">Microsoft&lt;/td>
- &lt;td style="text-align: left">Blink&lt;/td>
- &lt;td style="text-align: left">高性能，集成Microsoft服务，支持最新Web标准&lt;/td>
- &lt;td style="text-align: left">Windows设备上的默认浏览器，适合企业和个人用户&lt;/td>
+ &lt;td>Microsoft Edge&lt;/td>
+ &lt;td>Microsoft&lt;/td>
+ &lt;td>Blink&lt;/td>
+ &lt;td>高性能，集成Microsoft服务，支持最新Web标准&lt;/td>
+ &lt;td>Windows设备上的默认浏览器，适合企业和个人用户&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Opera&lt;/td>
- &lt;td style="text-align: left">Opera Software&lt;/td>
- &lt;td style="text-align: left">Blink&lt;/td>
- &lt;td style="text-align: left">内置VPN服务、广告拦截、高度可定制&lt;/td>
- &lt;td style="text-align: left">桌面和移动设备浏览，适合需要更多隐私和自定义选项的用户&lt;/td>
+ &lt;td>Opera&lt;/td>
+ &lt;td>Opera Software&lt;/td>
+ &lt;td>Blink&lt;/td>
+ &lt;td>内置VPN服务、广告拦截、高度可定制&lt;/td>
+ &lt;td>桌面和移动设备浏览，适合需要更多隐私和自定义选项的用户&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Samsung Internet&lt;/td>
- &lt;td style="text-align: left">Samsung&lt;/td>
- &lt;td style="text-align: left">Blink&lt;/td>
- &lt;td style="text-align: left">性能优化，适合三星设备，内置广告拦截&lt;/td>
- &lt;td style="text-align: left">三星设备上的默认浏览器，优化的移动浏览体验&lt;/td>
+ &lt;td>Samsung Internet&lt;/td>
+ &lt;td>Samsung&lt;/td>
+ &lt;td>Blink&lt;/td>
+ &lt;td>性能优化，适合三星设备，内置广告拦截&lt;/td>
+ &lt;td>三星设备上的默认浏览器，优化的移动浏览体验&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Brave&lt;/td>
- &lt;td style="text-align: left">Brave Software&lt;/td>
- &lt;td style="text-align: left">Blink&lt;/td>
- &lt;td style="text-align: left">强调隐私保护和广告拦截&lt;/td>
- &lt;td style="text-align: left">桌面和移动设备浏览，适合注重隐私和安全的用户&lt;/td>
+ &lt;td>Brave&lt;/td>
+ &lt;td>Brave Software&lt;/td>
+ &lt;td>Blink&lt;/td>
+ &lt;td>强调隐私保护和广告拦截&lt;/td>
+ &lt;td>桌面和移动设备浏览，适合注重隐私和安全的用户&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Arc&lt;/td>
- &lt;td style="text-align: left">The Browser Company&lt;/td>
- &lt;td style="text-align: left">Chromium&lt;/td>
- &lt;td style="text-align: left">多功能用户界面、隐私保护机制、性能优化&lt;/td>
- &lt;td style="text-align: left">多任务处理，隐私保护，个性化浏览体验&lt;/td>
+ &lt;td>Arc&lt;/td>
+ &lt;td>The Browser Company&lt;/td>
+ &lt;td>Chromium&lt;/td>
+ &lt;td>多功能用户界面、隐私保护机制、性能优化&lt;/td>
+ &lt;td>多任务处理，隐私保护，个性化浏览体验&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -134,28 +134,28 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">开源项目&lt;/th>
- &lt;th style="text-align: left">使用或基于该项目的产品&lt;/th>
- &lt;th style="text-align: left">GitHub链接&lt;/th>
+ &lt;th>开源项目&lt;/th>
+ &lt;th>使用或基于该项目的产品&lt;/th>
+ &lt;th>GitHub链接&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Chromium项目&lt;/td>
- &lt;td style="text-align: left">Google Chrome、Microsoft Edge、Opera、Brave&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://github.com/chromium/chromium" target="_blank" rel="noopener">Chromium GitHub&lt;/a>
+ &lt;td>Chromium项目&lt;/td>
+ &lt;td>Google Chrome、Microsoft Edge、Opera、Brave&lt;/td>
+ &lt;td>&lt;a href="https://github.com/chromium/chromium" target="_blank" rel="noopener">Chromium GitHub&lt;/a>
 &lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Firefox项目&lt;/td>
- &lt;td style="text-align: left">Mozilla Firefox&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://github.com/mozilla/gecko-dev" target="_blank" rel="noopener">Firefox GitHub&lt;/a>
+ &lt;td>Firefox项目&lt;/td>
+ &lt;td>Mozilla Firefox&lt;/td>
+ &lt;td>&lt;a href="https://github.com/mozilla/gecko-dev" target="_blank" rel="noopener">Firefox GitHub&lt;/a>
 &lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">WebKit项目&lt;/td>
- &lt;td style="text-align: left">Safari、旧版的Google Chrome、部分嵌入式设备的浏览器&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://github.com/WebKit/WebKit" target="_blank" rel="noopener">WebKit GitHub&lt;/a>
+ &lt;td>WebKit项目&lt;/td>
+ &lt;td>Safari、旧版的Google Chrome、部分嵌入式设备的浏览器&lt;/td>
+ &lt;td>&lt;a href="https://github.com/WebKit/WebKit" target="_blank" rel="noopener">WebKit GitHub&lt;/a>
 &lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -164,74 +164,74 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">引擎&lt;/th>
- &lt;th style="text-align: left">特性&lt;/th>
- &lt;th style="text-align: left">优点&lt;/th>
- &lt;th style="text-align: left">缺点&lt;/th>
- &lt;th style="text-align: left">架构思路&lt;/th>
+ &lt;th>引擎&lt;/th>
+ &lt;th>特性&lt;/th>
+ &lt;th>优点&lt;/th>
+ &lt;th>缺点&lt;/th>
+ &lt;th>架构思路&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">WebKit&lt;/td>
- &lt;td style="text-align: left">Safari使用的引擎&lt;/td>
- &lt;td style="text-align: left">性能优化较好，适合移动设备&lt;/td>
- &lt;td style="text-align: left">生态系统封闭，主要用于苹果产品&lt;/td>
- &lt;td style="text-align: left">轻量级，高效处理网页渲染&lt;/td>
+ &lt;td>WebKit&lt;/td>
+ &lt;td>Safari使用的引擎&lt;/td>
+ &lt;td>性能优化较好，适合移动设备&lt;/td>
+ &lt;td>生态系统封闭，主要用于苹果产品&lt;/td>
+ &lt;td>轻量级，高效处理网页渲染&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Blink&lt;/td>
- &lt;td style="text-align: left">由谷歌开发并在Chrome和Microsoft Edge中使用&lt;/td>
- &lt;td style="text-align: left">高性能，强大功能，广泛支持各种现代Web标准&lt;/td>
- &lt;td style="text-align: left">资源消耗较高，复杂性高&lt;/td>
- &lt;td style="text-align: left">多进程架构，强调安全性和稳定性&lt;/td>
+ &lt;td>Blink&lt;/td>
+ &lt;td>由谷歌开发并在Chrome和Microsoft Edge中使用&lt;/td>
+ &lt;td>高性能，强大功能，广泛支持各种现代Web标准&lt;/td>
+ &lt;td>资源消耗较高，复杂性高&lt;/td>
+ &lt;td>多进程架构，强调安全性和稳定性&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Gecko&lt;/td>
- &lt;td style="text-align: left">Firefox使用的引擎&lt;/td>
- &lt;td style="text-align: left">高度定制化，注重隐私和安全&lt;/td>
- &lt;td style="text-align: left">相对于其他引擎速度较慢，部分功能支持不够全面&lt;/td>
- &lt;td style="text-align: left">模块化设计，支持广泛的Web标准和技术&lt;/td>
+ &lt;td>Gecko&lt;/td>
+ &lt;td>Firefox使用的引擎&lt;/td>
+ &lt;td>高度定制化，注重隐私和安全&lt;/td>
+ &lt;td>相对于其他引擎速度较慢，部分功能支持不够全面&lt;/td>
+ &lt;td>模块化设计，支持广泛的Web标准和技术&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">引擎&lt;/th>
- &lt;th style="text-align: left">特性&lt;/th>
- &lt;th style="text-align: left">优点&lt;/th>
- &lt;th style="text-align: left">缺点&lt;/th>
- &lt;th style="text-align: left">架构思路&lt;/th>
- &lt;th style="text-align: left">依据&lt;/th>
+ &lt;th>引擎&lt;/th>
+ &lt;th>特性&lt;/th>
+ &lt;th>优点&lt;/th>
+ &lt;th>缺点&lt;/th>
+ &lt;th>架构思路&lt;/th>
+ &lt;th>依据&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">WebKit&lt;/td>
- &lt;td style="text-align: left">Safari使用的引擎&lt;/td>
- &lt;td style="text-align: left">性能优化较好，适合移动设备&lt;/td>
- &lt;td style="text-align: left">生态系统封闭，主要用于苹果产品&lt;/td>
- &lt;td style="text-align: left">轻量级，高效处理网页渲染&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://developer.apple.com/documentation/webkit" target="_blank" rel="noopener">苹果产品和iOS开发者指南&lt;/a>
+ &lt;td>WebKit&lt;/td>
+ &lt;td>Safari使用的引擎&lt;/td>
+ &lt;td>性能优化较好，适合移动设备&lt;/td>
+ &lt;td>生态系统封闭，主要用于苹果产品&lt;/td>
+ &lt;td>轻量级，高效处理网页渲染&lt;/td>
+ &lt;td>&lt;a href="https://developer.apple.com/documentation/webkit" target="_blank" rel="noopener">苹果产品和iOS开发者指南&lt;/a>
 &lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Blink&lt;/td>
- &lt;td style="text-align: left">由谷歌开发并在Chrome和Microsoft Edge中使用&lt;/td>
- &lt;td style="text-align: left">高性能，强大功能，广泛支持各种现代Web标准&lt;/td>
- &lt;td style="text-align: left">资源消耗较高，复杂性高&lt;/td>
- &lt;td style="text-align: left">多进程架构，强调安全性和稳定性&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.chromium.org/developers/design-documents" target="_blank" rel="noopener">Chromium项目文档&lt;/a>
+ &lt;td>Blink&lt;/td>
+ &lt;td>由谷歌开发并在Chrome和Microsoft Edge中使用&lt;/td>
+ &lt;td>高性能，强大功能，广泛支持各种现代Web标准&lt;/td>
+ &lt;td>资源消耗较高，复杂性高&lt;/td>
+ &lt;td>多进程架构，强调安全性和稳定性&lt;/td>
+ &lt;td>&lt;a href="https://www.chromium.org/developers/design-documents" target="_blank" rel="noopener">Chromium项目文档&lt;/a>
 &lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Gecko&lt;/td>
- &lt;td style="text-align: left">Firefox使用的引擎&lt;/td>
- &lt;td style="text-align: left">高度定制化，注重隐私和安全&lt;/td>
- &lt;td style="text-align: left">相对于其他引擎速度较慢，部分功能支持不够全面&lt;/td>
- &lt;td style="text-align: left">模块化设计，支持广泛的Web标准和技术&lt;/td>
- &lt;td style="text-align: left">[Mozilla开发者网络（MDN）](&lt;a href="https://developer.mozilla.org/en-US/search?q=Gecko" target="_blank" rel="noopener">Search: &amp;ldquo;Gecko&amp;rdquo; (mozilla.org)&lt;/a>
+ &lt;td>Gecko&lt;/td>
+ &lt;td>Firefox使用的引擎&lt;/td>
+ &lt;td>高度定制化，注重隐私和安全&lt;/td>
+ &lt;td>相对于其他引擎速度较慢，部分功能支持不够全面&lt;/td>
+ &lt;td>模块化设计，支持广泛的Web标准和技术&lt;/td>
+ &lt;td>[Mozilla开发者网络（MDN）](&lt;a href="https://developer.mozilla.org/en-US/search?q=Gecko" target="_blank" rel="noopener">Search: &amp;ldquo;Gecko&amp;rdquo; (mozilla.org)&lt;/a>
 )&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -240,39 +240,39 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">JavaScript引擎&lt;/th>
- &lt;th style="text-align: left">特性&lt;/th>
- &lt;th style="text-align: left">优点&lt;/th>
- &lt;th style="text-align: left">缺点&lt;/th>
- &lt;th style="text-align: left">架构思路&lt;/th>
- &lt;th style="text-align: left">依据&lt;/th>
+ &lt;th>JavaScript引擎&lt;/th>
+ &lt;th>特性&lt;/th>
+ &lt;th>优点&lt;/th>
+ &lt;th>缺点&lt;/th>
+ &lt;th>架构思路&lt;/th>
+ &lt;th>依据&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">V8&lt;/td>
- &lt;td style="text-align: left">由谷歌开发，主要用于Chrome和Edge&lt;/td>
- &lt;td style="text-align: left">高性能，广泛支持现代JavaScript标准，优化JIT编译&lt;/td>
- &lt;td style="text-align: left">资源消耗较高，复杂性高&lt;/td>
- &lt;td style="text-align: left">注重性能和执行速度，使用即时编译（JIT）技术&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://v8.dev/docs" target="_blank" rel="noopener">V8项目文档&lt;/a>
+ &lt;td>V8&lt;/td>
+ &lt;td>由谷歌开发，主要用于Chrome和Edge&lt;/td>
+ &lt;td>高性能，广泛支持现代JavaScript标准，优化JIT编译&lt;/td>
+ &lt;td>资源消耗较高，复杂性高&lt;/td>
+ &lt;td>注重性能和执行速度，使用即时编译（JIT）技术&lt;/td>
+ &lt;td>&lt;a href="https://v8.dev/docs" target="_blank" rel="noopener">V8项目文档&lt;/a>
 &lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">SpiderMonkey&lt;/td>
- &lt;td style="text-align: left">Mozilla开发，主要用于Firefox&lt;/td>
- &lt;td style="text-align: left">高度可定制，注重安全和隐私，支持广泛的JavaScript功能&lt;/td>
- &lt;td style="text-align: left">性能较其他引擎稍慢，部分功能支持不如其他引擎全面&lt;/td>
- &lt;td style="text-align: left">模块化设计，支持最新的JavaScript标准和功能&lt;/td>
- &lt;td style="text-align: left">[SpiderMonkey文档]([Home&lt;/td>
+ &lt;td>SpiderMonkey&lt;/td>
+ &lt;td>Mozilla开发，主要用于Firefox&lt;/td>
+ &lt;td>高度可定制，注重安全和隐私，支持广泛的JavaScript功能&lt;/td>
+ &lt;td>性能较其他引擎稍慢，部分功能支持不如其他引擎全面&lt;/td>
+ &lt;td>模块化设计，支持最新的JavaScript标准和功能&lt;/td>
+ &lt;td>[SpiderMonkey文档]([Home&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">JavaScriptCore (Nitro)&lt;/td>
- &lt;td style="text-align: left">苹果开发，主要用于Safari&lt;/td>
- &lt;td style="text-align: left">性能优化较好，适合移动设备，支持最新的JavaScript标准&lt;/td>
- &lt;td style="text-align: left">生态系统封闭，主要用于苹果产品&lt;/td>
- &lt;td style="text-align: left">轻量级，专为高效处理移动设备上的JavaScript而设计&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://webkit.org/projects/javascript/" target="_blank" rel="noopener">WebKit项目文档&lt;/a>
+ &lt;td>JavaScriptCore (Nitro)&lt;/td>
+ &lt;td>苹果开发，主要用于Safari&lt;/td>
+ &lt;td>性能优化较好，适合移动设备，支持最新的JavaScript标准&lt;/td>
+ &lt;td>生态系统封闭，主要用于苹果产品&lt;/td>
+ &lt;td>轻量级，专为高效处理移动设备上的JavaScript而设计&lt;/td>
+ &lt;td>&lt;a href="https://webkit.org/projects/javascript/" target="_blank" rel="noopener">WebKit项目文档&lt;/a>
 &lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -281,30 +281,30 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">JavaScript引擎&lt;/th>
- &lt;th style="text-align: left">技术方案&lt;/th>
- &lt;th style="text-align: left">历史与发展&lt;/th>
- &lt;th style="text-align: left">现代使用场景&lt;/th>
+ &lt;th>JavaScript引擎&lt;/th>
+ &lt;th>技术方案&lt;/th>
+ &lt;th>历史与发展&lt;/th>
+ &lt;th>现代使用场景&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">V8&lt;/td>
- &lt;td style="text-align: left">即时编译（JIT），高效垃圾回收&lt;/td>
- &lt;td style="text-align: left">由Google开发，2008年发布，伴随Chrome发布，持续优化&lt;/td>
- &lt;td style="text-align: left">浏览器（Chrome）、服务器端（&lt;em>Node.js&lt;/em>）、桌面应用（&lt;em>Electron&lt;/em>）&lt;/td>
+ &lt;td>V8&lt;/td>
+ &lt;td>即时编译（JIT），高效垃圾回收&lt;/td>
+ &lt;td>由Google开发，2008年发布，伴随Chrome发布，持续优化&lt;/td>
+ &lt;td>浏览器（Chrome）、服务器端（&lt;em>Node.js&lt;/em>）、桌面应用（&lt;em>Electron&lt;/em>）&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">SpiderMonkey&lt;/td>
- &lt;td style="text-align: left">即时编译（JIT），增量垃圾回收&lt;/td>
- &lt;td style="text-align: left">由Netscape开发，1995年作为首个JavaScript引擎发布，Mozilla接手并不断改进&lt;/td>
- &lt;td style="text-align: left">浏览器（Firefox）、服务器端（Mozilla服务）、嵌入式应用&lt;/td>
+ &lt;td>SpiderMonkey&lt;/td>
+ &lt;td>即时编译（JIT），增量垃圾回收&lt;/td>
+ &lt;td>由Netscape开发，1995年作为首个JavaScript引擎发布，Mozilla接手并不断改进&lt;/td>
+ &lt;td>浏览器（Firefox）、服务器端（Mozilla服务）、嵌入式应用&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">JavaScriptCore (Nitro)&lt;/td>
- &lt;td style="text-align: left">即时编译（JIT），高效内存管理&lt;/td>
- &lt;td style="text-align: left">由Apple开发，2002年发布，伴随Safari发布，并在iOS中使用&lt;/td>
- &lt;td style="text-align: left">浏览器（Safari）、iOS应用&lt;/td>
+ &lt;td>JavaScriptCore (Nitro)&lt;/td>
+ &lt;td>即时编译（JIT），高效内存管理&lt;/td>
+ &lt;td>由Apple开发，2002年发布，伴随Safari发布，并在iOS中使用&lt;/td>
+ &lt;td>浏览器（Safari）、iOS应用&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -312,30 +312,30 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">安全机制&lt;/th>
- &lt;th style="text-align: left">目的&lt;/th>
- &lt;th style="text-align: left">解决方案&lt;/th>
- &lt;th style="text-align: left">引发的问题&lt;/th>
+ &lt;th>安全机制&lt;/th>
+ &lt;th>目的&lt;/th>
+ &lt;th>解决方案&lt;/th>
+ &lt;th>引发的问题&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">沙盒机制 (Sandboxing)&lt;/td>
- &lt;td style="text-align: left">隔离浏览器进程，防止恶意代码影响系统其他部分&lt;/td>
- &lt;td style="text-align: left">每个标签页、插件和浏览器组件在独立的沙盒中运行&lt;/td>
- &lt;td style="text-align: left">增加资源消耗和复杂性，可能影响浏览器性能&lt;/td>
+ &lt;td>沙盒机制 (Sandboxing)&lt;/td>
+ &lt;td>隔离浏览器进程，防止恶意代码影响系统其他部分&lt;/td>
+ &lt;td>每个标签页、插件和浏览器组件在独立的沙盒中运行&lt;/td>
+ &lt;td>增加资源消耗和复杂性，可能影响浏览器性能&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">同源策略 (Same-Origin Policy)&lt;/td>
- &lt;td style="text-align: left">防止不同来源的资源相互访问，保护用户数据安全&lt;/td>
- &lt;td style="text-align: left">限制一个来源的文档或脚本与来自不同来源的资源进行交互&lt;/td>
- &lt;td style="text-align: left">限制了一些跨域资源共享的合法需求，需要复杂的跨域解决方案&lt;/td>
+ &lt;td>同源策略 (Same-Origin Policy)&lt;/td>
+ &lt;td>防止不同来源的资源相互访问，保护用户数据安全&lt;/td>
+ &lt;td>限制一个来源的文档或脚本与来自不同来源的资源进行交互&lt;/td>
+ &lt;td>限制了一些跨域资源共享的合法需求，需要复杂的跨域解决方案&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">内容安全策略 (Content Security Policy)&lt;/td>
- &lt;td style="text-align: left">防止跨站脚本攻击（XSS）和数据注入攻击&lt;/td>
- &lt;td style="text-align: left">通过HTTP头设定策略，限制加载的资源类型和来源&lt;/td>
- &lt;td style="text-align: left">实施和维护策略复杂，需要开发者仔细配置和测试&lt;/td>
+ &lt;td>内容安全策略 (Content Security Policy)&lt;/td>
+ &lt;td>防止跨站脚本攻击（XSS）和数据注入攻击&lt;/td>
+ &lt;td>通过HTTP头设定策略，限制加载的资源类型和来源&lt;/td>
+ &lt;td>实施和维护策略复杂，需要开发者仔细配置和测试&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>

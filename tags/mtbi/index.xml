@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MTBI on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/mtbi/</link><description>Recent content in MTBI on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/mtbi/index.xml" rel="self" type="application/rss+xml"/><item><title>MTBI</title><link>https://cuisiting.github.io/posts/cuisiting/mtbi/</link><pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/mtbi/</guid><description>&lt;h1 id="test">Test&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MTBI on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/mtbi/</link><description>Recent content in MTBI on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/mtbi/index.xml" rel="self" type="application/rss+xml"/><item><title>MTBI</title><link>https://cuisiting.github.io/posts/external/mtbi/</link><pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/mtbi/</guid><description>&lt;h1 id="test">Test&lt;/h1>
 &lt;p>&lt;a href="https://www.16personalities.com/free-personality-test" target="_blank" rel="noopener">Free Personality Test | 16Personalities&lt;/a>
 &lt;br>
 &lt;a href="https://www.16personalities.com/ch/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95" target="_blank" rel="noopener">免费性格测试 | 16Personalities&lt;/a>
@@ -7,31 +7,31 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">维度&lt;/th>
- &lt;th style="text-align: left">选项 A&lt;/th>
- &lt;th style="text-align: left">选项 B&lt;/th>
+ &lt;th>维度&lt;/th>
+ &lt;th>选项 A&lt;/th>
+ &lt;th>选项 B&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">外向 (E) vs. 内向 (I)&lt;/td>
- &lt;td style="text-align: left">从外界环境和与人交往中获取能量，&lt;br>喜欢与人互动和交流。&lt;/td>
- &lt;td style="text-align: left">从内在世界和独处中获取能量，&lt;br>更喜欢独自思考和工作。&lt;/td>
+ &lt;td>外向 (E) vs. 内向 (I)&lt;/td>
+ &lt;td>从外界环境和与人交往中获取能量，&lt;br>喜欢与人互动和交流。&lt;/td>
+ &lt;td>从内在世界和独处中获取能量，&lt;br>更喜欢独自思考和工作。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">感觉 (S) vs. 直觉 (N)&lt;/td>
- &lt;td style="text-align: left">注重现实和具体的细节，&lt;br>喜欢依赖实际的经验和信息。&lt;/td>
- &lt;td style="text-align: left">注重未来和可能性，&lt;br>喜欢依赖直觉和抽象的概念&lt;/td>
+ &lt;td>感觉 (S) vs. 直觉 (N)&lt;/td>
+ &lt;td>注重现实和具体的细节，&lt;br>喜欢依赖实际的经验和信息。&lt;/td>
+ &lt;td>注重未来和可能性，&lt;br>喜欢依赖直觉和抽象的概念&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">思考 (T) vs. 情感 (F)&lt;/td>
- &lt;td style="text-align: left">做决定时倾向于逻辑和客观分析，&lt;br>注重事实和原则。&lt;/td>
- &lt;td style="text-align: left">做决定时倾向于考虑情感和&lt;br>个人价值观，&lt;br>注重人际关系和和谐。&lt;/td>
+ &lt;td>思考 (T) vs. 情感 (F)&lt;/td>
+ &lt;td>做决定时倾向于逻辑和客观分析，&lt;br>注重事实和原则。&lt;/td>
+ &lt;td>做决定时倾向于考虑情感和&lt;br>个人价值观，&lt;br>注重人际关系和和谐。&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">判断 (J) vs. 知觉 (P)&lt;/td>
- &lt;td style="text-align: left">喜欢计划和组织，&lt;br>有条理，喜欢确定性和结构。&lt;/td>
- &lt;td style="text-align: left">喜欢灵活和自发，开放，&lt;br>喜欢探索和适应变化。&lt;/td>
+ &lt;td>判断 (J) vs. 知觉 (P)&lt;/td>
+ &lt;td>喜欢计划和组织，&lt;br>有条理，喜欢确定性和结构。&lt;/td>
+ &lt;td>喜欢灵活和自发，开放，&lt;br>喜欢探索和适应变化。&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table></description></item></channel></rss>

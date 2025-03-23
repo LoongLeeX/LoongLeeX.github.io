@@ -1,58 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coffee on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/coffee/</link><description>Recent content in Coffee on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/coffee/index.xml" rel="self" type="application/rss+xml"/><item><title>咖啡</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%92%96%E5%95%A1/</link><pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%92%96%E5%95%A1/</guid><description>&lt;table>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coffee on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/coffee/</link><description>Recent content in Coffee on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/coffee/index.xml" rel="self" type="application/rss+xml"/><item><title>咖啡</title><link>https://cuisiting.github.io/posts/external/%E5%92%96%E5%95%A1/</link><pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E5%92%96%E5%95%A1/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Coffee Name&lt;/th>
- &lt;th style="text-align: left">Essential&lt;/th>
+ &lt;th>Coffee Name&lt;/th>
+ &lt;th>Essential&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Espresso&lt;/td>
- &lt;td style="text-align: left">Espresso &lt;br>(1 shot)&lt;/td>
+ &lt;td>Espresso&lt;/td>
+ &lt;td>Espresso &lt;br>(1 shot)&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Flat White&lt;/td>
- &lt;td style="text-align: left">2/3 Steamed Milk &lt;br>1/3 Espresso&lt;/td>
+ &lt;td>Flat White&lt;/td>
+ &lt;td>2/3 Steamed Milk &lt;br>1/3 Espresso&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Cappuccino&lt;/td>
- &lt;td style="text-align: left">1/3 Milk foam &lt;br>1/3 Hot Milk &lt;br>1/3 Espresso&lt;/td>
+ &lt;td>Cappuccino&lt;/td>
+ &lt;td>1/3 Milk foam &lt;br>1/3 Hot Milk &lt;br>1/3 Espresso&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Americano&lt;/td>
- &lt;td style="text-align: left">2/3 Water &lt;br>1/3 Espresso&lt;/td>
+ &lt;td>Americano&lt;/td>
+ &lt;td>2/3 Water &lt;br>1/3 Espresso&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Latte&lt;/td>
- &lt;td style="text-align: left">Milk foam &lt;br>1/3 Steamed Milk &lt;br>1/3 Espresso&lt;/td>
+ &lt;td>Latte&lt;/td>
+ &lt;td>Milk foam &lt;br>1/3 Steamed Milk &lt;br>1/3 Espresso&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Mocha&lt;/td>
- &lt;td style="text-align: left">1/5 Steamed Milk &lt;br>2/5 Chocolate &lt;br>2/5 Espresso&lt;/td>
+ &lt;td>Mocha&lt;/td>
+ &lt;td>1/5 Steamed Milk &lt;br>2/5 Chocolate &lt;br>2/5 Espresso&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Affogato&lt;/td>
- &lt;td style="text-align: left">2/5 Vanilla Ice Cream &lt;br>2/5 Espresso&lt;/td>
+ &lt;td>Affogato&lt;/td>
+ &lt;td>2/5 Vanilla Ice Cream &lt;br>2/5 Espresso&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Macchiato&lt;/td>
- &lt;td style="text-align: left">Dash of Steamed Milk &lt;br>Double shot Espresso&lt;/td>
+ &lt;td>Macchiato&lt;/td>
+ &lt;td>Dash of Steamed Milk &lt;br>Double shot Espresso&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Irish Coffee&lt;/td>
- &lt;td style="text-align: left">1/2 Whipped Milk &lt;br>1/2 Irish Whisky &lt;br>1/2 Espresso&lt;/td>
+ &lt;td>Irish Coffee&lt;/td>
+ &lt;td>1/2 Whipped Milk &lt;br>1/2 Irish Whisky &lt;br>1/2 Espresso&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Marocchino&lt;/td>
- &lt;td style="text-align: left">1/2 Whipped Milk &lt;br>2/5 Hot Chocolate &lt;br>1/2 Espresso&lt;/td>
+ &lt;td>Marocchino&lt;/td>
+ &lt;td>1/2 Whipped Milk &lt;br>2/5 Hot Chocolate &lt;br>1/2 Espresso&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Lungo&lt;/td>
- &lt;td style="text-align: left">Double shot Espresso&lt;/td>
+ &lt;td>Lungo&lt;/td>
+ &lt;td>Double shot Espresso&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Con Panna&lt;/td>
- &lt;td style="text-align: left">2/3 Whipped Cream &lt;br>1/3 Espresso&lt;/td>
+ &lt;td>Con Panna&lt;/td>
+ &lt;td>2/3 Whipped Cream &lt;br>1/3 Espresso&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>

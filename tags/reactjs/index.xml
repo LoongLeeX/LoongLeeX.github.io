@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ReactJs on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/reactjs/</link><description>Recent content in ReactJs on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/reactjs/index.xml" rel="self" type="application/rss+xml"/><item><title>React.js vs Vue.js</title><link>https://cuisiting.github.io/posts/cuisiting/react.js-vs-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/react.js-vs-vue.js/</guid><description>&lt;h1 id="vue-作为开源社区维护的框架能和reactjs-放在一起比较已经很牛b了">Vue 作为开源社区维护的框架，能和Reactjs 放在一起比较，已经很牛B了&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ReactJs on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/reactjs/</link><description>Recent content in ReactJs on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/reactjs/index.xml" rel="self" type="application/rss+xml"/><item><title>React.js vs Vue.js</title><link>https://cuisiting.github.io/posts/external/react.js-vs-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/react.js-vs-vue.js/</guid><description>&lt;h1 id="vue-作为开源社区维护的框架能和reactjs-放在一起比较已经很牛b了">Vue 作为开源社区维护的框架，能和Reactjs 放在一起比较，已经很牛B了&lt;/h1>
 &lt;h1 id="github-star">github star&lt;/h1>
 &lt;p>&lt;a href="https://star-history.com/#facebook/react&amp;amp;vuejs/core&amp;amp;Date" target="_blank" rel="noopener">https://star-history.com/#facebook/react&amp;vuejs/core&amp;Date&lt;/a>
 &lt;/p>
@@ -18,138 +18,138 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">公司&lt;/th>
- &lt;th style="text-align: left">网站&lt;/th>
- &lt;th style="text-align: left">网页&lt;/th>
- &lt;th style="text-align: left">Js framework&lt;/th>
- &lt;th style="text-align: left">&lt;/th>
- &lt;th style="text-align: left">&lt;/th>
+ &lt;th>公司&lt;/th>
+ &lt;th>网站&lt;/th>
+ &lt;th>网页&lt;/th>
+ &lt;th>Js framework&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Apple&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.apple.com/iphone/" target="_blank" rel="noopener">iPhone - Apple&lt;/a>
+ &lt;td>Apple&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://www.apple.com/iphone/" target="_blank" rel="noopener">iPhone - Apple&lt;/a>
 &lt;/td>
- &lt;td style="text-align: left">React&lt;/td>
- &lt;td style="text-align: left">部分网页&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>React&lt;/td>
+ &lt;td>部分网页&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">ChatGPT&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://chatgpt.com/" target="_blank" rel="noopener">ChatGPT&lt;/a>
+ &lt;td>ChatGPT&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://chatgpt.com/" target="_blank" rel="noopener">ChatGPT&lt;/a>
 &lt;/td>
- &lt;td style="text-align: left">React&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>React&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Yahoo&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.yahoo.com/" target="_blank" rel="noopener">Yahoo &lt;/a>
+ &lt;td>Yahoo&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://www.yahoo.com/" target="_blank" rel="noopener">Yahoo &lt;/a>
 &lt;/td>
- &lt;td style="text-align: left">React&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>React&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Netflix&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.netflix.com/" target="_blank" rel="noopener">https://www.netflix.com/&lt;/a>
+ &lt;td>Netflix&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://www.netflix.com/" target="_blank" rel="noopener">https://www.netflix.com/&lt;/a>
 &lt;/td>
- &lt;td style="text-align: left">React&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>React&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Tesla&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.tesla.com/models/design#overview" target="_blank" rel="noopener">https://www.tesla.com/models/design#overview&lt;/a>
+ &lt;td>Tesla&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://www.tesla.com/models/design#overview" target="_blank" rel="noopener">https://www.tesla.com/models/design#overview&lt;/a>
 &lt;/td>
- &lt;td style="text-align: left">React&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>React&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Spotify&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x" target="_blank" rel="noopener">https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x&lt;/a>
+ &lt;td>Spotify&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x" target="_blank" rel="noopener">https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x&lt;/a>
 &lt;/td>
- &lt;td style="text-align: left">React&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>React&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Wappalyzer&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.wappalyzer.com/" target="_blank" rel="noopener">https://www.wappalyzer.com/&lt;/a>
+ &lt;td>Wappalyzer&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://www.wappalyzer.com/" target="_blank" rel="noopener">https://www.wappalyzer.com/&lt;/a>
 &lt;/td>
- &lt;td style="text-align: left">Vue&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Vue&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Baidu&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.baidu.com/" target="_blank" rel="noopener">https://www.baidu.com/&lt;/a>
+ &lt;td>Baidu&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://www.baidu.com/" target="_blank" rel="noopener">https://www.baidu.com/&lt;/a>
 &lt;/td>
- &lt;td style="text-align: left">Vue&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Vue&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">腾讯云开发者社区&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://cloud.tencent.com/developer" target="_blank" rel="noopener">腾讯云开发者社区-腾讯云 (tencent.com)&lt;/a>
+ &lt;td>腾讯云开发者社区&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://cloud.tencent.com/developer" target="_blank" rel="noopener">腾讯云开发者社区-腾讯云 (tencent.com)&lt;/a>
 &lt;/td>
- &lt;td style="text-align: left">Vue&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Vue&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>如何分析一个网页使用了Recat.js 还是 Vue.js</title><link>https://cuisiting.github.io/posts/cuisiting/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</guid><description>&lt;h2 id="如何分析一个网页使用了reactjs还是vuejs">如何分析一个网页使用了React.js还是Vue.js&lt;/h2>
+&lt;/table></description></item><item><title>如何分析一个网页使用了Recat.js 还是 Vue.js</title><link>https://cuisiting.github.io/posts/external/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</guid><description>&lt;h2 id="如何分析一个网页使用了reactjs还是vuejs">如何分析一个网页使用了React.js还是Vue.js&lt;/h2>
 &lt;h3 id="1-查看页面源码">1. 查看页面源码&lt;/h3>
 &lt;p>打开浏览器，右键点击页面并选择“查看页面源码”（View Page Source）或按 &lt;code>Ctrl + U&lt;/code>。在源码中查找以下关键字：&lt;/p>
 &lt;ul>

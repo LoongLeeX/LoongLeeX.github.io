@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>信用卡 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/</link><description>Recent content in 信用卡 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/index.xml" rel="self" type="application/rss+xml"/><item><title>Check My CreditScore</title><link>https://cuisiting.github.io/posts/cuisiting/check-my-creditscore/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/check-my-creditscore/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>信用卡 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/</link><description>Recent content in 信用卡 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/index.xml" rel="self" type="application/rss+xml"/><item><title>Check My CreditScore</title><link>https://cuisiting.github.io/posts/external/check-my-creditscore/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/check-my-creditscore/</guid><description>&lt;p>
 
 
 &lt;div class="not-prose">
@@ -21,72 +21,72 @@ By law, you can get a free credit report each year from the three credit reporti
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">项目（Project）&lt;/th>
- &lt;th style="text-align: left">Experian&lt;/th>
- &lt;th style="text-align: left">Equifax&lt;/th>
- &lt;th style="text-align: left">TransUnion&lt;/th>
+ &lt;th>项目（Project）&lt;/th>
+ &lt;th>Experian&lt;/th>
+ &lt;th>Equifax&lt;/th>
+ &lt;th>TransUnion&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">简介 (Introduction)&lt;/td>
- &lt;td style="text-align: left">美国最大的信用局，为超过2.2亿消费者维护信用信息。独特之处在于收集房东报告的租金支付数据。 (The largest credit bureau in the U.S., maintaining credit information for over 220 million consumers. Unique for collecting rental payment data from landlords.)&lt;/td>
- &lt;td style="text-align: left">总部位于乔治亚州亚特兰大，成立于1899年，是继Experian之后的第二大信用局。 (Based in Atlanta, Georgia, founded in 1899, the second-largest credit bureau after Experian.)&lt;/td>
- &lt;td style="text-align: left">在全球30多个国家收集超过10亿消费者的信息。与其他两个信用局相比，更重视支付历史和信用年龄。 (Gathers information on over 1 billion consumers in over 30 countries. Weighs payment history and credit age more than the other bureaus.)&lt;/td>
+ &lt;td>简介 (Introduction)&lt;/td>
+ &lt;td>美国最大的信用局，为超过2.2亿消费者维护信用信息。独特之处在于收集房东报告的租金支付数据。 (The largest credit bureau in the U.S., maintaining credit information for over 220 million consumers. Unique for collecting rental payment data from landlords.)&lt;/td>
+ &lt;td>总部位于乔治亚州亚特兰大，成立于1899年，是继Experian之后的第二大信用局。 (Based in Atlanta, Georgia, founded in 1899, the second-largest credit bureau after Experian.)&lt;/td>
+ &lt;td>在全球30多个国家收集超过10亿消费者的信息。与其他两个信用局相比，更重视支付历史和信用年龄。 (Gathers information on over 1 billion consumers in over 30 countries. Weighs payment history and credit age more than the other bureaus.)&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">支付历史 (Payment History)&lt;/td>
- &lt;td style="text-align: left">35%&lt;/td>
- &lt;td style="text-align: left">35%&lt;/td>
- &lt;td style="text-align: left">40%&lt;/td>
+ &lt;td>支付历史 (Payment History)&lt;/td>
+ &lt;td>35%&lt;/td>
+ &lt;td>35%&lt;/td>
+ &lt;td>40%&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">信用利用率 (Credit Utilization)&lt;/td>
- &lt;td style="text-align: left">30%&lt;/td>
- &lt;td style="text-align: left">30%&lt;/td>
- &lt;td style="text-align: left">20%&lt;/td>
+ &lt;td>信用利用率 (Credit Utilization)&lt;/td>
+ &lt;td>30%&lt;/td>
+ &lt;td>30%&lt;/td>
+ &lt;td>20%&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">信用年龄 (Credit Age)&lt;/td>
- &lt;td style="text-align: left">15%&lt;/td>
- &lt;td style="text-align: left">15%&lt;/td>
- &lt;td style="text-align: left">21%&lt;/td>
+ &lt;td>信用年龄 (Credit Age)&lt;/td>
+ &lt;td>15%&lt;/td>
+ &lt;td>15%&lt;/td>
+ &lt;td>21%&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">不同类型的信用 (Different Types of Credit)&lt;/td>
- &lt;td style="text-align: left">10%&lt;/td>
- &lt;td style="text-align: left">10%&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
+ &lt;td>不同类型的信用 (Different Types of Credit)&lt;/td>
+ &lt;td>10%&lt;/td>
+ &lt;td>10%&lt;/td>
+ &lt;td>-&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>信用查询次数 (Number of Inquiries)&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">10%&lt;/td>
- &lt;td style="text-align: left">10%&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
+ &lt;td>&lt;strong>信用查询次数 (Number of Inquiries)&lt;/strong>&lt;/td>
+ &lt;td>10%&lt;/td>
+ &lt;td>10%&lt;/td>
+ &lt;td>-&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">最近报告的余额 (Recently Reported Balances)&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">11%&lt;/td>
+ &lt;td>最近报告的余额 (Recently Reported Balances)&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>11%&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">新信用 (New Credit)&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">5%&lt;/td>
+ &lt;td>新信用 (New Credit)&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>5%&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">可用信用 (Available Credit)&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">-&lt;/td>
- &lt;td style="text-align: left">3%&lt;/td>
+ &lt;td>可用信用 (Available Credit)&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>-&lt;/td>
+ &lt;td>3%&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">信用评分范围 (Credit Score Range)&lt;/td>
- &lt;td style="text-align: left">300-850 (FICO)&lt;/td>
- &lt;td style="text-align: left">280-850 (FICO)&lt;/td>
- &lt;td style="text-align: left">300-850 (FICO)&lt;/td>
+ &lt;td>信用评分范围 (Credit Score Range)&lt;/td>
+ &lt;td>300-850 (FICO)&lt;/td>
+ &lt;td>280-850 (FICO)&lt;/td>
+ &lt;td>300-850 (FICO)&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table></description></item></channel></rss>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Github on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/github/</link><description>Recent content in Github on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>Git</title><link>https://cuisiting.github.io/posts/cuisiting/git-force-update-commit-author-info/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/git-force-update-commit-author-info/</guid><description>&lt;h1 id="force-update-specify-commit-id">Force update specify commit id&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Github on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/github/</link><description>Recent content in Github on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>Git</title><link>https://cuisiting.github.io/posts/external/git-force-update-commit-author-info/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/git-force-update-commit-author-info/</guid><description>&lt;h1 id="force-update-specify-commit-id">Force update specify commit id&lt;/h1>
 &lt;pre tabindex="0">&lt;code>
 git filter-repo --commit-callback &amp;#39;
 if commit.original_id == b&amp;#34;45131da3ef02aa324590ee29b4d7417686950297&amp;#34;:
@@ -23,7 +23,7 @@ if commit.committer_name == old_author_name and commit.committer_email == old_au
  commit.committer_name = new_author_name
  commit.committer_email = new_author_email
 &amp;#39;
-&lt;/code>&lt;/pre>&lt;h1 id="heading">&lt;/h1>
+&lt;/code>&lt;/pre>&lt;h1>&lt;/h1>
 &lt;p>
 
 
@@ -35,7 +35,7 @@ if commit.committer_name == old_author_name and commit.committer_email == old_au
  width=""
  >
  &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>Github</title><link>https://cuisiting.github.io/posts/cuisiting/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cuisiting/github/</guid><description>&lt;h1 id="github-most-popular-fork">Github most popular fork&lt;/h1>
+&lt;/p></description></item><item><title>Github</title><link>https://cuisiting.github.io/posts/external/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/github/</guid><description>&lt;h1 id="github-most-popular-fork">Github most popular fork&lt;/h1>
 &lt;p>&lt;a href="https://gitpop2.vercel.app/" target="_blank" rel="noopener">https://gitpop2.vercel.app/&lt;/a>
 &lt;br>
 
