@@ -15,7 +15,78 @@
  
 &lt;/code>&lt;/pre>&lt;/li>
 &lt;/ol>
-&lt;p>结果：不能将 &lt;rawhtml> 中的内容原样作为标签显示&lt;/p></description></item><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://cuisiting.github.io/posts/external/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求">环境要求&lt;/h2>
+&lt;p>结果：不能将 &lt;rawhtml> 中的内容原样作为标签显示&lt;/p></description></item><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://cuisiting.github.io/posts/external/md/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/md/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>&lt;h1 id="hugo-theme-learn-不支持-shortcode">hugo-theme-learn 不支持 shortcode&lt;/h1>
+&lt;p>按照 Hugo 官方关于自定义 shortcode 文档 &lt;a href="https://gohugo.io/templates/shortcode-templates/" target="_blank" rel="noopener">https://gohugo.io/templates/shortcode-templates/&lt;/a>
+&lt;br>
+设置如下 :&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>在 &lt;code>layouts/shortcodes&lt;/code> 创建文件，并添加&lt;/p>
+&lt;pre tabindex="0">&lt;code>&amp;lt;!-- rawhtml --&amp;gt;
+{{.Inner}}
+&lt;/code>&lt;/pre>&lt;/li>
+&lt;li>
+&lt;p>在Test.md 中添加 图片&lt;/p>
+&lt;pre tabindex="0">&lt;code>
+ &lt;img src="https://github.com/cuisiting/cuisiting.github.io/raw/main/image.png" style="width:50%;">
+ 
+&lt;/code>&lt;/pre>&lt;/li>
+&lt;/ol>
+&lt;p>结果：不能将 &lt;rawhtml> 中的内容原样作为标签显示&lt;/p></description></item><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://cuisiting.github.io/posts/external/md/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/md/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求">环境要求&lt;/h2>
+&lt;p>git&lt;/p>
+&lt;h2 id="开始盖别墅">开始盖别墅&lt;/h2>
+&lt;ol>
+&lt;li>安装hugo Hugo 官方安装：https://gohugo.io/installation/&lt;/li>
+&lt;li>用hugo 命令 创建 后台工程，相当于系统后台，用于编辑Blog&lt;/li>
+&lt;/ol>
+&lt;pre tabindex="0">&lt;code> hugo new site MyBlog
+ cd MyBlog
+ git init
+ 
+ # 安装主题
+ git submodule add git@github.com:cuisiting/ hugo-theme-learn.git themes/hugo-theme-learn
+ # 指定主题
+ echo &amp;#34;theme = &amp;#39;hugo-theme-learn&amp;#39;&amp;#34; &amp;gt;&amp;gt; hugo.toml
+ 
+ # 部署到本地查看一下
+ hugo server
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/image.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>至此，我们在本地电脑上，创建一个hugo 工程来存储blog 文件&lt;/p>
+&lt;p>小练习：增加一篇Blog，按如下的目录结构 添加文件 ，注意 需要创建 _index.md &amp;amp; 格式&lt;/p>
+&lt;pre tabindex="0">&lt;code>RootProject
+ └──content/
+ ├── _index.md
+ └── 个人随想
+ ├── _index.md
+ └── my_first.md
+&lt;/code>&lt;/pre>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/image-3.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;br>
+3. 如上，我们在本地电脑上，创建一个 工程MyBlog 来存储blog 文件。&lt;br>
+4. 但是我们最终是需要将Blog 发布到 自由 、广大的互联网上。&lt;br>
+5. 现在我们用一种成本最小，但体验极佳的方式 将我们的Blog发布&lt;br>
+6. 创建2个仓库 &lt;a href="https://github.com/new" target="_blank" rel="noopener">https://github.com/new&lt;/a>
+&lt;/p></description></item><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://cuisiting.github.io/posts/external/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求">环境要求&lt;/h2>
 &lt;p>git&lt;/p>
 &lt;h2 id="开始盖别墅">开始盖别墅&lt;/h2>
 &lt;ol>
@@ -107,7 +178,58 @@
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
+&lt;/table></description></item><item><title>Hugo定制Issue</title><link>https://cuisiting.github.io/posts/external/md/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/md/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>issue&lt;/th>
+ &lt;th>Solution&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hugo_issue_q_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/td>
+ &lt;td>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hugo_issue_a_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
 &lt;/table></description></item><item><title>Hugo 按文章中的时间排序</title><link>https://cuisiting.github.io/posts/external/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid><description>&lt;pre tabindex="0">&lt;code>
++{{ $sortedPages := sort $pages &amp;#34;Params.date&amp;#34; &amp;#34;desc&amp;#34; }}
++
++
+ &amp;lt;div class=&amp;#34;flex flex-col w-full max-w-4xl lg:max-w-5xl relative&amp;#34;&amp;gt;
+ &amp;lt;div class=&amp;#34;flex flex-row&amp;#34;&amp;gt;
+ &amp;lt;section class=&amp;#34;flex flex-col w-full md:w-4/5&amp;#34;&amp;gt;
+- {{ range (.Paginate $pages).Pages }}
++ {{ range (.Paginate $sortedPages).Pages }}
+ &amp;lt;article class=&amp;#34;flex flex-col gap-y-3 p-6 mt-6 mx-2 md:mx-0 rounded-lg shadow-md bg-white dark:bg-gray-700&amp;#34;&amp;gt;
+ &amp;lt;div data-hveid=&amp;#34;CBEQAA&amp;#34;&amp;gt;
+ &amp;lt;div&amp;gt;
+&lt;/code>&lt;/pre></description></item><item><title>Hugo 按文章中的时间排序</title><link>https://cuisiting.github.io/posts/external/md/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/md/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid><description>&lt;pre tabindex="0">&lt;code>
 +{{ $sortedPages := sort $pages &amp;#34;Params.date&amp;#34; &amp;#34;desc&amp;#34; }}
 +
 +
@@ -142,7 +264,113 @@
 &lt;a href="https://hbs.razonyang.com/v1/en/categories/" target="_blank" rel="noopener">https://hbs.razonyang.com/v1/en/categories/&lt;/a>
 &lt;br>
 &lt;a href="https://themes.gohugo.io/themes/hugo-dead-simple/" target="_blank" rel="noopener">https://themes.gohugo.io/themes/hugo-dead-simple/&lt;/a>
+&lt;/p></description></item><item><title>Hugo Theme Colletion</title><link>https://cuisiting.github.io/posts/external/md/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/md/hugotheme/</guid><description>&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/hugo_theme_logo_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>&lt;a href="https://themes.gohugo.io/tags/blog/" target="_blank" rel="noopener">https://themes.gohugo.io/tags/blog/&lt;/a>
+&lt;/p>
+&lt;p>&lt;a href="https://themes.gohugo.io/themes/hugo-theme-tailwind/" target="_blank" rel="noopener">https://themes.gohugo.io/themes/hugo-theme-tailwind/&lt;/a>
+&lt;br>
+&lt;a href="https://perplex.desider.at/blog/" target="_blank" rel="noopener">https://perplex.desider.at/blog/&lt;/a>
+&lt;br>
+&lt;a href="https://neonmirrors.net/" target="_blank" rel="noopener">https://neonmirrors.net/&lt;/a>
+&lt;br>
+&lt;a href="https://hbs.razonyang.com/v1/en/categories/" target="_blank" rel="noopener">https://hbs.razonyang.com/v1/en/categories/&lt;/a>
+&lt;br>
+&lt;a href="https://themes.gohugo.io/themes/hugo-dead-simple/" target="_blank" rel="noopener">https://themes.gohugo.io/themes/hugo-dead-simple/&lt;/a>
 &lt;/p></description></item><item><title>美国 计算机 硕士</title><link>https://cuisiting.github.io/posts/external/master_cs/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/master_cs/</guid><description>&lt;p>keyword: 美国 计算机 硕士, USA ,CS , Master&lt;/p>
+&lt;h2 id="大学">大学&lt;/h2>
+&lt;ul>
+&lt;li>MS - Master of Science&lt;/li>
+&lt;li>EE - Electrical Engineering&lt;/li>
+&lt;li>CE - Computer Engineering&lt;/li>
+&lt;li>CS - Computer Science&lt;/li>
+&lt;li>SE - Software Engineering&lt;/li>
+&lt;li>CIS - Computer Information Systems&lt;/li>
+&lt;li>MIS - Management Information Systems&lt;/li>
+&lt;li>IT - Information Technology&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://gato-docs.its.txst.edu/jcr:40c81165-7965-4bc1-a017-ffbe47904f8a/Technology&amp;#43;Degrees&amp;#43;.pdf" target="_blank" rel="noopener">德克萨斯州立大学（Texas State University）&lt;/a>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cs_diff_1.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/cs_diff_2.png"
+ alt="image#width=50%" 
+ loading="lazy"
+ width="50%"
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;pre tabindex="0">&lt;code>graph LR
+ A[Degree Types] --&amp;gt;|Master&amp;#39;s Degree| B[MA/MS]
+ A --&amp;gt;|Doctoral Degree| C[DA]
+ B --&amp;gt; D[MS in EE]
+ B --&amp;gt; E[MS in CE]
+ B --&amp;gt; F[MS in CS]
+ B --&amp;gt; G[MS in SE]
+ B --&amp;gt; H[MS in CIS]
+ B --&amp;gt; I[MS in MIS]
+ B --&amp;gt; J[MS in IT]
+
+ D[MS in EE] --&amp;gt; EE[Electrical Engineering]
+ E[MS in CE] --&amp;gt; CE[Computer Engineering]
+ F[MS in CS] --&amp;gt; CS[Computer Science]
+ F[MS in CS] --&amp;gt; DS[Data Science]
+ G[MS in SE] --&amp;gt; SE[Software Engineering]
+ H[MS in CIS] --&amp;gt; CIS[Computer Information Systems]
+ I[MS in MIS] --&amp;gt; MIS[Management Information Systems]
+ J[MS in IT] --&amp;gt; IT[Information Technology]
+&lt;/code>&lt;/pre>
+ &lt;div>
+ &lt;pre class="mermaid">
+ graph LR
+ A[Degree Types] -->|Master's Degree| B[MA/MS]
+ A -->|Doctoral Degree| C[DA]
+ B --> D[MS in EE]
+ B --> E[MS in CE]
+ B --> F[MS in CS]
+ B --> G[MS in SE]
+ B --> H[MS in CIS]
+ B --> I[MS in MIS]
+ B --> J[MS in IT]
+ 
+ D[MS in EE] --> EE[Electrical Engineering]
+ E[MS in CE] --> CE[Computer Engineering]
+ F[MS in CS] --> CS[Computer Science]
+ F[MS in CS] --> DS[Data Science]
+ G[MS in SE] --> SE[Software Engineering]
+ H[MS in CIS] --> CIS[Computer Information Systems]
+ I[MS in MIS] --> MIS[Management Information Systems]
+ J[MS in IT] --> IT[Information Technology]
+ &lt;/pre>
+ &lt;script type="module">
+ import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+ &lt;/script>
+ &lt;/div></description></item><item><title>美国 计算机 硕士</title><link>https://cuisiting.github.io/posts/external/md/master_cs/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/md/master_cs/</guid><description>&lt;p>keyword: 美国 计算机 硕士, USA ,CS , Master&lt;/p>
 &lt;h2 id="大学">大学&lt;/h2>
 &lt;ul>
 &lt;li>MS - Master of Science&lt;/li>

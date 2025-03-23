@@ -24,4 +24,30 @@
  width=""
  >
  &lt;/figure>&lt;/div>
+&lt;/p></description></item><item><title>AWS EC2 instance</title><link>https://cuisiting.github.io/posts/external/md/aws-ec2-instance/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/md/aws-ec2-instance/</guid><description>&lt;h1>&lt;/h1>
+&lt;h1 id="choose-regions">Choose Regions&lt;/h1>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/aws_ec2_choose_regions_1.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
+&lt;/p>
+&lt;h1 id="update-network-security-rule">Update Network Security Rule&lt;/h1>
+&lt;p>
+
+
+&lt;div class="not-prose">
+&lt;figure>
+ &lt;img src="https://cuisiting.github.io/bi/aws_ec2_update_security_rule_2.png"
+ alt="" 
+ loading="lazy"
+ width=""
+ >
+ &lt;/figure>&lt;/div>
 &lt;/p></description></item></channel></rss>

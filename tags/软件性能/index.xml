@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>软件性能 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD/</link><description>Recent content in 软件性能 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD/index.xml" rel="self" type="application/rss+xml"/><item><title>软件性能描述维度</title><link>https://cuisiting.github.io/posts/external/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</guid><description>&lt;table>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>软件性能 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD/</link><description>Recent content in 软件性能 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD/index.xml" rel="self" type="application/rss+xml"/><item><title>软件性能描述维度</title><link>https://cuisiting.github.io/posts/external/md/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/md/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>English Term&lt;/th>
+ &lt;th>English Explanation&lt;/th>
+ &lt;th>中文名称&lt;/th>
+ &lt;th>中文解释&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Response Time&lt;/td>
+ &lt;td>The time taken for the system to respond to a request.&lt;/td>
+ &lt;td>响应时间&lt;/td>
+ &lt;td>系统接收到请求后，到返回响应所需要的时间。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Throughput&lt;/td>
+ &lt;td>The number of requests processed by the system per unit time.&lt;/td>
+ &lt;td>吞吐量&lt;/td>
+ &lt;td>系统在单位时间内处理的请求数量。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Concurrent Users&lt;/td>
+ &lt;td>The number of users simultaneously making requests to the system.&lt;/td>
+ &lt;td>并发用户数&lt;/td>
+ &lt;td>同时向系统发出请求的用户数量。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Load&lt;/td>
+ &lt;td>The amount of work given to the system over a period.&lt;/td>
+ &lt;td>负载&lt;/td>
+ &lt;td>在一定时间内施加给系统的工作量。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Latency&lt;/td>
+ &lt;td>The time taken for data to travel from one point to another.&lt;/td>
+ &lt;td>延迟&lt;/td>
+ &lt;td>数据从一个点传输到另一个点所花费的时间。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Bottleneck&lt;/td>
+ &lt;td>The limiting factor in system performance.&lt;/td>
+ &lt;td>瓶颈&lt;/td>
+ &lt;td>系统性能的限制因素。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Stability Testing&lt;/td>
+ &lt;td>Testing system performance and stability over an extended period.&lt;/td>
+ &lt;td>稳定性测试&lt;/td>
+ &lt;td>测试系统在长时间运行下的性能和稳定性。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Stress Testing&lt;/td>
+ &lt;td>Testing system performance under extreme conditions.&lt;/td>
+ &lt;td>压力测试&lt;/td>
+ &lt;td>测试系统在极端条件下的性能。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Load Testing&lt;/td>
+ &lt;td>Testing system performance under expected load.&lt;/td>
+ &lt;td>负载测试&lt;/td>
+ &lt;td>测试系统在预期负载下的性能。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Capacity Planning&lt;/td>
+ &lt;td>Predicting and planning for the resources needed for future system loads.&lt;/td>
+ &lt;td>容量规划&lt;/td>
+ &lt;td>预测和规划系统需要的资源。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Benchmarking&lt;/td>
+ &lt;td>Comparing the performance of different systems or configurations using standard tests.&lt;/td>
+ &lt;td>基准测试&lt;/td>
+ &lt;td>通过运行一组标准测试，比较不同系统或配置的性能。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Cache Hit Rate&lt;/td>
+ &lt;td>The ratio of cache accesses that result in a hit compared to the total number of accesses.&lt;/td>
+ &lt;td>缓存命中率&lt;/td>
+ &lt;td>缓存访问的命中次数与总访问次数的比率。&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>软件性能描述维度</title><link>https://cuisiting.github.io/posts/external/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th>English Term&lt;/th>

@@ -2,4 +2,8 @@
 未尝试 python(lxml)&lt;/p>
 &lt;h1 id="run-namego">run name.go&lt;/h1>
 &lt;pre tabindex="0">&lt;code>`go run hello.go
+&lt;/code>&lt;/pre></description></item><item><title>go parse english html</title><link>https://cuisiting.github.io/posts/external/md/go-parse-english-html/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/md/go-parse-english-html/</guid><description>&lt;p>go 解析 html的的速度 比 python(BeautySoup 快)&lt;br>
+未尝试 python(lxml)&lt;/p>
+&lt;h1 id="run-namego">run name.go&lt;/h1>
+&lt;pre tabindex="0">&lt;code>`go run hello.go
 &lt;/code>&lt;/pre></description></item></channel></rss>
