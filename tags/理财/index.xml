@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>理财 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E7%90%86%E8%B4%A2/</link><description>Recent content in 理财 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E7%90%86%E8%B4%A2/index.xml" rel="self" type="application/rss+xml"/><item><title>401K</title><link>https://cuisiting.github.io/posts/external/401k/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/401k/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>项目&lt;/th>
+ &lt;th>Pre-tax 401k&lt;/th>
+ &lt;th>After-tax 401k&lt;/th>
+ &lt;th>Roth 401k&lt;/th>
+ &lt;th>Roth IRA&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>投资类型&lt;/strong>&lt;/td>
+ &lt;td>税前投资&lt;/td>
+ &lt;td>税后投资&lt;/td>
+ &lt;td>税后投资&lt;/td>
+ &lt;td>税后投资&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>本金&lt;/strong>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>投资时税务处理&lt;/td>
+ &lt;td>减少应纳税收入，延迟缴税&lt;/td>
+ &lt;td>不减少应纳税收入，不延迟缴税&lt;/td>
+ &lt;td>不减少应纳税收入，不延迟缴税&lt;/td>
+ &lt;td>不减少应纳税收入，不延迟缴税&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>提取时税务处理&lt;/td>
+ &lt;td>在提取时纳税&lt;/td>
+ &lt;td>不纳税&lt;/td>
+ &lt;td>不纳税&lt;/td>
+ &lt;td>不纳税&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>提前提取惩罚&lt;/td>
+ &lt;td>税款加10%罚金&lt;/td>
+ &lt;td>税款加10%罚金&lt;/td>
+ &lt;td>税款加10%罚金&lt;/td>
+ &lt;td>无罚金&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>收益&lt;/strong>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>投资时税务处理&lt;/td>
+ &lt;td>无&lt;/td>
+ &lt;td>无&lt;/td>
+ &lt;td>无&lt;/td>
+ &lt;td>无&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>退休时提取时税务处理&lt;/td>
+ &lt;td>在提取时纳税&lt;/td>
+ &lt;td>收益在提取时纳税&lt;/td>
+ &lt;td>**收益在提取时不纳税&lt;/td>
+ &lt;td>**收益在提取时不纳税&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>**提前提取惩罚&lt;/td>
+ &lt;td>税款加10%罚金&lt;/td>
+ &lt;td>税款加10%罚金&lt;/td>
+ &lt;td>税款加10%罚金&lt;/td>
+ &lt;td>收益部分可能有税款加罚金&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>投资上限&lt;/td>
+ &lt;td>$19,500（不包含公司match）&lt;/td>
+ &lt;td>$57,000（总额，包括个人和公司match）&lt;/td>
+ &lt;td>$19,500（不包含公司match）&lt;/td>
+ &lt;td>$6,000&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>投资选择灵活性&lt;/td>
+ &lt;td>由雇主决定&lt;/td>
+ &lt;td>由雇主决定&lt;/td>
+ &lt;td>由雇主决定&lt;/td>
+ &lt;td>高，可选择多种投资产品&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>适用人群&lt;/td>
+ &lt;td>想要即时税务优惠的投资者&lt;/td>
+ &lt;td>适合高收入投资者，利用税后收入投资&lt;/td>
+ &lt;td>想要退休时免税的投资者&lt;/td>
+ &lt;td>想要灵活性高且退休时免税的投资者&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>你自己对 401k 的 contribution 有个&lt;br>
+Limit: Pre-tax + Roth 401k &amp;lt;= $22500 (2023 tax year)&lt;br>
+所有的 Contribution 总和有另一个&lt;br>
+Limit: Pre-tax + Post-tax + Roth 401k + Employer Match &amp;lt;= $66000&lt;/p></description></item></channel></rss>

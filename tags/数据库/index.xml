@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>数据库 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</link><description>Recent content in 数据库 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/index.xml" rel="self" type="application/rss+xml"/><item><title>非&amp;关系型数据库</title><link>https://cuisiting.github.io/posts/external/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>特性&lt;/th>
+ &lt;th>关系型数据库&lt;/th>
+ &lt;th>非关系型数据库&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>数据结构&lt;/td>
+ &lt;td>表格，严格的数据模式&lt;/td>
+ &lt;td>键值对，文档，列存储，图形等灵活的数据模式&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>优点&lt;/td>
+ &lt;td>1. 数据一致性和完整性保证&lt;/td>
+ &lt;td>1. 灵活的数据模型&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>2. 复杂查询的强大支持&lt;/td>
+ &lt;td>2. 水平扩展容易&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>3. 事务支持全面&lt;/td>
+ &lt;td>3. 处理大量数据的高效性&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>缺点&lt;/td>
+ &lt;td>1. 水平扩展有限&lt;/td>
+ &lt;td>1. 传统的事务支持较弱&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>2. 处理大规模数据时可能出现性能瓶颈&lt;/td>
+ &lt;td>2. 数据一致性较弱&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>3. 数据模式修改困难&lt;/td>
+ &lt;td>3. 查询功能相对有限&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>使用场景&lt;/td>
+ &lt;td>1. 需要强事务支持的应用（如金融服务）&lt;/td>
+ &lt;td>1. 需要处理大规模数据集的应用（如社交网络）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>2. 数据一致性要求高的场景（如在线零售）&lt;/td>
+ &lt;td>2. 快速开发，频繁更改数据模型的项目&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;/td>
+ &lt;td>3. 复杂查询频繁的应用（如报表生成）&lt;/td>
+ &lt;td>3. 分布式应用，如物联网&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;a href="https://aws.amazon.com/nosql/" target="_blank" rel="noopener">What is NoSQL? | Nonrelational Databases, Flexible Schema Data Models | AWS (amazon.com)&lt;/a>
+&lt;/p>
+&lt;h3 id="sql-vs-nosql-terminology">SQL vs. NoSQL terminology&lt;/h3>
+&lt;p>The following table compares terminology used by select NoSQL databases with terminology used by SQL databases.&lt;/p></description></item></channel></rss>

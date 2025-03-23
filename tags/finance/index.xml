@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Finance on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/finance/</link><description>Recent content in Finance on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/finance/index.xml" rel="self" type="application/rss+xml"/><item><title>US Bank</title><link>https://cuisiting.github.io/posts/external/us-bank/</link><pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/external/us-bank/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Feature / Type&lt;/th>
+ &lt;th>ACH Transfer&lt;br>ACH转账&lt;/th>
+ &lt;th>Global ACH&lt;br>全球ACH转账&lt;/th>
+ &lt;th>Wire Transfer&lt;br>电汇&lt;/th>
+ &lt;th>Direct Deposit&lt;br>直接存款&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>Speed&lt;/strong>&lt;br>速度&lt;/td>
+ &lt;td>Usually 1-2 business days&lt;br>通常1-2个工作日&lt;/td>
+ &lt;td>1-5 business days, depending on the country&lt;br>1-5个工作日，取决于国家&lt;/td>
+ &lt;td>Several hours to 1 business day&lt;br>数小时到1个工作日&lt;/td>
+ &lt;td>Usually within 1 business day&lt;br>通常在1个工作日内&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Fees&lt;/strong>&lt;br>费用&lt;/td>
+ &lt;td>Low to none&lt;br>低至无费用&lt;/td>
+ &lt;td>Moderate, varies by country&lt;br>中等费用，根据国家而异&lt;/td>
+ &lt;td>High&lt;br>高费用&lt;/td>
+ &lt;td>None or very low&lt;br>无费用或很低费用&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Geographic Scope&lt;/strong>&lt;br>适用范围&lt;/td>
+ &lt;td>Domestic&lt;br>国内支付&lt;/td>
+ &lt;td>International&lt;br>国际支付&lt;/td>
+ &lt;td>Domestic and international&lt;br>国内外均可&lt;/td>
+ &lt;td>Primarily domestic&lt;br>主要是国内支付&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Main Uses&lt;/strong>&lt;br>主要用途&lt;/td>
+ &lt;td>Routine transactions like bill payments&lt;br>日常交易，如账单支付&lt;/td>
+ &lt;td>Cross-border payroll and supplier payments&lt;br>跨国界的雇员工资和供应商支付&lt;/td>
+ &lt;td>Large, urgent, or international transfers&lt;br>大额、紧急或国际转账&lt;/td>
+ &lt;td>Payroll, benefits, pensions, etc.&lt;br>&lt;strong>工资&lt;/strong>、福利、退休金等定期支付&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Transaction Limits&lt;/strong>&lt;br>交易限额&lt;/td>
+ &lt;td>Usually capped&lt;br>通常有上限&lt;/td>
+ &lt;td>May be capped, varies by policy&lt;br>可能有上限，取决于国家政策&lt;/td>
+ &lt;td>Usually unlimited or very high&lt;br>通常无限额或非常高的限额&lt;/td>
+ &lt;td>Usually unlimited&lt;br>通常无限额&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Automation&lt;/strong>&lt;br>自动化程度&lt;/td>
+ &lt;td>Can be set for recurring payments&lt;br>可设置周期性支付&lt;/td>
+ &lt;td>Can be set for recurring payments&lt;br>可设置周期性支付&lt;/td>
+ &lt;td>Manual for each transaction&lt;br>需要手动执行每笔交易&lt;/td>
+ &lt;td>Fully automated, set up for regular payments&lt;br>完全自动化，设定后定期支付&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Processing Institutions&lt;/strong>&lt;br>处理机构&lt;/td>
+ &lt;td>Processed by banks and financial institutions&lt;br>通过银行和金融机构处理&lt;/td>
+ &lt;td>Processed by specific international payment platforms&lt;br>通过特定的国际支付平台处理&lt;/td>
+ &lt;td>Processed by banks and financial institutions&lt;br>通过银行和金融机构处理&lt;/td>
+ &lt;td>Processed by employers and banks&lt;br>通过雇主和银行处理&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h1 id="record">Record&lt;/h1>
+&lt;p>05/03/2024&lt;br>
+&lt;a href="https://accountoffers.wellsfargo.com/checkingoffer/?product_code=CHK&amp;amp;subproduct_code=RC&amp;amp;sub_channel=SEM&amp;amp;vendor_code=G&amp;amp;collateral_code=24_Always&amp;#43;On_CSBB_24CBDDAQ_BRN_KT_COM_Promo&amp;amp;dm=wells&amp;#43;fargo&amp;#43;300&amp;#43;bonus&amp;amp;gclid=EAIaIQobChMI-biS0b3yhQMVQTqtBh2W8ghBEAAYASAAEgKSsfD_BwE&amp;amp;gclsrc=aw.ds" target="_blank" rel="noopener">Get $300 with a new Everyday Checking account | Wells Fargo&lt;/a>
+&lt;/p></description></item></channel></rss>
