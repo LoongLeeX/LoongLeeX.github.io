@@ -1,111 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>可视化 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</link><description>Recent content in 可视化 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>经济数据</title><link>https://cuisiting.github.io/posts/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</guid><description>&lt;p>![[economy_data_1.png]]&lt;br>
-&lt;a href="https://sc.macromicro.me/" target="_blank" rel="noopener">https://sc.macromicro.me/&lt;/a>
-&lt;/p>
-&lt;p>&lt;a href="https://www.tradingview.com/chart/iuFHyfXI/" target="_blank" rel="noopener">https://www.tradingview.com/chart/iuFHyfXI/&lt;/a>
-&lt;/p>
-&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>可视化 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</link><description>Recent content in 可视化 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>经济数据</title><link>https://cuisiting.github.io/posts/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</guid><description>&lt;p&gt;![[economy_data_1.png]]&lt;br&gt;
+&lt;a href="https://sc.macromicro.me/" target="_blank" rel="noopener"&gt;https://sc.macromicro.me/&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.tradingview.com/chart/iuFHyfXI/" target="_blank" rel="noopener"&gt;https://www.tradingview.com/chart/iuFHyfXI/&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
 
 
-&lt;div class="not-prose">
-&lt;figure>
+&lt;div class="not-prose"&gt;
+&lt;figure&gt;
  &lt;img src="https://cuisiting.github.io/bi/data_1_trading_view.png"
  alt="img#width=50%" 
  loading="lazy"
  width="50%"
- >
- &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>基于Neo4j构建源码可视化</title><link>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h2 id="插入数据">插入数据&lt;/h2>
-&lt;p>
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>基于Neo4j构建源码可视化</title><link>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h2 id="插入数据"&gt;插入数据&lt;/h2&gt;
+&lt;p&gt;
 
 
-&lt;div class="not-prose">
-&lt;figure>
+&lt;div class="not-prose"&gt;
+&lt;figure&gt;
  &lt;img src="https://cuisiting.github.io/bi/neo4j_insert_data.png"
  alt="img#width=50%" 
  loading="lazy"
  width="50%"
- >
- &lt;/figure>&lt;/div>
-&lt;br>
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
+&lt;br&gt;
 
 
 
-&lt;div class="not-prose">
-&lt;figure>
+&lt;div class="not-prose"&gt;
+&lt;figure&gt;
  &lt;img src="https://cuisiting.github.io/bi/neo4j_insert_data_2.png"
  alt="img#width=50%" 
  loading="lazy"
  width="50%"
- >
- &lt;/figure>&lt;/div>
-&lt;/p>
-&lt;h2 id="查询所有节点">查询所有节点&lt;/h2>
-&lt;pre tabindex="0">&lt;code>MATCH (n)
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;h2 id="查询所有节点"&gt;查询所有节点&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;MATCH (n)
 RETURN n
-&lt;/code>&lt;/pre>&lt;h2 id="查询两个节点之间的直接间接关系和节点">查询两个节点之间的直接&amp;amp;间接关系和节点&lt;/h2>
-&lt;pre tabindex="0">&lt;code>MATCH path = (a)-[*]-(b)
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id="查询两个节点之间的直接间接关系和节点"&gt;查询两个节点之间的直接&amp;amp;间接关系和节点&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;MATCH path = (a)-[*]-(b)
 
 WHERE a.name = &amp;#39;your_nodo_name_1&amp;#39; AND
 
 b.name = &amp;#39;your_nodo_name_2&amp;#39;
 
 RETURN path
-&lt;/code>&lt;/pre></description></item><item><title>awesome-visjs demo</title><link>https://cuisiting.github.io/posts/awesome-visjs-demo/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/awesome-visjs-demo/</guid><description>&lt;p>&lt;a href="https://github.com/visjs/awesome-visjs/blob/master/README.md" target="_blank" rel="noopener">https://github.com/visjs/awesome-visjs/blob/master/README.md&lt;/a>
-&lt;/p>
-&lt;p>&lt;a href="https://js.cytoscape.org/" target="_blank" rel="noopener">https://js.cytoscape.org/&lt;/a>
-&lt;br>
-&lt;a href="https://js.cytoscape.org/demos/colajs-graph/" target="_blank" rel="noopener">https://js.cytoscape.org/demos/colajs-graph/&lt;/a>
-&lt;br>
-&lt;a href="https://www.amcharts.com/demos/" target="_blank" rel="noopener">https://www.amcharts.com/demos/&lt;/a>
-&lt;br>
-&lt;a href="https://www.sigmajs.org/" target="_blank" rel="noopener">https://www.sigmajs.org/&lt;/a>
-&lt;/p>
-&lt;p>
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>awesome-visjs demo</title><link>https://cuisiting.github.io/posts/awesome-visjs-demo/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/awesome-visjs-demo/</guid><description>&lt;p&gt;&lt;a href="https://github.com/visjs/awesome-visjs/blob/master/README.md" target="_blank" rel="noopener"&gt;https://github.com/visjs/awesome-visjs/blob/master/README.md&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://js.cytoscape.org/" target="_blank" rel="noopener"&gt;https://js.cytoscape.org/&lt;/a&gt;
+&lt;br&gt;
+&lt;a href="https://js.cytoscape.org/demos/colajs-graph/" target="_blank" rel="noopener"&gt;https://js.cytoscape.org/demos/colajs-graph/&lt;/a&gt;
+&lt;br&gt;
+&lt;a href="https://www.amcharts.com/demos/" target="_blank" rel="noopener"&gt;https://www.amcharts.com/demos/&lt;/a&gt;
+&lt;br&gt;
+&lt;a href="https://www.sigmajs.org/" target="_blank" rel="noopener"&gt;https://www.sigmajs.org/&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
 
 
-&lt;div class="not-prose">
-&lt;figure>
+&lt;div class="not-prose"&gt;
+&lt;figure&gt;
  &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
  width=""
- >
- &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>Cytoscape.js</title><link>https://cuisiting.github.io/posts/cytoscape.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cytoscape.js/</guid><description>&lt;p>&lt;a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener">cytoscape/cytoscape.js: Graph theory (network) library for visualisation and analysis (github.com)&lt;/a>
-&lt;br>
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>Cytoscape.js</title><link>https://cuisiting.github.io/posts/cytoscape.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cytoscape.js/</guid><description>&lt;p&gt;&lt;a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener"&gt;cytoscape/cytoscape.js: Graph theory (network) library for visualisation and analysis (github.com)&lt;/a&gt;
+&lt;br&gt;
 
 
 
-&lt;div class="not-prose">
-&lt;figure>
+&lt;div class="not-prose"&gt;
+&lt;figure&gt;
  &lt;img src="https://cuisiting.github.io/bi/web_cytoscape_1.png"
  alt="" 
  loading="lazy"
  width=""
- >
- &lt;/figure>&lt;/div>
-&lt;/p>
-&lt;h1>&lt;/h1>
-&lt;h1>&lt;/h1>
-&lt;p>
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;
 
 
-&lt;div class="not-prose">
-&lt;figure>
+&lt;div class="not-prose"&gt;
+&lt;figure&gt;
  &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
  width=""
- >
- &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>Gradle Dependcy Graph 可视化</title><link>https://cuisiting.github.io/posts/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h1 id="buildgradle">build.gradle&lt;/h1>
-&lt;pre tabindex="0">&lt;code>...
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>Gradle Dependcy Graph 可视化</title><link>https://cuisiting.github.io/posts/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h1 id="buildgradle"&gt;build.gradle&lt;/h1&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;...
  
 apply from: &amp;#39;depend.gradle&amp;#39;
 
 ...
-&lt;/code>&lt;/pre>&lt;h1 id="dependgradle">depend.gradle&lt;/h1>
-&lt;pre tabindex="0">&lt;code>import groovy.json.JsonOutput 
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id="dependgradle"&gt;depend.gradle&lt;/h1&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;import groovy.json.JsonOutput 
  
  
 class DependencyCounter { 
@@ -212,60 +212,60 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  
  return result 
 }
-&lt;/code>&lt;/pre>&lt;h1>&lt;/h1>
-&lt;h1>&lt;/h1>
-&lt;p>
+&lt;/code&gt;&lt;/pre&gt;&lt;h1&gt;&lt;/h1&gt;
+&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;
 
 
-&lt;div class="not-prose">
-&lt;figure>
+&lt;div class="not-prose"&gt;
+&lt;figure&gt;
  &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
  width=""
- >
- &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>CallTree</title><link>https://cuisiting.github.io/posts/calltree/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/calltree/</guid><description/></item><item><title>Github</title><link>https://cuisiting.github.io/posts/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/github/</guid><description>&lt;h1 id="github-most-popular-fork">Github most popular fork&lt;/h1>
-&lt;p>&lt;a href="https://gitpop2.vercel.app/" target="_blank" rel="noopener">https://gitpop2.vercel.app/&lt;/a>
-&lt;br>
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>CallTree</title><link>https://cuisiting.github.io/posts/calltree/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/calltree/</guid><description/></item><item><title>Github</title><link>https://cuisiting.github.io/posts/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/github/</guid><description>&lt;h1 id="github-most-popular-fork"&gt;Github most popular fork&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://gitpop2.vercel.app/" target="_blank" rel="noopener"&gt;https://gitpop2.vercel.app/&lt;/a&gt;
+&lt;br&gt;
 
 
 
-&lt;div class="not-prose">
-&lt;figure>
+&lt;div class="not-prose"&gt;
+&lt;figure&gt;
  &lt;img src="https://cuisiting.github.io/bi/github_most_poplular_1.png"
  alt="img#width=50%" 
  loading="lazy"
  width="50%"
- >
- &lt;/figure>&lt;/div>
-&lt;/p>
-&lt;h1 id="github-star-history-and-compare">Github Star History and Compare&lt;/h1>
-&lt;p>&lt;a href="https://star-history.com/#bumptech/glide&amp;amp;facebook/fresco&amp;amp;nostra13/Android-Universal-Image-Loader&amp;amp;square/picasso&amp;amp;coil-kt/coil&amp;amp;Date" target="_blank" rel="noopener">https://star-history.com/#bumptech/glide&amp;facebook/fresco&amp;nostra13/Android-Universal-Image-Loader&amp;square/picasso&amp;coil-kt/coil&amp;Date&lt;/a>
-&lt;/p>
-&lt;p>Example: Android Image loader library&lt;br>
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;
+&lt;h1 id="github-star-history-and-compare"&gt;Github Star History and Compare&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://star-history.com/#bumptech/glide&amp;amp;facebook/fresco&amp;amp;nostra13/Android-Universal-Image-Loader&amp;amp;square/picasso&amp;amp;coil-kt/coil&amp;amp;Date" target="_blank" rel="noopener"&gt;https://star-history.com/#bumptech/glide&amp;facebook/fresco&amp;nostra13/Android-Universal-Image-Loader&amp;square/picasso&amp;coil-kt/coil&amp;Date&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Example: Android Image loader library&lt;br&gt;
 
 
 
-&lt;div class="not-prose">
-&lt;figure>
+&lt;div class="not-prose"&gt;
+&lt;figure&gt;
  &lt;img src="https://cuisiting.github.io/bi/github_start_history_compare_1.png"
  alt="img#width=50%" 
  loading="lazy"
  width="50%"
- >
- &lt;/figure>&lt;/div>
-&lt;/p></description></item><item><title>Vis.js</title><link>https://cuisiting.github.io/posts/vis.js/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/vis.js/</guid><description/></item><item><title>WebChart</title><link>https://cuisiting.github.io/posts/webchart/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/webchart/</guid><description>&lt;p>&lt;a href="https://www.isqqw.com/" target="_blank" rel="noopener">isqqw&lt;/a>
-&lt;/p>
-&lt;p>
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>Vis.js</title><link>https://cuisiting.github.io/posts/vis.js/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/vis.js/</guid><description/></item><item><title>WebChart</title><link>https://cuisiting.github.io/posts/webchart/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/webchart/</guid><description>&lt;p&gt;&lt;a href="https://www.isqqw.com/" target="_blank" rel="noopener"&gt;isqqw&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
 
 
-&lt;div class="not-prose">
-&lt;figure>
+&lt;div class="not-prose"&gt;
+&lt;figure&gt;
  &lt;img src="https://cuisiting.github.io/bi/WebChart_1.png"
  alt="img#width=50%" 
  loading="lazy"
  width="50%"
- >
- &lt;/figure>&lt;/div>
-&lt;/p></description></item></channel></rss>
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;</description></item></channel></rss>
