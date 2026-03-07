@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ReactJs on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/reactjs/</link><description>Recent content in ReactJs on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/reactjs/index.xml" rel="self" type="application/rss+xml"/><item><title>React.js vs Vue.js</title><link>https://cuisiting.github.io/posts/react.js-vs-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/react.js-vs-vue.js/</guid><description>&lt;h1 id="vue-作为开源社区维护的框架能和reactjs-放在一起比较已经很牛b了"&gt;Vue 作为开源社区维护的框架，能和Reactjs 放在一起比较，已经很牛B了&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vue.js on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/vue.js/</link><description>Recent content in Vue.js on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/vue.js/index.xml" rel="self" type="application/rss+xml"/><item><title>React.js vs Vue.js</title><link>https://cuisiting.github.io/posts/react.js-vs-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/react.js-vs-vue.js/</guid><description>&lt;h1 id="vue-作为开源社区维护的框架能和reactjs-放在一起比较已经很牛b了"&gt;Vue 作为开源社区维护的框架，能和Reactjs 放在一起比较，已经很牛B了&lt;/h1&gt;
 &lt;h1 id="github-star"&gt;github star&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://star-history.com/#facebook/react&amp;amp;vuejs/core&amp;amp;Date" target="_blank" rel="noopener"&gt;https://star-history.com/#facebook/react&amp;vuejs/core&amp;Date&lt;/a&gt;
 &lt;/p&gt;
@@ -210,19 +210,6 @@
  alt="" 
  loading="lazy"
  width=""
- &gt;
- &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>WebChart</title><link>https://cuisiting.github.io/posts/webchart/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/webchart/</guid><description>&lt;p&gt;&lt;a href="https://www.isqqw.com/" target="_blank" rel="noopener"&gt;isqqw&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
-&lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/WebChart_1.png"
- alt="img#width=50%" 
- loading="lazy"
- width="50%"
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;</description></item></channel></rss>
