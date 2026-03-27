@@ -196,117 +196,7 @@ docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always s
  
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Spark Architecture</title><link>https://loongleex.github.io/posts/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/spark/</guid><description>&lt;p&gt;keyword: Spark, big date ,AI, Architecture&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://avinash333.com/spark-architecture/" target="_blank" rel="noopener"&gt;Spark Architecture&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;&lt;div class="not-prose"&gt;
-&lt;figure&gt;
- &lt;img src="https://loongleex.github.io/bi/h_s_avinash333.png"
- alt="image" 
- loading="lazy"
- width="50%"
- 
- &gt;
- &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Spark&amp;Hadoop</title><link>https://loongleex.github.io/posts/sparkhadoop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/sparkhadoop/</guid><description>&lt;p&gt;keyword: Hadopp, Spark, big data, AI, Architecture&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://developer.hpe.com/blog/performance-tuning-of-an-apache-kafkaspark-streaming-system-telecom-case/" target="_blank" rel="noopener"&gt;Case Study 1&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;&lt;div class="not-prose"&gt;
-&lt;figure&gt;
- &lt;img src="https://loongleex.github.io/bi/h_s_telecom_case.png"
- alt="image" 
- loading="lazy"
- width="50%"
- 
- &gt;
- &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://avinash333.com/spark-architecture/" target="_blank" rel="noopener"&gt;Case Study 2&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;&lt;div class="not-prose"&gt;
-&lt;figure&gt;
- &lt;img src="https://loongleex.github.io/bi/h_s_avinash333.png"
- alt="image" 
- loading="lazy"
- width="50%"
- 
- &gt;
- &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html" target="_blank" rel="noopener"&gt;Case Study 3&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;&lt;div class="not-prose"&gt;
-&lt;figure&gt;
- &lt;img src="https://loongleex.github.io/bi/h_s_spark_key_terms.png"
- alt="image" 
- loading="lazy"
- width="50%"
- 
- &gt;
- &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671" target="_blank" rel="noopener"&gt;Case Study 4&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;div class="not-prose"&gt;
-&lt;figure&gt;
- &lt;img src="https://loongleex.github.io/bi/h_s_data_engineering_end_end.png"
- alt="image" 
- loading="lazy"
- width="50%"
- 
- &gt;
- &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;
-&lt;h2 id="hadoop-vs-spark-使用场景"&gt;Hadoop vs Spark: 使用场景&lt;/h2&gt;
-&lt;h3 id="hadoop-使用场景"&gt;Hadoop 使用场景&lt;/h3&gt;
-&lt;p&gt;Hadoop 适合以下场景：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;大规模数据存储和处理&lt;/strong&gt;:
-&lt;ul&gt;
-&lt;li&gt;当需要处理 PB 级别的数据时，Hadoop 的 HDFS 提供了一个可靠的存储解决方案。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;高吞吐量的批处理作业&lt;/strong&gt;:
-&lt;ul&gt;
-&lt;li&gt;对于需要高吞吐量而不是低延迟的长时间运行的批处理作业，Hadoop 是理想的选择。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;成本效益的解决方案&lt;/strong&gt;:
-&lt;ul&gt;
-&lt;li&gt;对于预算有限的项目，Hadoop 的开源特性使其成为一种成本效益高的选择。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;兼容性和成熟的生态系统&lt;/strong&gt;:
-&lt;ul&gt;
-&lt;li&gt;Hadoop 已经成熟，拥有一个庞大的生态系统，适用于各种数据处理需求。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id="spark-使用场景"&gt;Spark 使用场景&lt;/h3&gt;
-&lt;p&gt;Spark 适合以下场景：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;快速数据处理和实时分析&lt;/strong&gt;:
-&lt;ul&gt;
-&lt;li&gt;当需要快速处理数据或进行实时数据分析时，Spark 的内存计算功能提供了显著的速度优势。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;迭代算法和机器学习&lt;/strong&gt;:
-&lt;ul&gt;
-&lt;li&gt;对于需要迭代计算的机器学习算法，Spark 的内存计算比 Hadoop 更高效。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;多种数据处理格式&lt;/strong&gt;:
-&lt;ul&gt;
-&lt;li&gt;如果需要支持多种数据处理方式（批处理、流处理、交互式查询、机器学习），Spark 提供了一站式解决方案。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;高级分析&lt;/strong&gt;:
-&lt;ul&gt;
-&lt;li&gt;Spark 支持 SQL 查询、流处理和复杂的分析，这些在 Hadoop MapReduce 中不那么容易实现。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;根据项目需求和资源情况，可以选择适合的框架。在某些复杂的项目中，Hadoop 和 Spark 可以并行使用，以充分利用两者的优势。&lt;/p&gt;</description></item><item><title>咖啡</title><link>https://loongleex.github.io/posts/%E5%92%96%E5%95%A1/</link><pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/%E5%92%96%E5%95%A1/</guid><description>&lt;table&gt;
+&lt;/p&gt;</description></item><item><title>咖啡</title><link>https://loongleex.github.io/posts/%E5%92%96%E5%95%A1/</link><pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/%E5%92%96%E5%95%A1/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;Coffee Name&lt;/th&gt;
@@ -1055,111 +945,7 @@ Build context-aware reasoning applications&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id="aws-explain"&gt;AWS explain&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://aws.amazon.com/cn/what-is/langchain/" target="_blank" rel="noopener"&gt;https://aws.amazon.com/cn/what-is/langchain/&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>数据格式</title><link>https://loongleex.github.io/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</guid><description>&lt;p&gt;&lt;strong&gt;二进制数据格式&lt;/strong&gt;：&lt;/p&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;数据格式&lt;/th&gt;
- &lt;th&gt;特点&lt;/th&gt;
- &lt;th&gt;适用场景&lt;/th&gt;
- &lt;th&gt;使用服务/应用程序&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Avro&lt;/td&gt;
- &lt;td&gt;二进制格式，高性能，模式定义&lt;/td&gt;
- &lt;td&gt;大数据处理，分布式系统&lt;/td&gt;
- &lt;td&gt;Apache Hadoop，Kafka&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Protocol Buffers&lt;/td&gt;
- &lt;td&gt;二进制格式，高性能，代码生成&lt;/td&gt;
- &lt;td&gt;分布式系统，网络通信，高性能数据交换&lt;/td&gt;
- &lt;td&gt;gRPC，Google APIs&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;MessagePack&lt;/td&gt;
- &lt;td&gt;二进制格式，紧凑，多语言支持&lt;/td&gt;
- &lt;td&gt;数据存储，通信，高性能应用程序&lt;/td&gt;
- &lt;td&gt;Redis，MessagePack-RPC&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;BSON&lt;/td&gt;
- &lt;td&gt;二进制JSON扩展，高性能，数据类型支持&lt;/td&gt;
- &lt;td&gt;NoSQL数据库，MongoDB数据交换&lt;/td&gt;
- &lt;td&gt;MongoDB&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;文本数据格式&lt;/strong&gt;：&lt;/p&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;数据格式&lt;/th&gt;
- &lt;th&gt;特点&lt;/th&gt;
- &lt;th&gt;适用场景&lt;/th&gt;
- &lt;th&gt;使用服务/应用程序&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;JSON&lt;/td&gt;
- &lt;td&gt;文本格式，易于阅读，易于编写&lt;/td&gt;
- &lt;td&gt;Web应用程序，API，配置文件&lt;/td&gt;
- &lt;td&gt;RESTful API，JavaScript&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;XML&lt;/td&gt;
- &lt;td&gt;标记语言，支持嵌套，复杂结构&lt;/td&gt;
- &lt;td&gt;数据交换，配置文件，复杂文档&lt;/td&gt;
- &lt;td&gt;SOAP，RSS，配置文件&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;YAML&lt;/td&gt;
- &lt;td&gt;人类可读，简洁语法，易于编写&lt;/td&gt;
- &lt;td&gt;配置文件，人类可读数据交换&lt;/td&gt;
- &lt;td&gt;Docker Compose，Ansible&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;其他数据格式&lt;/strong&gt;：&lt;/p&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;数据格式&lt;/th&gt;
- &lt;th&gt;特点&lt;/th&gt;
- &lt;th&gt;适用场景&lt;/th&gt;
- &lt;th&gt;使用服务/应用程序&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;TOML&lt;/td&gt;
- &lt;td&gt;人类可读，简单，易于编写&lt;/td&gt;
- &lt;td&gt;配置文件，人类可读数据交换&lt;/td&gt;
- &lt;td&gt;Rust，Cargo配置文件&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;CSV&lt;/td&gt;
- &lt;td&gt;文本格式，表格数据，易于导入导出&lt;/td&gt;
- &lt;td&gt;数据导入导出，电子表格&lt;/td&gt;
- &lt;td&gt;Microsoft Excel，Pandas&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;HTML&lt;/td&gt;
- &lt;td&gt;网页标记语言，网页内容描述&lt;/td&gt;
- &lt;td&gt;网页制作，数据抓取，内容展示&lt;/td&gt;
- &lt;td&gt;Web浏览器，网页编辑器&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;EDN&lt;/td&gt;
- &lt;td&gt;可扩展数据表示，Clojure相关&lt;/td&gt;
- &lt;td&gt;Clojure编程，数据交换&lt;/td&gt;
- &lt;td&gt;Clojure，Datomic&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>共轭Conjugate</title><link>https://loongleex.github.io/posts/%E5%85%B1%E8%BD%AD/</link><pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/%E5%85%B1%E8%BD%AD/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
+&lt;/p&gt;</description></item><item><title>共轭Conjugate</title><link>https://loongleex.github.io/posts/%E5%85%B1%E8%BD%AD/</link><pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/%E5%85%B1%E8%BD%AD/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
  &lt;img src="https://loongleex.github.io/bi/english_conjugate_1.png"
  alt="d" 
@@ -1913,6 +1699,93 @@ Build context-aware reasoning applications&lt;/li&gt;
  
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
+&lt;/p&gt;</description></item><item><title>英语单词语言学中的重要概念</title><link>https://loongleex.github.io/posts/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E6%A6%82%E5%BF%B5/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E6%A6%82%E5%BF%B5/</guid><description>&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;概念(英文)&lt;/th&gt;
+ &lt;th&gt;概念(中文)&lt;/th&gt;
+ &lt;th&gt;说明&lt;/th&gt;
+ &lt;th&gt;例子&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Etymology&lt;/td&gt;
+ &lt;td&gt;词源学&lt;/td&gt;
+ &lt;td&gt;研究词语起源及其历史发展的学科。&lt;/td&gt;
+ &lt;td&gt;如：研究“education”一词的起源，可以追溯到拉丁语的“educatio”。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Root Word&lt;/td&gt;
+ &lt;td&gt;词根&lt;/td&gt;
+ &lt;td&gt;词语的最基本部分，是构成词语意义的核心。&lt;/td&gt;
+ &lt;td&gt;如：educate，源自拉丁语词根educare，意思是“引导”或“教导”。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Affix&lt;/td&gt;
+ &lt;td&gt;词缀&lt;/td&gt;
+ &lt;td&gt;附加在词根上的部分，用来改变词语的意义或词类。&lt;/td&gt;
+ &lt;td&gt;如：un-前缀加在happy前面，形成unhappy，表示否定。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Origin&lt;/td&gt;
+ &lt;td&gt;语源&lt;/td&gt;
+ &lt;td&gt;词语最早的出处或起源语言。&lt;/td&gt;
+ &lt;td&gt;如：英语的father，源自古英语fæder，来自印欧语系。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Sound Change&lt;/td&gt;
+ &lt;td&gt;语音变化&lt;/td&gt;
+ &lt;td&gt;词语在演变过程中发音的改变。&lt;/td&gt;
+ &lt;td&gt;如：英语的knight最初发音为/knɪxt/，后演变为/nait/。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Cognates&lt;/td&gt;
+ &lt;td&gt;同源词&lt;/td&gt;
+ &lt;td&gt;在不同语言中具有共同词源的词语。&lt;/td&gt;
+ &lt;td&gt;如：英语mother和德语Mutter，源自同一个印欧词根。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Loanword&lt;/td&gt;
+ &lt;td&gt;借词&lt;/td&gt;
+ &lt;td&gt;从一种语言中借用到另一种语言的词语。&lt;/td&gt;
+ &lt;td&gt;如：英语的pizza，直接借自意大利语。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Analogy&lt;/td&gt;
+ &lt;td&gt;类推&lt;/td&gt;
+ &lt;td&gt;根据现有的词语结构或模式创造新词语的过程。&lt;/td&gt;
+ &lt;td&gt;如：通过分析“baker”（烘焙师）可以推测出“bakery”（面包店）。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Semantic Change&lt;/td&gt;
+ &lt;td&gt;语义变化&lt;/td&gt;
+ &lt;td&gt;词语意义随时间而发生的变化。&lt;/td&gt;
+ &lt;td&gt;如：knight最初指“仆人”，后来演变为“骑士”。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Reconstruction&lt;/td&gt;
+ &lt;td&gt;重构&lt;/td&gt;
+ &lt;td&gt;通过现存的语言证据，推测和重建早期的、未记录的语言形式。&lt;/td&gt;
+ &lt;td&gt;如：通过研究拉丁语推测原始印欧语形式。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Morpheme&lt;/td&gt;
+ &lt;td&gt;语素&lt;/td&gt;
+ &lt;td&gt;最小的语言单位，具有独立的意义。&lt;/td&gt;
+ &lt;td&gt;如：cats中的“cat”是一个语素，表示猫的含义。&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
+&lt;figure&gt;
+ &lt;img src="https://loongleex.github.io/bi/logo_demo_1.png"
+ alt="" 
+ loading="lazy"
+ 
+ 
+ &gt;
+ &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;</description></item><item><title>云主机</title><link>https://loongleex.github.io/posts/%E4%BA%91%E4%B8%BB%E6%9C%BA/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/%E4%BA%91%E4%B8%BB%E6%9C%BA/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
  &lt;img src="https://loongleex.github.io/drawio/FreeCloudResurce.drawio.svg"
@@ -2002,16 +1875,7 @@ Build context-aware reasoning applications&lt;/li&gt;
  &lt;td&gt;事务支持因实现而异，一些系统可能主要优化读性能而非写性能&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>大数据</title><link>https://loongleex.github.io/posts/%E5%A4%A7%E6%95%B0%E6%8D%AE/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/%E5%A4%A7%E6%95%B0%E6%8D%AE/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
-&lt;figure&gt;
- &lt;img src="https://loongleex.github.io/drawio/big_data_1.svg"
- alt="d" 
- loading="lazy"
- width="50%"
- height="100"
- &gt;
- &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>非&amp;关系型数据库</title><link>https://loongleex.github.io/posts/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/</guid><description>&lt;table&gt;
+&lt;/table&gt;</description></item><item><title>非&amp;关系型数据库</title><link>https://loongleex.github.io/posts/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://loongleex.github.io/posts/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;特性&lt;/th&gt;
