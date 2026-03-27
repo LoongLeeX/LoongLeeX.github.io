@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/web/</link><description>Recent content in Web on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/web/index.xml" rel="self" type="application/rss+xml"/><item><title>程序员不能没有自己的网站，就像西方不能没有耶路撒冷</title><link>https://cuisiting.github.io/posts/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99%E5%B0%B1%E5%83%8F%E8%A5%BF%E6%96%B9%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/</link><pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99%E5%B0%B1%E5%83%8F%E8%A5%BF%E6%96%B9%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/</guid><description>&lt;h1 id="买域名"&gt;买域名&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web on Mark's Blog</title><link>https://blog.markcoder.com/tags/web/</link><description>Recent content in Web on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.markcoder.com/tags/web/index.xml" rel="self" type="application/rss+xml"/><item><title>程序员不能没有自己的网站，就像西方不能没有耶路撒冷</title><link>https://blog.markcoder.com/posts/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99%E5%B0%B1%E5%83%8F%E8%A5%BF%E6%96%B9%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/</link><pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99%E5%B0%B1%E5%83%8F%E8%A5%BF%E6%96%B9%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/</guid><description>&lt;h1 id="买域名"&gt;买域名&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -33,50 +33,42 @@
 部署：一般是具有后台计算的服务&lt;/p&gt;
 &lt;h1 id="cloudflare"&gt;Cloudflare&lt;/h1&gt;
 &lt;p&gt;不想流量被打爆，就上它&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_1_add_NameServers.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cloudflare_config_1_add_NameServers.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_2_add_NameServers.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cloudflare_config_2_add_NameServers.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_3_github_page.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cloudflare_config_3_github_page.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>WebPageData2</title><link>https://cuisiting.github.io/posts/webpagedata2/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/webpagedata2/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/p&gt;</description></item><item><title>WebPageData2</title><link>https://blog.markcoder.com/posts/webpagedata2/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/webpagedata2/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/blog/javascript_cookie_data_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/blog/javascript_cookie_data_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -162,34 +154,30 @@ var localStorageData = localStorage.getItem(&amp;#39;key&amp;#39;);
 console.log(&amp;#34;localStorageData:&amp;#34;+localStorageData);
 console.log(&amp;#34;sessionData:&amp;#34;+sessionData);
 &lt;/code&gt;&lt;/pre&gt;&lt;h1 id="从浏览器中查看支持的数据存储方式"&gt;从浏览器中查看支持的数据存储方式&lt;/h1&gt;
-&lt;p&gt;![[javascript_cookie_data_1.png]]&lt;/p&gt;</description></item><item><title>Cytoscape.js</title><link>https://cuisiting.github.io/posts/cytoscape.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cytoscape.js/</guid><description>&lt;p&gt;&lt;a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener"&gt;cytoscape/cytoscape.js: Graph theory (network) library for visualisation and analysis (github.com)&lt;/a&gt;
+&lt;p&gt;![[javascript_cookie_data_1.png]]&lt;/p&gt;</description></item><item><title>Cytoscape.js</title><link>https://blog.markcoder.com/posts/cytoscape.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/cytoscape.js/</guid><description>&lt;p&gt;&lt;a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener"&gt;cytoscape/cytoscape.js: Graph theory (network) library for visualisation and analysis (github.com)&lt;/a&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/web_cytoscape_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/web_cytoscape_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;h1&gt;&lt;/h1&gt;
 &lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>美国 计算机 硕士</title><link>https://cuisiting.github.io/posts/master_cs/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/master_cs/</guid><description>&lt;p&gt;keyword: 美国 计算机 硕士, USA ,CS , Master&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>美国 计算机 硕士</title><link>https://blog.markcoder.com/posts/master_cs/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/master_cs/</guid><description>&lt;p&gt;keyword: 美国 计算机 硕士, USA ,CS , Master&lt;/p&gt;
 &lt;h2 id="大学"&gt;大学&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;MS - Master of Science&lt;/li&gt;
@@ -203,27 +191,23 @@ console.log(&amp;#34;sessionData:&amp;#34;+sessionData);
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://gato-docs.its.txst.edu/jcr:40c81165-7965-4bc1-a017-ffbe47904f8a/Technology&amp;#43;Degrees&amp;#43;.pdf" target="_blank" rel="noopener"&gt;德克萨斯州立大学（Texas State University）&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cs_diff_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cs_diff_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cs_diff_2.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cs_diff_2.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;

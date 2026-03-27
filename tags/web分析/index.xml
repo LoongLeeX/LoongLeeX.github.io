@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web分析 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/web%E5%88%86%E6%9E%90/</link><description>Recent content in Web分析 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/web%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml"/><item><title>如何分析一个网页使用了Recat.js 还是 Vue.js</title><link>https://cuisiting.github.io/posts/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</guid><description>&lt;h2 id="如何分析一个网页使用了reactjs还是vuejs"&gt;如何分析一个网页使用了React.js还是Vue.js&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web分析 on Mark's Blog</title><link>https://blog.markcoder.com/tags/web%E5%88%86%E6%9E%90/</link><description>Recent content in Web分析 on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.markcoder.com/tags/web%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml"/><item><title>如何分析一个网页使用了Recat.js 还是 Vue.js</title><link>https://blog.markcoder.com/posts/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</guid><description>&lt;h2 id="如何分析一个网页使用了reactjs还是vuejs"&gt;如何分析一个网页使用了React.js还是Vue.js&lt;/h2&gt;
 &lt;h3 id="1-查看页面源码"&gt;1. 查看页面源码&lt;/h3&gt;
 &lt;p&gt;打开浏览器，右键点击页面并选择“查看页面源码”（View Page Source）或按 &lt;code&gt;Ctrl + U&lt;/code&gt;。在源码中查找以下关键字：&lt;/p&gt;
 &lt;ul&gt;
@@ -50,15 +50,13 @@
 : 提供关于网页技术栈的详细信息。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;通过上述方法，你可以很容易地判断一个网页是使用了React.js还是Vue.js。&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;</description></item></channel></rss>

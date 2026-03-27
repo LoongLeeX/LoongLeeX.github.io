@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>搭建Blog on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E6%90%AD%E5%BB%BAblog/</link><description>Recent content in 搭建Blog on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><atom:link href="https://cuisiting.github.io/tags/%E6%90%AD%E5%BB%BAblog/index.xml" rel="self" type="application/rss+xml"/><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://cuisiting.github.io/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求"&gt;环境要求&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>搭建Blog on Mark's Blog</title><link>https://blog.markcoder.com/tags/%E6%90%AD%E5%BB%BAblog/</link><description>Recent content in 搭建Blog on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><atom:link href="https://blog.markcoder.com/tags/%E6%90%AD%E5%BB%BAblog/index.xml" rel="self" type="application/rss+xml"/><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://blog.markcoder.com/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求"&gt;环境要求&lt;/h2&gt;
 &lt;p&gt;git&lt;/p&gt;
 &lt;h2 id="开始盖别墅"&gt;开始盖别墅&lt;/h2&gt;
 &lt;ol&gt;
@@ -16,15 +16,13 @@
  
  # 部署到本地查看一下
  hugo server
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/image.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/image.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -36,15 +34,13 @@
  └── 个人随想
  ├── _index.md
  └── my_first.md
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/image-3.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/image-3.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;

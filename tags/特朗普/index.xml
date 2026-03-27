@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>特朗普 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E7%89%B9%E6%9C%97%E6%99%AE/</link><description>Recent content in 特朗普 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E7%89%B9%E6%9C%97%E6%99%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 美国大选</title><link>https://cuisiting.github.io/posts/2024-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/2024-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/</guid><description>&lt;p&gt;美国民主党和共和党的政策对比，以及历届总统的列表和对比：&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>特朗普 on Mark's Blog</title><link>https://blog.markcoder.com/tags/%E7%89%B9%E6%9C%97%E6%99%AE/</link><description>Recent content in 特朗普 on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.markcoder.com/tags/%E7%89%B9%E6%9C%97%E6%99%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 美国大选</title><link>https://blog.markcoder.com/posts/2024-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/2024-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/</guid><description>&lt;p&gt;美国民主党和共和党的政策对比，以及历届总统的列表和对比：&lt;/p&gt;
 &lt;h3 id="政策对比"&gt;政策对比&lt;/h3&gt;
 &lt;table&gt;
  &lt;thead&gt;
@@ -172,15 +172,13 @@
  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;</description></item></channel></rss>

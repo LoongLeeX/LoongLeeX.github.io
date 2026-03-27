@@ -1,71 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Spark on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/spark/</link><description>Recent content in Spark on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><atom:link href="https://cuisiting.github.io/tags/spark/index.xml" rel="self" type="application/rss+xml"/><item><title>Spark Architecture</title><link>https://cuisiting.github.io/posts/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/spark/</guid><description>&lt;p&gt;keyword: Spark, big date ,AI, Architecture&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Spark on Mark's Blog</title><link>https://blog.markcoder.com/tags/spark/</link><description>Recent content in Spark on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><atom:link href="https://blog.markcoder.com/tags/spark/index.xml" rel="self" type="application/rss+xml"/><item><title>Spark Architecture</title><link>https://blog.markcoder.com/posts/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/spark/</guid><description>&lt;p&gt;keyword: Spark, big date ,AI, Architecture&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://avinash333.com/spark-architecture/" target="_blank" rel="noopener"&gt;Spark Architecture&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_avinash333.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_avinash333.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Spark&amp;Hadoop</title><link>https://cuisiting.github.io/posts/sparkhadoop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/sparkhadoop/</guid><description>&lt;p&gt;keyword: Hadopp, Spark, big data, AI, Architecture&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>Spark&amp;Hadoop</title><link>https://blog.markcoder.com/posts/sparkhadoop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/sparkhadoop/</guid><description>&lt;p&gt;keyword: Hadopp, Spark, big data, AI, Architecture&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://developer.hpe.com/blog/performance-tuning-of-an-apache-kafkaspark-streaming-system-telecom-case/" target="_blank" rel="noopener"&gt;Case Study 1&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_telecom_case.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_telecom_case.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://avinash333.com/spark-architecture/" target="_blank" rel="noopener"&gt;Case Study 2&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_avinash333.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_avinash333.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html" target="_blank" rel="noopener"&gt;Case Study 3&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_spark_key_terms.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_spark_key_terms.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671" target="_blank" rel="noopener"&gt;Case Study 4&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_data_engineering_end_end.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_data_engineering_end_end.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;

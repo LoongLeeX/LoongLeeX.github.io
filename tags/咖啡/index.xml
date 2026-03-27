@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>咖啡 on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/%E5%92%96%E5%95%A1/</link><description>Recent content in 咖啡 on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/%E5%92%96%E5%95%A1/index.xml" rel="self" type="application/rss+xml"/><item><title>咖啡</title><link>https://cuisiting.github.io/posts/%E5%92%96%E5%95%A1/</link><pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%92%96%E5%95%A1/</guid><description>&lt;table&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>咖啡 on Mark's Blog</title><link>https://blog.markcoder.com/tags/%E5%92%96%E5%95%A1/</link><description>Recent content in 咖啡 on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.markcoder.com/tags/%E5%92%96%E5%95%A1/index.xml" rel="self" type="application/rss+xml"/><item><title>咖啡</title><link>https://blog.markcoder.com/posts/%E5%92%96%E5%95%A1/</link><pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%92%96%E5%95%A1/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;Coffee Name&lt;/th&gt;
@@ -56,15 +56,13 @@
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/coffee_essential_guide_3.jpeg"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/coffee_essential_guide_3.jpeg"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;</description></item></channel></rss>

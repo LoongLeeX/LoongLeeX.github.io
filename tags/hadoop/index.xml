@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hadoop on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/hadoop/</link><description>Recent content in Hadoop on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/hadoop/index.xml" rel="self" type="application/rss+xml"/><item><title>Hadoop Architecture</title><link>https://cuisiting.github.io/posts/hadooparchitecture/</link><pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hadooparchitecture/</guid><description>&lt;p&gt;keyword: Hadoop, big data, AI, Architecture&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hadoop on Mark's Blog</title><link>https://blog.markcoder.com/tags/hadoop/</link><description>Recent content in Hadoop on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.markcoder.com/tags/hadoop/index.xml" rel="self" type="application/rss+xml"/><item><title>Hadoop Architecture</title><link>https://blog.markcoder.com/posts/hadooparchitecture/</link><pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hadooparchitecture/</guid><description>&lt;p&gt;keyword: Hadoop, big data, AI, Architecture&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.cloudduggu.com/hadoop/architecture/" target="_blank" rel="noopener"&gt;Hadoop Architecture&lt;/a&gt;
 .&lt;/p&gt;
 &lt;p&gt;Apache Hadoop has the following three layers of Architecture.&lt;/p&gt;
@@ -13,142 +13,122 @@
 &lt;p&gt;HDFS&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Map-Reduce&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_map_reduce.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture_map_reduce.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;ol start="2"&gt;
 &lt;li&gt;
 &lt;p&gt;YARN&lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi//hadoop_architecture_yarn.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture_yarn.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;HDFS&lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture_hdfs_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_2.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture_hdfs_2.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_3.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture_hdfs_3.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>Spark&amp;Hadoop</title><link>https://cuisiting.github.io/posts/sparkhadoop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/sparkhadoop/</guid><description>&lt;p&gt;keyword: Hadopp, Spark, big data, AI, Architecture&lt;/p&gt;
+&lt;/ol&gt;</description></item><item><title>Spark&amp;Hadoop</title><link>https://blog.markcoder.com/posts/sparkhadoop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/sparkhadoop/</guid><description>&lt;p&gt;keyword: Hadopp, Spark, big data, AI, Architecture&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://developer.hpe.com/blog/performance-tuning-of-an-apache-kafkaspark-streaming-system-telecom-case/" target="_blank" rel="noopener"&gt;Case Study 1&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_telecom_case.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_telecom_case.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://avinash333.com/spark-architecture/" target="_blank" rel="noopener"&gt;Case Study 2&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_avinash333.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_avinash333.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html" target="_blank" rel="noopener"&gt;Case Study 3&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_spark_key_terms.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_spark_key_terms.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671" target="_blank" rel="noopener"&gt;Case Study 4&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_data_engineering_end_end.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_data_engineering_end_end.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -201,7 +181,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;根据项目需求和资源情况，可以选择适合的框架。在某些复杂的项目中，Hadoop 和 Spark 可以并行使用，以充分利用两者的优势。&lt;/p&gt;</description></item><item><title>数据格式</title><link>https://cuisiting.github.io/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</guid><description>&lt;p&gt;&lt;strong&gt;二进制数据格式&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;根据项目需求和资源情况，可以选择适合的框架。在某些复杂的项目中，Hadoop 和 Spark 可以并行使用，以充分利用两者的优势。&lt;/p&gt;</description></item><item><title>数据格式</title><link>https://blog.markcoder.com/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</guid><description>&lt;p&gt;&lt;strong&gt;二进制数据格式&lt;/strong&gt;：&lt;/p&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -305,15 +285,13 @@
  &lt;td&gt;Clojure，Datomic&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>大数据</title><link>https://cuisiting.github.io/posts/%E5%A4%A7%E6%95%B0%E6%8D%AE/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%A4%A7%E6%95%B0%E6%8D%AE/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/table&gt;</description></item><item><title>大数据</title><link>https://blog.markcoder.com/posts/%E5%A4%A7%E6%95%B0%E6%8D%AE/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%A4%A7%E6%95%B0%E6%8D%AE/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/drawio/big_data_1.svg"
- alt="d#width=50%&amp;amp;height=100" 
+ &lt;img src="https://blog.markcoder.com/drawio/big_data_1.svg"
+ alt="d" 
  loading="lazy"
  width="50%"
+ height="100"
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;</description></item></channel></rss>

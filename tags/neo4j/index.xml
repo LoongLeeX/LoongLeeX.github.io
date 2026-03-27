@@ -1,25 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neo4j on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/neo4j/</link><description>Recent content in Neo4j on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/neo4j/index.xml" rel="self" type="application/rss+xml"/><item><title>基于Neo4j构建源码可视化</title><link>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h2 id="插入数据"&gt;插入数据&lt;/h2&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neo4j on Mark's Blog</title><link>https://blog.markcoder.com/tags/neo4j/</link><description>Recent content in Neo4j on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.markcoder.com/tags/neo4j/index.xml" rel="self" type="application/rss+xml"/><item><title>基于Neo4j构建源码可视化</title><link>https://blog.markcoder.com/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h2 id="插入数据"&gt;插入数据&lt;/h2&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/neo4j_insert_data.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/neo4j_insert_data.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/neo4j_insert_data_2.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/neo4j_insert_data_2.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -34,13 +30,13 @@ WHERE a.name = &amp;#39;your_nodo_name_1&amp;#39; AND
 b.name = &amp;#39;your_nodo_name_2&amp;#39;
 
 RETURN path
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Neo4j</title><link>https://cuisiting.github.io/posts/neo4j/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/neo4j/</guid><description>&lt;h1 id="neo4j-查看所有节点"&gt;neo4j 查看所有节点&lt;/h1&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Neo4j</title><link>https://blog.markcoder.com/posts/neo4j/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/neo4j/</guid><description>&lt;h1 id="neo4j-查看所有节点"&gt;neo4j 查看所有节点&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;MATCH (n) 
 RETURN n
 &lt;/code&gt;&lt;/pre&gt;&lt;h1 id="neo4j-查看所有节点和关系"&gt;neo4j 查看所有节点和关系&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;MATCH (n)-[r]-&amp;gt;(m)
 RETURN n, r, m
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>向量数据库 vs 图数据库</title><link>https://cuisiting.github.io/posts/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-vs-%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-vs-%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/</guid><description>&lt;table&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>向量数据库 vs 图数据库</title><link>https://blog.markcoder.com/posts/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-vs-%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-vs-%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;维度&lt;/th&gt;
@@ -120,15 +116,13 @@ RETURN n, r, m
  &lt;td&gt;事务支持因实现而异，一些系统可能主要优化读性能而非写性能&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>基于 Neo4j 构建 Java 工程代码CallTree Graph</title><link>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8E-neo4j-%E6%9E%84%E5%BB%BA-java-%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81calltree-graph/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8E-neo4j-%E6%9E%84%E5%BB%BA-java-%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81calltree-graph/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/table&gt;</description></item><item><title>基于 Neo4j 构建 Java 工程代码CallTree Graph</title><link>https://blog.markcoder.com/posts/%E5%9F%BA%E4%BA%8E-neo4j-%E6%9E%84%E5%BB%BA-java-%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81calltree-graph/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%9F%BA%E4%BA%8E-neo4j-%E6%9E%84%E5%BB%BA-java-%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81calltree-graph/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/drawio/Neo4jCallTree.drawio.svg"
- alt="d#width=50%&amp;amp;height=100" 
+ &lt;img src="https://blog.markcoder.com/drawio/Neo4jCallTree.drawio.svg"
+ alt="d" 
  loading="lazy"
  width="50%"
+ height="100"
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;</description></item></channel></rss>

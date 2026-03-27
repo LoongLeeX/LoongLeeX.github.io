@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GRPC on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/grpc/</link><description>Recent content in GRPC on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/grpc/index.xml" rel="self" type="application/rss+xml"/><item><title>数据格式</title><link>https://cuisiting.github.io/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</guid><description>&lt;p&gt;&lt;strong&gt;二进制数据格式&lt;/strong&gt;：&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GRPC on Mark's Blog</title><link>https://blog.markcoder.com/tags/grpc/</link><description>Recent content in GRPC on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.markcoder.com/tags/grpc/index.xml" rel="self" type="application/rss+xml"/><item><title>数据格式</title><link>https://blog.markcoder.com/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</guid><description>&lt;p&gt;&lt;strong&gt;二进制数据格式&lt;/strong&gt;：&lt;/p&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -102,7 +102,7 @@
  &lt;td&gt;Clojure，Datomic&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>从 REST api vs gRPC 选型看网络协议</title><link>https://cuisiting.github.io/posts/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</guid><description>&lt;h1 id="rest-api-与-grpc-的对比"&gt;REST API 与 gRPC 的对比&lt;/h1&gt;
+&lt;/table&gt;</description></item><item><title>从 REST api vs gRPC 选型看网络协议</title><link>https://blog.markcoder.com/posts/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</guid><description>&lt;h1 id="rest-api-与-grpc-的对比"&gt;REST API 与 gRPC 的对比&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;

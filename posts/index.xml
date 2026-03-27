@@ -1,25 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/posts/</link><description>Recent content in Posts on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>feeling under the weather</title><link>https://cuisiting.github.io/posts/feeling-under-the-weather/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/feeling-under-the-weather/</guid><description>&lt;p&gt;&lt;a href="https://activemed.com.au/winter-blues-feeling-under-the-weather/" target="_blank" rel="noopener"&gt;Winter Blues - feeling under the weather? | Active Medical&lt;/a&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Mark's Blog</title><link>https://blog.markcoder.com/posts/</link><description>Recent content in Posts on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.markcoder.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>feeling under the weather</title><link>https://blog.markcoder.com/posts/feeling-under-the-weather/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/feeling-under-the-weather/</guid><description>&lt;p&gt;&lt;a href="https://activemed.com.au/winter-blues-feeling-under-the-weather/" target="_blank" rel="noopener"&gt;Winter Blues - feeling under the weather? | Active Medical&lt;/a&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/english_feeling_under_the_weather.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/english_feeling_under_the_weather.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Under the weather&amp;rdquo; 是一种常用的英语成语，用来形容一个人感觉不舒服或生病。&lt;br&gt;
 这个表达通常指轻微的不适，如感冒或头痛，而不是严重的病症。&lt;br&gt;
 起源上，这个短语可能与航海有关，在恶劣天气中，船员会感到不适。&lt;br&gt;
-如今，它广泛用于日常对话中，来表达身体或情绪上的不适。&lt;/p&gt;</description></item><item><title>OLAP Piont</title><link>https://cuisiting.github.io/posts/olap-piont/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/olap-piont/</guid><description>&lt;p&gt;distributed OLAP datastore&lt;br&gt;
+如今，它广泛用于日常对话中，来表达身体或情绪上的不适。&lt;/p&gt;</description></item><item><title>OLAP Piont</title><link>https://blog.markcoder.com/posts/olap-piont/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/olap-piont/</guid><description>&lt;p&gt;distributed OLAP datastore&lt;br&gt;
 Online Analytical Processing&lt;br&gt;
 在线分析处理&lt;/p&gt;
 &lt;p&gt;Pinot is a real-time distributed OLAP datastore, built to deliver scalable real-time analytics with low latency. It can ingest from batch data sources (such as Hadoop HDFS, Amazon S3, Azure ADLS, Google Cloud Storage) as well as stream data sources (such as Apache Kafka).&lt;/p&gt;
-&lt;p&gt;Pinot was built by engineers at LinkedIn and Uber and is designed to scale up and out with no upper bound. Performance always remains constant based on the size of your cluster and an expected query per second (QPS) threshold.&lt;/p&gt;</description></item><item><title>查询字幕学英语</title><link>https://cuisiting.github.io/posts/%E6%9F%A5%E8%AF%A2%E5%AD%97%E5%B9%95%E5%AD%A6%E8%8B%B1%E8%AF%AD/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E6%9F%A5%E8%AF%A2%E5%AD%97%E5%B9%95%E5%AD%A6%E8%8B%B1%E8%AF%AD/</guid><description>&lt;p&gt;&lt;a href="https://youglish.com/pronounce/under%20the%20weather/english?" target="_blank" rel="noopener"&gt;Under The Weather | 285 pronunciations of Under The Weather in English (youglish.com)&lt;/a&gt;
+&lt;p&gt;Pinot was built by engineers at LinkedIn and Uber and is designed to scale up and out with no upper bound. Performance always remains constant based on the size of your cluster and an expected query per second (QPS) threshold.&lt;/p&gt;</description></item><item><title>查询字幕学英语</title><link>https://blog.markcoder.com/posts/%E6%9F%A5%E8%AF%A2%E5%AD%97%E5%B9%95%E5%AD%A6%E8%8B%B1%E8%AF%AD/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E6%9F%A5%E8%AF%A2%E5%AD%97%E5%B9%95%E5%AD%A6%E8%8B%B1%E8%AF%AD/</guid><description>&lt;p&gt;&lt;a href="https://youglish.com/pronounce/under%20the%20weather/english?" target="_blank" rel="noopener"&gt;Under The Weather | 285 pronunciations of Under The Weather in English (youglish.com)&lt;/a&gt;
 &lt;br&gt;
 仅限youtube 资源&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://getyarn.io/yarn-find?text=under%20the%20weather&amp;amp;type=tv" target="_blank" rel="noopener"&gt;under the weather - YARN search (getyarn.io)&lt;/a&gt;
@@ -34,56 +32,50 @@ Online Analytical Processing&lt;br&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.91dict.com/words?w=weather" target="_blank" rel="noopener"&gt;https://www.91dict.com/words?w=weather&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/english_search_word_movie_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/english_search_word_movie_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 
  
 &lt;video controls width="250"&gt;
- &lt;source src="https://cuisiting.github.io/bi/english_word_content.mov" type="video/mp4" /&gt;
+ &lt;source src="https://blog.markcoder.com/bi/english_word_content.mov" type="video/mp4" /&gt;
 &lt;/video&gt;
 
  
 &lt;p&gt;&lt;a href="https://forvo.com/search/Desert/en_usa/" target="_blank" rel="noopener"&gt;Pronunciations for Desert in English (from desert pupfish to I was deserted - left behind in the vast desert.) (forvo.com)&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/english_practice_2.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/english_practice_2.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.blairenglish.com/pronunciation/exercises/countries-regions-cities/online-english-pronunciation-exercise-countries-regions-cities.html" target="_blank" rel="noopener"&gt;在线英语发音练习：国家、地区和城市 |布莱尔英语 &amp;mdash; Online English pronunciation exercise: Countries, regions &amp;amp; cities | Blair English&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>英语介词 English Preposition</title><link>https://cuisiting.github.io/posts/english%E4%BB%8B%E8%AF%8D/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/english%E4%BB%8B%E8%AF%8D/</guid><description>&lt;p&gt;&lt;a href="https://www.english-grammar-revolution.com/list-of-prepositions.html" target="_blank" rel="noopener"&gt;english-grammar-revolution.com&lt;/a&gt;
+&lt;/p&gt;</description></item><item><title>英语介词 English Preposition</title><link>https://blog.markcoder.com/posts/english%E4%BB%8B%E8%AF%8D/</link><pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/english%E4%BB%8B%E8%AF%8D/</guid><description>&lt;p&gt;&lt;a href="https://www.english-grammar-revolution.com/list-of-prepositions.html" target="_blank" rel="noopener"&gt;english-grammar-revolution.com&lt;/a&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/aws_instance_check_port.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/aws_instance_check_port.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://webapps.towson.edu/ows/prepositions.htm" target="_blank" rel="noopener"&gt;PREPOSITIONS (towson.edu)&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>Hadoop Architecture</title><link>https://cuisiting.github.io/posts/hadooparchitecture/</link><pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hadooparchitecture/</guid><description>&lt;p&gt;keyword: Hadoop, big data, AI, Architecture&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>Hadoop Architecture</title><link>https://blog.markcoder.com/posts/hadooparchitecture/</link><pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hadooparchitecture/</guid><description>&lt;p&gt;keyword: Hadoop, big data, AI, Architecture&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.cloudduggu.com/hadoop/architecture/" target="_blank" rel="noopener"&gt;Hadoop Architecture&lt;/a&gt;
 .&lt;/p&gt;
 &lt;p&gt;Apache Hadoop has the following three layers of Architecture.&lt;/p&gt;
@@ -98,90 +90,78 @@ Online Analytical Processing&lt;br&gt;
 &lt;p&gt;HDFS&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Map-Reduce&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_map_reduce.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture_map_reduce.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;ol start="2"&gt;
 &lt;li&gt;
 &lt;p&gt;YARN&lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi//hadoop_architecture_yarn.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture_yarn.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;HDFS&lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture_hdfs_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_2.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture_hdfs_2.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hadoop_architecture_hdfs_3.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hadoop_architecture_hdfs_3.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>Flow Diagram</title><link>https://cuisiting.github.io/posts/flowdiagram/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/flowdiagram/</guid><description>&lt;p&gt;keyword: Flow Diagram, product , efficiency, 工程效率&lt;/p&gt;
-&lt;h2 id="最好的-流程图-架构图-软件"&gt;最好的 流程图 架构图 软件&lt;/h2&gt;</description></item><item><title>Docker</title><link>https://cuisiting.github.io/posts/docker/</link><pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/docker/</guid><description>&lt;p&gt;keyword: Docker&lt;/p&gt;
+&lt;/ol&gt;</description></item><item><title>Flow Diagram</title><link>https://blog.markcoder.com/posts/flowdiagram/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/flowdiagram/</guid><description>&lt;p&gt;keyword: Flow Diagram, product , efficiency, 工程效率&lt;/p&gt;
+&lt;h2 id="最好的-流程图-架构图-软件"&gt;最好的 流程图 架构图 软件&lt;/h2&gt;</description></item><item><title>Docker</title><link>https://blog.markcoder.com/posts/docker/</link><pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/docker/</guid><description>&lt;p&gt;keyword: Docker&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://docs.docker.com/desktop/faqs/linuxfaqs/#:~:text=What%20is%20the%20difference%20between,technology%20that%20powers%20Docker%20containers." target="_blank" rel="noopener"&gt;What is the difference between Docker Desktop for Linux and Docker Engine?&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://docs.docker.com/desktop/faqs/linuxfaqs/#:~:text=What%20is%20the%20difference%20between,technology%20that%20powers%20Docker%20containers." target="_blank" rel="noopener"&gt;Docker Desktop 和 Docker Engine 的区别&lt;/a&gt;
@@ -203,29 +183,25 @@ echo \
  $(. /etc/os-release &amp;amp;&amp;amp; echo &amp;#34;$VERSION_CODENAME&amp;#34;) stable&amp;#34; | \
  sudo tee /etc/apt/sources.list.d/docker.list &amp;gt; /dev/null
 sudo apt-get update
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Install the Docker packages.&lt;/p&gt;</description></item><item><title>Aws Shadowsocket</title><link>https://cuisiting.github.io/posts/awsshadowsocket/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/awsshadowsocket/</guid><description>&lt;p&gt;keyword: AWS instance&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Install the Docker packages.&lt;/p&gt;</description></item><item><title>Aws Shadowsocket</title><link>https://blog.markcoder.com/posts/awsshadowsocket/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/awsshadowsocket/</guid><description>&lt;p&gt;keyword: AWS instance&lt;/p&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/aws_instance_name.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/aws_instance_name.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;创建key 用于 ssh 鉴权登陆&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/aws_instance_create_key.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/aws_instance_create_key.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -238,15 +214,13 @@ ssh -i [your pem path] admin@your_ip
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;指定 shadowsocks container 的端口，检查你的云服务是否开启了该端口&lt;br&gt;
 启动 docker instance&lt;br&gt;
 检查你的云服务是否开启了该端口&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/aws_instance_check_port.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/aws_instance_check_port.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -254,35 +228,31 @@ ssh -i [your pem path] admin@your_ip
 port=&amp;lt;你的端口&amp;gt;
 
 docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always shadowsocks/shadowsocks-libev
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/aws_change_port_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/aws_change_port_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/aws_change_port_2.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/aws_change_port_2.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Alfred Script Filter</title><link>https://cuisiting.github.io/posts/script_filter_k_link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/script_filter_k_link/</guid><description>&lt;p&gt;keyword: Alfred, Script, Filter&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>Alfred Script Filter</title><link>https://blog.markcoder.com/posts/script_filter_k_link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/script_filter_k_link/</guid><description>&lt;p&gt;keyword: Alfred, Script, Filter&lt;/p&gt;
 &lt;p&gt;在配置Alfred Script Filter 时,&lt;br&gt;
 若要打开的文件路径 为&lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;/Users/your_user/Library/Application\ Support/xxxxxx
 &lt;/code&gt;&lt;/pre&gt;
- &lt;img src="https://cuisiting.github.io/bi/Intellj_idea_debug_1.png" style="width:50%;"&gt;
+ &lt;img src="https://blog.markcoder.com/bi/Intellj_idea_debug_1.png" style="width:50%;"&gt;
  
 &lt;p&gt;这类中间带有空格的路径, Alfred 将不能正常打开&lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;{
@@ -301,7 +271,7 @@ docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always s
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;解决办法:&lt;br&gt;
 为 上述文件创建文件链接&lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;格式：ln [原文件] [硬链接文件]
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://cuisiting.github.io/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>&lt;h1 id="hugo-theme-learn-不支持-shortcode"&gt;hugo-theme-learn 不支持 shortcode&lt;/h1&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://blog.markcoder.com/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>&lt;h1 id="hugo-theme-learn-不支持-shortcode"&gt;hugo-theme-learn 不支持 shortcode&lt;/h1&gt;
 &lt;p&gt;按照 Hugo 官方关于自定义 shortcode 文档 &lt;a href="https://gohugo.io/templates/shortcode-templates/" target="_blank" rel="noopener"&gt;https://gohugo.io/templates/shortcode-templates/&lt;/a&gt;
 &lt;br&gt;
 设置如下 :&lt;/p&gt;
@@ -318,7 +288,7 @@ docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always s
  
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;结果：不能将 &lt;rawhtml&gt; 中的内容原样作为标签显示&lt;/p&gt;</description></item><item><title>Installation</title><link>https://cuisiting.github.io/posts/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/my2/</guid><description>&lt;p&gt;The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this &lt;a href="https://gohugo.io/overview/quickstart/" target="_blank" rel="noopener"&gt;great documentation for beginners&lt;/a&gt;
+&lt;p&gt;结果：不能将 &lt;rawhtml&gt; 中的内容原样作为标签显示&lt;/p&gt;</description></item><item><title>Installation</title><link>https://blog.markcoder.com/posts/my2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/my2/</guid><description>&lt;p&gt;The following steps are here to help you initialize your new website. If you don&amp;rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this &lt;a href="https://gohugo.io/overview/quickstart/" target="_blank" rel="noopener"&gt;great documentation for beginners&lt;/a&gt;
 .&lt;/p&gt;
 &lt;h2 id="create-your-project"&gt;Create your project&lt;/h2&gt;
 &lt;p&gt;Hugo provides a &lt;code&gt;new&lt;/code&gt; command to create a new website.&lt;/p&gt;
@@ -329,7 +299,7 @@ docker run -e PASSWORD=$ps -p $port:8388 -p $port:8388/udp -d --restart always s
 &lt;p&gt;This theme&amp;rsquo;s repository is: &lt;a href="https://github.com/matcornic/hugo-theme-learn.git" target="_blank" rel="noopener"&gt;https://github.com/matcornic/hugo-theme-learn.git&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;Alternatively, you can &lt;a href="https://github.com/matcornic/hugo-theme-learn/archive/master.zip" target="_blank" rel="noopener"&gt;download the theme as .zip&lt;/a&gt;
- file and extract it in the &lt;code&gt;themes&lt;/code&gt; directory&lt;/p&gt;</description></item><item><title>macos inputmethod auto switch</title><link>https://cuisiting.github.io/posts/macos_inputmethod_auto_switch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/macos_inputmethod_auto_switch/</guid><description>&lt;p&gt;keyword: macos, inputmethod ,auto ,switch&lt;/p&gt;
+ file and extract it in the &lt;code&gt;themes&lt;/code&gt; directory&lt;/p&gt;</description></item><item><title>macos inputmethod auto switch</title><link>https://blog.markcoder.com/posts/macos_inputmethod_auto_switch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/macos_inputmethod_auto_switch/</guid><description>&lt;p&gt;keyword: macos, inputmethod ,auto ,switch&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/minoki/InputSourceSelector" target="_blank" rel="noopener"&gt;InputSourceSelector&lt;/a&gt;
 &lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;# 查看
@@ -337,88 +307,76 @@ InputSourceSelector list
 
 # 切换
 InputSourceSelector select
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>SideIdea</title><link>https://cuisiting.github.io/posts/sideidea/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/sideidea/</guid><description>&lt;p&gt;keyword: 副业,idea,&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>SideIdea</title><link>https://blog.markcoder.com/posts/sideidea/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/sideidea/</guid><description>&lt;p&gt;keyword: 副业,idea,&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://sideidea.com/" target="_blank" rel="noopener"&gt;SideIdea&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/product_sideidea.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/product_sideidea.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Spark Architecture</title><link>https://cuisiting.github.io/posts/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/spark/</guid><description>&lt;p&gt;keyword: Spark, big date ,AI, Architecture&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>Spark Architecture</title><link>https://blog.markcoder.com/posts/spark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/spark/</guid><description>&lt;p&gt;keyword: Spark, big date ,AI, Architecture&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://avinash333.com/spark-architecture/" target="_blank" rel="noopener"&gt;Spark Architecture&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_avinash333.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_avinash333.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Spark&amp;Hadoop</title><link>https://cuisiting.github.io/posts/sparkhadoop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/sparkhadoop/</guid><description>&lt;p&gt;keyword: Hadopp, Spark, big data, AI, Architecture&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>Spark&amp;Hadoop</title><link>https://blog.markcoder.com/posts/sparkhadoop/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/sparkhadoop/</guid><description>&lt;p&gt;keyword: Hadopp, Spark, big data, AI, Architecture&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://developer.hpe.com/blog/performance-tuning-of-an-apache-kafkaspark-streaming-system-telecom-case/" target="_blank" rel="noopener"&gt;Case Study 1&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_telecom_case.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_telecom_case.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://avinash333.com/spark-architecture/" target="_blank" rel="noopener"&gt;Case Study 2&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_avinash333.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_avinash333.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html" target="_blank" rel="noopener"&gt;Case Study 3&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_spark_key_terms.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_spark_key_terms.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671" target="_blank" rel="noopener"&gt;Case Study 4&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/h_s_data_engineering_end_end.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/h_s_data_engineering_end_end.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -471,7 +429,7 @@ InputSourceSelector select
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;根据项目需求和资源情况，可以选择适合的框架。在某些复杂的项目中，Hadoop 和 Spark 可以并行使用，以充分利用两者的优势。&lt;/p&gt;</description></item><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://cuisiting.github.io/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求"&gt;环境要求&lt;/h2&gt;
+&lt;p&gt;根据项目需求和资源情况，可以选择适合的框架。在某些复杂的项目中，Hadoop 和 Spark 可以并行使用，以充分利用两者的优势。&lt;/p&gt;</description></item><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://blog.markcoder.com/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求"&gt;环境要求&lt;/h2&gt;
 &lt;p&gt;git&lt;/p&gt;
 &lt;h2 id="开始盖别墅"&gt;开始盖别墅&lt;/h2&gt;
 &lt;ol&gt;
@@ -489,15 +447,13 @@ InputSourceSelector select
  
  # 部署到本地查看一下
  hugo server
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/image.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/image.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -509,15 +465,13 @@ InputSourceSelector select
  └── 个人随想
  ├── _index.md
  └── my_first.md
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/image-3.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/image-3.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
@@ -525,30 +479,26 @@ InputSourceSelector select
 4. 但是我们最终是需要将Blog 发布到 自由 、广大的互联网上。&lt;br&gt;
 5. 现在我们用一种成本最小，但体验极佳的方式 将我们的Blog发布&lt;br&gt;
 6. 创建2个仓库 &lt;a href="https://github.com/new" target="_blank" rel="noopener"&gt;https://github.com/new&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>好产品, StepNpull, 卫生间</title><link>https://cuisiting.github.io/posts/stepnpull/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/stepnpull/</guid><description>&lt;p&gt;StepNpul&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/p&gt;</description></item><item><title>好产品, StepNpull, 卫生间</title><link>https://blog.markcoder.com/posts/stepnpull/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/stepnpull/</guid><description>&lt;p&gt;StepNpul&lt;/p&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/blog/stepnpull_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/blog/stepnpull_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;每次上完卫生间洗完手，在用手开门把手 总感觉白洗这个手了。&lt;/p&gt;
 &lt;p&gt;有这这个脚开门把手真的舒服。在流感 COVID-19 期间很有用&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/blog/stepnpull_germaphobs.gif"
- alt="image#width=20%" 
+ &lt;img src="https://blog.markcoder.com/bi/blog/stepnpull_germaphobs.gif"
+ alt="image" 
  loading="lazy"
  width="20%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -558,7 +508,7 @@ InputSourceSelector select
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=krBsPw-c2XU&amp;amp;ab_channel=StepNpull" target="_blank" rel="noopener"&gt;场景 1&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=hac0h5IMmm4&amp;amp;ab_channel=StepNpull" target="_blank" rel="noopener"&gt;场景 2&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>如何用英语说多边形</title><link>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD-%E5%A6%82%E4%BD%95%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%A4%9A%E8%BE%B9%E5%BD%A2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD-%E5%A6%82%E4%BD%95%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%A4%9A%E8%BE%B9%E5%BD%A2/</guid><description>&lt;p&gt;在实际的英语沟通中，很少有人会使用这些严格的多边形名称，尤其是在日常生活中。通常，人们只会使用常见的多边形名称，比如：&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>如何用英语说多边形</title><link>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD-%E5%A6%82%E4%BD%95%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%A4%9A%E8%BE%B9%E5%BD%A2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD-%E5%A6%82%E4%BD%95%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%A4%9A%E8%BE%B9%E5%BD%A2/</guid><description>&lt;p&gt;在实际的英语沟通中，很少有人会使用这些严格的多边形名称，尤其是在日常生活中。通常，人们只会使用常见的多边形名称，比如：&lt;/p&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -571,15 +521,13 @@ InputSourceSelector select
  &lt;tr&gt;
  &lt;td&gt;三角形&lt;/td&gt;
  &lt;td&gt;Triangle&lt;/td&gt;
- &lt;td&gt;埃及金字塔是三角形 &lt;br/&gt;The &lt;strong&gt;Pyramids&lt;/strong&gt; of Egypt are shaped like a &lt;strong&gt;triangle&lt;/strong&gt; 
-
-
-&lt;div class="not-prose"&gt;
+ &lt;td&gt;埃及金字塔是三角形 &lt;br/&gt;The &lt;strong&gt;Pyramids&lt;/strong&gt; of Egypt are shaped like a &lt;strong&gt;triangle&lt;/strong&gt; &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/shape_english_1_giza_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/shape_english_1_giza_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/td&gt;
@@ -597,15 +545,13 @@ InputSourceSelector select
  &lt;tr&gt;
  &lt;td&gt;五边形&lt;/td&gt;
  &lt;td&gt;Pentagon&lt;/td&gt;
- &lt;td&gt;五角大楼是美国国防部的总部 br/&amp;gt;The &lt;strong&gt;Pentagon&lt;/strong&gt; is the headquarters of the United States Department of Defense 
-
-
-&lt;div class="not-prose"&gt;
+ &lt;td&gt;五角大楼是美国国防部的总部 br/&amp;gt;The &lt;strong&gt;Pentagon&lt;/strong&gt; is the headquarters of the United States Department of Defense &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/shape_english_1_pentagon.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/shape_english_1_pentagon.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/td&gt;
@@ -613,15 +559,13 @@ InputSourceSelector select
  &lt;tr&gt;
  &lt;td&gt;六边形&lt;/td&gt;
  &lt;td&gt;Hexagon&lt;/td&gt;
- &lt;td&gt;蜂巢的蜂窝格是六边形 &lt;br/&gt;&lt;strong&gt;Honeycomb&lt;/strong&gt; cells are &lt;strong&gt;hexagon&lt;/strong&gt;-shaped 
-
-
-&lt;div class="not-prose"&gt;
+ &lt;td&gt;蜂巢的蜂窝格是六边形 &lt;br/&gt;&lt;strong&gt;Honeycomb&lt;/strong&gt; cells are &lt;strong&gt;hexagon&lt;/strong&gt;-shaped &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/shape_english_1_Honeycomb.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/shape_english_1_Honeycomb.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/td&gt;
@@ -634,26 +578,22 @@ InputSourceSelector select
  &lt;tr&gt;
  &lt;td&gt;八边形&lt;/td&gt;
  &lt;td&gt;Octagon&lt;/td&gt;
- &lt;td&gt;中国的八卦镜通常是八边形&lt;br/&gt;The &lt;strong&gt;Bagua&lt;/strong&gt; mirror in Chinese culture is often &lt;strong&gt;octagon&lt;/strong&gt;-shaped &lt;br/&gt;美国道路上的停车标志是八边形的 &lt;br/&gt;&lt;strong&gt;Stop signs&lt;/strong&gt; on American roads are &lt;strong&gt;octagon&lt;/strong&gt;-shaped 
-
-
-&lt;div class="not-prose"&gt;
+ &lt;td&gt;中国的八卦镜通常是八边形&lt;br/&gt;The &lt;strong&gt;Bagua&lt;/strong&gt; mirror in Chinese culture is often &lt;strong&gt;octagon&lt;/strong&gt;-shaped &lt;br/&gt;美国道路上的停车标志是八边形的 &lt;br/&gt;&lt;strong&gt;Stop signs&lt;/strong&gt; on American roads are &lt;strong&gt;octagon&lt;/strong&gt;-shaped &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/shape_english_1_bagua.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/shape_english_1_bagua.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
- 
-
-
-&lt;div class="not-prose"&gt;
+ &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/shape_english_1_stop_sign.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/shape_english_1_stop_sign.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/td&gt;
@@ -893,7 +833,7 @@ InputSourceSelector select
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>湾区好公司</title><link>https://cuisiting.github.io/posts/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</guid><description>&lt;p&gt;keyword: 亚麻,八卦, 湾区,&lt;/p&gt;
+&lt;/table&gt;</description></item><item><title>湾区好公司</title><link>https://blog.markcoder.com/posts/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E6%B9%BE%E5%8C%BA%E5%A5%BD%E5%85%AC%E5%8F%B8/</guid><description>&lt;p&gt;keyword: 亚麻,八卦, 湾区,&lt;/p&gt;
 &lt;h2 id="湾区好公司"&gt;湾区好公司&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.intuit.com/" target="_blank" rel="noopener"&gt;https://www.intuit.com/&lt;/a&gt;
 &lt;/p&gt;
@@ -902,7 +842,7 @@ InputSourceSelector select
 &lt;p&gt;&lt;a href="https://www.adobe.com/" target="_blank" rel="noopener"&gt;https://www.adobe.com/&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.levels.fyi/companies/adobe/salaries" target="_blank" rel="noopener"&gt;https://www.levels.fyi/companies/adobe/salaries&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>英语书面语缩写</title><link>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</guid><description>&lt;p&gt;keyword: 英语,书面语,缩写,&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>英语书面语缩写</title><link>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E4%B9%A6%E9%9D%A2%E8%AF%AD%E7%BC%A9%E5%86%99/</guid><description>&lt;p&gt;keyword: 英语,书面语,缩写,&lt;/p&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -929,7 +869,7 @@ InputSourceSelector select
  &lt;td&gt;一般用于IT 支持服务, 非通用&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>设置HugoMarkdown图片大小</title><link>https://cuisiting.github.io/posts/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>&lt;p&gt;&lt;a href="https://gohugo.io/templates/render-hooks/" target="_blank" rel="noopener"&gt;https://gohugo.io/templates/render-hooks/&lt;/a&gt;
+&lt;/table&gt;</description></item><item><title>设置HugoMarkdown图片大小</title><link>https://blog.markcoder.com/posts/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%AE%BE%E7%BD%AEhugomarkdown%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</guid><description>&lt;p&gt;&lt;a href="https://gohugo.io/templates/render-hooks/" target="_blank" rel="noopener"&gt;https://gohugo.io/templates/render-hooks/&lt;/a&gt;
 &lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;&amp;lt;!-- 解析alt中的图片参数 --&amp;gt;
 {{- $image_para := &amp;#34;&amp;#34; -}}
@@ -972,118 +912,102 @@ InputSourceSelector select
 
  width=&amp;#34;{{ $image_width }}&amp;#34;
 &amp;gt;
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>从老外说汉语的腔调看英语发音特点</title><link>https://cuisiting.github.io/posts/%E4%BB%8E%E8%80%81%E5%A4%96%E8%AF%B4%E6%B1%89%E8%AF%AD%E7%9A%84%E8%85%94%E8%B0%83%E7%9C%8B%E8%8B%B1%E8%AF%AD%E5%8F%91%E9%9F%B3%E7%89%B9%E7%82%B9/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E4%BB%8E%E8%80%81%E5%A4%96%E8%AF%B4%E6%B1%89%E8%AF%AD%E7%9A%84%E8%85%94%E8%B0%83%E7%9C%8B%E8%8B%B1%E8%AF%AD%E5%8F%91%E9%9F%B3%E7%89%B9%E7%82%B9/</guid><description>&lt;p&gt;又一次体会到类似《周易》中的阴阳转换。&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>从老外说汉语的腔调看英语发音特点</title><link>https://blog.markcoder.com/posts/%E4%BB%8E%E8%80%81%E5%A4%96%E8%AF%B4%E6%B1%89%E8%AF%AD%E7%9A%84%E8%85%94%E8%B0%83%E7%9C%8B%E8%8B%B1%E8%AF%AD%E5%8F%91%E9%9F%B3%E7%89%B9%E7%82%B9/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E4%BB%8E%E8%80%81%E5%A4%96%E8%AF%B4%E6%B1%89%E8%AF%AD%E7%9A%84%E8%85%94%E8%B0%83%E7%9C%8B%E8%8B%B1%E8%AF%AD%E5%8F%91%E9%9F%B3%E7%89%B9%E7%82%B9/</guid><description>&lt;p&gt;又一次体会到类似《周易》中的阴阳转换。&lt;/p&gt;
 &lt;p&gt;在练习英语翻译的过程中，我始终无法掌握英语的音节、弱读和重音等这些技巧。某个时候，我突然想起自己听外国人说中文时，也会觉得他们的发音怪怪的。这种怪异感应该是因为他们把英语的连读等发音习惯带到了中文发音中。&lt;/p&gt;
 &lt;p&gt;我突然意识到，外国人在说中文时犯的错误，恰恰是我们中国人练习英语发音的一面镜子。在练习英语发音时，我们就要像外国人说中文那样，有一种特定的口音。我们可以先尝试模仿外国人说中文的语调，去体会他们的语言是一种怎样的感觉，而不是一字一句地读。&lt;/p&gt;
-&lt;p&gt;从来没有想到一天既然可以从别人的搞笑发音中获得灵感，&lt;/p&gt;</description></item><item><title>对比前端框架</title><link>https://cuisiting.github.io/posts/%E5%AF%B9%E6%AF%94%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%AF%B9%E6%AF%94%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</guid><description>&lt;p&gt;🎉 Web component JS frameworks overview by their syntax and features&lt;br&gt;
+&lt;p&gt;从来没有想到一天既然可以从别人的搞笑发音中获得灵感，&lt;/p&gt;</description></item><item><title>对比前端框架</title><link>https://blog.markcoder.com/posts/%E5%AF%B9%E6%AF%94%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</link><pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%AF%B9%E6%AF%94%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</guid><description>&lt;p&gt;🎉 Web component JS frameworks overview by their syntax and features&lt;br&gt;
 &lt;a href="https://component-party.dev/" target="_blank" rel="noopener"&gt;Component Party (component-party.dev)&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/vs_web_tool_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/vs_web_tool_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Audio Time Stretch</title><link>https://cuisiting.github.io/posts/audio-time-stretch/</link><pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/audio-time-stretch/</guid><description>&lt;p&gt;Audio Time Stretch&lt;br&gt;
+&lt;/p&gt;</description></item><item><title>Audio Time Stretch</title><link>https://blog.markcoder.com/posts/audio-time-stretch/</link><pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/audio-time-stretch/</guid><description>&lt;p&gt;Audio Time Stretch&lt;br&gt;
 &lt;a href="https://29a.ch/timestretch/" target="_blank" rel="noopener"&gt;TimeStretch Audio Player - 29a.ch&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/audio_time_stretch_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/audio_time_stretch_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Google Drive Api</title><link>https://cuisiting.github.io/posts/google-drive-api-web/</link><pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/google-drive-api-web/</guid><description>&lt;p&gt;在web 中集成Google Drive 的web api，直接在当前页面查看，上传文件，并通过编程与当前页面的产品结合，实现自动化。&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>Google Drive Api</title><link>https://blog.markcoder.com/posts/google-drive-api-web/</link><pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/google-drive-api-web/</guid><description>&lt;p&gt;在web 中集成Google Drive 的web api，直接在当前页面查看，上传文件，并通过编程与当前页面的产品结合，实现自动化。&lt;/p&gt;
 &lt;p&gt;同时在操作数据中，通过Google 的权限控制，保证仅仅会读/写当前应用的数据，为用户提供放心的使用环境。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Create Project&lt;br&gt;
 &lt;a href="https://console.cloud.google.com/apis/dashboard?project=mergewebmmp3" target="_blank" rel="noopener"&gt;https://console.cloud.google.com/apis/dashboard?project=mergewebmmp3&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;li&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/google_drive_api_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/google_drive_api_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/li&gt;
-&lt;li&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;li&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/google_drive_api_2.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/google_drive_api_2.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;li&gt;添加该应用的可用权限&lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/google_drive_api_3.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/google_drive_api_3.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;li&gt;启用 API&lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/google_drive_api_5.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/google_drive_api_5.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/li&gt;
-&lt;li&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;li&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/google_drive_api_6.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/google_drive_api_6.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/li&gt;
-&lt;li&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;li&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/google_drive_api_7.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/google_drive_api_7.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>咖啡</title><link>https://cuisiting.github.io/posts/%E5%92%96%E5%95%A1/</link><pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%92%96%E5%95%A1/</guid><description>&lt;table&gt;
+&lt;/ol&gt;</description></item><item><title>咖啡</title><link>https://blog.markcoder.com/posts/%E5%92%96%E5%95%A1/</link><pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%92%96%E5%95%A1/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;Coffee Name&lt;/th&gt;
@@ -1141,18 +1065,16 @@ InputSourceSelector select
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/coffee_essential_guide_3.jpeg"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/coffee_essential_guide_3.jpeg"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>查询单词关系</title><link>https://cuisiting.github.io/posts/%E6%9F%A5%E8%AF%A2%E5%8D%95%E8%AF%8D%E5%85%B3%E7%B3%BB/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E6%9F%A5%E8%AF%A2%E5%8D%95%E8%AF%8D%E5%85%B3%E7%B3%BB/</guid><description>&lt;p&gt;要查找一个单词的编辑距离为一的所有单词，可以使用以下几个网站和工具：&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>查询单词关系</title><link>https://blog.markcoder.com/posts/%E6%9F%A5%E8%AF%A2%E5%8D%95%E8%AF%8D%E5%85%B3%E7%B3%BB/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E6%9F%A5%E8%AF%A2%E5%8D%95%E8%AF%8D%E5%85%B3%E7%B3%BB/</guid><description>&lt;p&gt;要查找一个单词的编辑距离为一的所有单词，可以使用以下几个网站和工具：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Datamuse&lt;/strong&gt; - 这个网站提供了一个丰富的API，可以查找相似单词，包括编辑距离为一的单词。&lt;/p&gt;
@@ -1196,7 +1118,7 @@ InputSourceSelector select
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;这些工具和网站可以帮助你查找与给定单词编辑距离为一的所有单词。&lt;/p&gt;</description></item><item><title>软件性能描述维度</title><link>https://cuisiting.github.io/posts/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</guid><description>&lt;table&gt;
+&lt;p&gt;这些工具和网站可以帮助你查找与给定单词编辑距离为一的所有单词。&lt;/p&gt;</description></item><item><title>软件性能描述维度</title><link>https://blog.markcoder.com/posts/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%BD%AF%E4%BB%B6%E6%80%A7%E8%83%BD%E6%8F%8F%E8%BF%B0%E7%BB%B4%E5%BA%A6/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;English Term&lt;/th&gt;
@@ -1279,36 +1201,32 @@ InputSourceSelector select
  &lt;td&gt;缓存访问的命中次数与总访问次数的比率。&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>简而明音标</title><link>https://cuisiting.github.io/posts/%E7%AE%80%E8%80%8C%E6%98%8E%E9%9F%B3%E6%A0%87/</link><pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E7%AE%80%E8%80%8C%E6%98%8E%E9%9F%B3%E6%A0%87/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/table&gt;</description></item><item><title>简而明音标</title><link>https://blog.markcoder.com/posts/%E7%AE%80%E8%80%8C%E6%98%8E%E9%9F%B3%E6%A0%87/</link><pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E7%AE%80%E8%80%8C%E6%98%8E%E9%9F%B3%E6%A0%87/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/drawio/%e7%ae%80%e8%80%8c%e5%90%8d%e9%9f%b3%e6%a0%87.drawio.svg"
- alt="d#width=50%&amp;amp;height=100" 
+ &lt;img src="https://blog.markcoder.com/drawio/%e7%ae%80%e8%80%8c%e5%90%8d%e9%9f%b3%e6%a0%87.drawio.svg"
+ alt="d" 
  loading="lazy"
  width="50%"
+ height="100"
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>英语音标不同版本</title><link>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E9%9F%B3%E6%A0%87%E4%B8%8D%E5%90%8C%E7%89%88%E6%9C%AC/</link><pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E9%9F%B3%E6%A0%87%E4%B8%8D%E5%90%8C%E7%89%88%E6%9C%AC/</guid><description>&lt;p&gt;&lt;a href="https://pronunciationstudio.com/english-ipa-chart/" target="_blank" rel="noopener"&gt;English IPA Chart (pronunciationstudio.com)&lt;/a&gt;
+&lt;/p&gt;</description></item><item><title>英语音标不同版本</title><link>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E9%9F%B3%E6%A0%87%E4%B8%8D%E5%90%8C%E7%89%88%E6%9C%AC/</link><pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E9%9F%B3%E6%A0%87%E4%B8%8D%E5%90%8C%E7%89%88%E6%9C%AC/</guid><description>&lt;p&gt;&lt;a href="https://pronunciationstudio.com/english-ipa-chart/" target="_blank" rel="noopener"&gt;English IPA Chart (pronunciationstudio.com)&lt;/a&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/phonetic_symbol_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/phonetic_symbol_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.cnblogs.com/inocalli/p/16261248.html#:~:text=1%EF%BC%89IPA%E9%9F%B3%E6%A0%87%E6%98%AF%E4%BA%BA%E4%BB%AC,%E9%9F%B3%E6%A0%87%EF%BC%8C%E5%9F%BA%E6%9C%AC%E7%AD%89%E5%90%8CDJ%E9%9F%B3%E6%A0%87%E3%80%82" target="_blank" rel="noopener"&gt;英语音标 - inocalli - 博客园 (cnblogs.com)&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>Shell cmd history remove duplicate 命令history去重</title><link>https://cuisiting.github.io/posts/shell-cmd-history-remove-duplicate-%E5%91%BD%E4%BB%A4history%E5%8E%BB%E9%87%8D/</link><pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/shell-cmd-history-remove-duplicate-%E5%91%BD%E4%BB%A4history%E5%8E%BB%E9%87%8D/</guid><description>&lt;p&gt;edit  &lt;code&gt;~/.bash_profile&lt;/code&gt; or my &lt;code&gt;~/.bashrc&lt;/code&gt;&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>Shell cmd history remove duplicate 命令history去重</title><link>https://blog.markcoder.com/posts/shell-cmd-history-remove-duplicate-%E5%91%BD%E4%BB%A4history%E5%8E%BB%E9%87%8D/</link><pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/shell-cmd-history-remove-duplicate-%E5%91%BD%E4%BB%A4history%E5%8E%BB%E9%87%8D/</guid><description>&lt;p&gt;edit  &lt;code&gt;~/.bash_profile&lt;/code&gt; or my &lt;code&gt;~/.bashrc&lt;/code&gt;&lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;
 export HISTCONTROL=ignoreboth:erasedups
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>程序员不能没有自己的网站，就像西方不能没有耶路撒冷</title><link>https://cuisiting.github.io/posts/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99%E5%B0%B1%E5%83%8F%E8%A5%BF%E6%96%B9%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/</link><pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99%E5%B0%B1%E5%83%8F%E8%A5%BF%E6%96%B9%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/</guid><description>&lt;h1 id="买域名"&gt;买域名&lt;/h1&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>程序员不能没有自己的网站，就像西方不能没有耶路撒冷</title><link>https://blog.markcoder.com/posts/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99%E5%B0%B1%E5%83%8F%E8%A5%BF%E6%96%B9%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/</link><pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99%E5%B0%B1%E5%83%8F%E8%A5%BF%E6%96%B9%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7/</guid><description>&lt;h1 id="买域名"&gt;买域名&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1343,42 +1261,36 @@ export HISTCONTROL=ignoreboth:erasedups
 部署：一般是具有后台计算的服务&lt;/p&gt;
 &lt;h1 id="cloudflare"&gt;Cloudflare&lt;/h1&gt;
 &lt;p&gt;不想流量被打爆，就上它&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_1_add_NameServers.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cloudflare_config_1_add_NameServers.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_2_add_NameServers.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cloudflare_config_2_add_NameServers.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cloudflare_config_3_github_page.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cloudflare_config_3_github_page.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>MTBI</title><link>https://cuisiting.github.io/posts/mtbi/</link><pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/mtbi/</guid><description>&lt;h1 id="test"&gt;Test&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>MTBI</title><link>https://blog.markcoder.com/posts/mtbi/</link><pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/mtbi/</guid><description>&lt;h1 id="test"&gt;Test&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://www.16personalities.com/free-personality-test" target="_blank" rel="noopener"&gt;Free Personality Test | 16Personalities&lt;/a&gt;
 &lt;br&gt;
 &lt;a href="https://www.16personalities.com/ch/%E4%BA%BA%E6%A0%BC%E6%B5%8B%E8%AF%95" target="_blank" rel="noopener"&gt;免费性格测试 | 16Personalities&lt;/a&gt;
@@ -1414,15 +1326,13 @@ export HISTCONTROL=ignoreboth:erasedups
  &lt;td&gt;喜欢灵活和自发，开放，&lt;br&gt;喜欢探索和适应变化。&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>超燃音乐</title><link>https://cuisiting.github.io/posts/%E8%B6%85%E7%87%83%E9%9F%B3%E4%B9%90/</link><pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%B6%85%E7%87%83%E9%9F%B3%E4%B9%90/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/table&gt;</description></item><item><title>超燃音乐</title><link>https://blog.markcoder.com/posts/%E8%B6%85%E7%87%83%E9%9F%B3%E4%B9%90/</link><pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%B6%85%E7%87%83%E9%9F%B3%E4%B9%90/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/heart_music_beats.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/heart_music_beats.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -1443,7 +1353,7 @@ export HISTCONTROL=ignoreboth:erasedups
 &lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>US Bank</title><link>https://cuisiting.github.io/posts/us-bank/</link><pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/us-bank/</guid><description>&lt;table&gt;
+&lt;/table&gt;</description></item><item><title>US Bank</title><link>https://blog.markcoder.com/posts/us-bank/</link><pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/us-bank/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;Feature / Type&lt;/th&gt;
@@ -1508,15 +1418,13 @@ export HISTCONTROL=ignoreboth:erasedups
 &lt;h1 id="record"&gt;Record&lt;/h1&gt;
 &lt;p&gt;05/03/2024&lt;br&gt;
 &lt;a href="https://accountoffers.wellsfargo.com/checkingoffer/?product_code=CHK&amp;amp;subproduct_code=RC&amp;amp;sub_channel=SEM&amp;amp;vendor_code=G&amp;amp;collateral_code=24_Always&amp;#43;On_CSBB_24CBDDAQ_BRN_KT_COM_Promo&amp;amp;dm=wells&amp;#43;fargo&amp;#43;300&amp;#43;bonus&amp;amp;gclid=EAIaIQobChMI-biS0b3yhQMVQTqtBh2W8ghBEAAYASAAEgKSsfD_BwE&amp;amp;gclsrc=aw.ds" target="_blank" rel="noopener"&gt;Get $300 with a new Everyday Checking account | Wells Fargo&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>2024日元汇率下跌</title><link>https://cuisiting.github.io/posts/2024%E6%97%A5%E5%85%83%E6%B1%87%E7%8E%87%E4%B8%8B%E8%B7%8C/</link><pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/2024%E6%97%A5%E5%85%83%E6%B1%87%E7%8E%87%E4%B8%8B%E8%B7%8C/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/p&gt;</description></item><item><title>2024日元汇率下跌</title><link>https://blog.markcoder.com/posts/2024%E6%97%A5%E5%85%83%E6%B1%87%E7%8E%87%E4%B8%8B%E8%B7%8C/</link><pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/2024%E6%97%A5%E5%85%83%E6%B1%87%E7%8E%87%E4%B8%8B%E8%B7%8C/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/japen_in_map_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/japen_in_map_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -1531,41 +1439,35 @@ export HISTCONTROL=ignoreboth:erasedups
 &lt;/ol&gt;
 &lt;p&gt;经济政治不分家!!!&lt;/p&gt;
 &lt;p&gt;2024年04月19日数据&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/japen_rate_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/japen_rate_1.png"
  alt="png" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://data.worldbank.org/indicator/PA.NUS.FCRF?end=2022&amp;amp;locations=JP&amp;amp;start=1960&amp;amp;view=chart" target="_blank" rel="noopener"&gt;Official exchange rate (LCU per US$, period average) - Japan | Data (worldbank.org)&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/japen_eco_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/japen_eco_1.png"
  alt="png" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/japen_eco_2.png"
+ &lt;img src="https://blog.markcoder.com/bi/japen_eco_2.png"
  alt="xiaohongshu_plugin_1.png" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -1690,11 +1592,11 @@ export HISTCONTROL=ignoreboth:erasedups
  &lt;td&gt;政策调整和国际市场环境改善共同作用，促进经济复苏。&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>英语-语言 Snippet</title><link>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD-%E8%AF%AD%E8%A8%80-snippet/</link><pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD-%E8%AF%AD%E8%A8%80-snippet/</guid><description>&lt;p&gt;上学&lt;br&gt;
+&lt;/table&gt;</description></item><item><title>英语-语言 Snippet</title><link>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD-%E8%AF%AD%E8%A8%80-snippet/</link><pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD-%E8%AF%AD%E8%A8%80-snippet/</guid><description>&lt;p&gt;上学&lt;br&gt;
 上课&lt;br&gt;
 上班&lt;br&gt;
 打电话&lt;/p&gt;
-&lt;p&gt;Up for a run today?&lt;/p&gt;</description></item><item><title>Jupyter</title><link>https://cuisiting.github.io/posts/jupyter/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/jupyter/</guid><description>&lt;h1 id="在jupter-中显示进度"&gt;在jupter 中显示进度&lt;/h1&gt;
+&lt;p&gt;Up for a run today?&lt;/p&gt;</description></item><item><title>Jupyter</title><link>https://blog.markcoder.com/posts/jupyter/</link><pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/jupyter/</guid><description>&lt;h1 id="在jupter-中显示进度"&gt;在jupter 中显示进度&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;import pandas as pd
 from bs4 import BeautifulSoup
 # 假设 parseHtml 已经定义
@@ -1719,7 +1621,7 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
 &lt;h2 id="question"&gt;Question&lt;/h2&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id="answer"&gt;Answer&lt;/h2&gt;
-&lt;p&gt;确定当前jupter 的python 解释器&lt;/p&gt;</description></item><item><title>语言学</title><link>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E6%A6%82%E5%BF%B5/</link><pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E6%A6%82%E5%BF%B5/</guid><description>&lt;p&gt;&lt;a href="https://languages.oup.com/google-dictionary-en/" target="_blank" rel="noopener"&gt;Oxford Languages and Google - English | Oxford Languages (oup.com)&lt;/a&gt;
+&lt;p&gt;确定当前jupter 的python 解释器&lt;/p&gt;</description></item><item><title>语言学</title><link>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E6%A6%82%E5%BF%B5/</link><pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E6%A6%82%E5%BF%B5/</guid><description>&lt;p&gt;&lt;a href="https://languages.oup.com/google-dictionary-en/" target="_blank" rel="noopener"&gt;Oxford Languages and Google - English | Oxford Languages (oup.com)&lt;/a&gt;
 &lt;br&gt;
 This dictionary is regularly updated with evidence from one of the world’s largest lexical research programmes, and features over 350,000 words and phrases.&lt;/p&gt;
 &lt;h1 id="语言中的概念"&gt;语言中的概念&lt;/h1&gt;
@@ -2207,7 +2109,7 @@ This dictionary is regularly updated with evidence from one of the world’s lar
  &amp;#34;verb_Past_Simple&amp;#34;:&amp;#34;&amp;#34;,
  &amp;#34;verb_Past_Participle&amp;#34;:&amp;#34;&amp;#34;
 }
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Hugo定制Issue</title><link>https://cuisiting.github.io/posts/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</guid><description>&lt;table&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Hugo定制Issue</title><link>https://blog.markcoder.com/posts/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;issue&lt;/th&gt;
@@ -2216,27 +2118,23 @@ This dictionary is regularly updated with evidence from one of the world’s lar
  &lt;/thead&gt;
  &lt;tbody&gt;
  &lt;tr&gt;
- &lt;td&gt;
-
-
-&lt;div class="not-prose"&gt;
+ &lt;td&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hugo_issue_q_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hugo_issue_q_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/td&gt;
- &lt;td&gt;
-
-
-&lt;div class="not-prose"&gt;
+ &lt;td&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hugo_issue_a_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hugo_issue_a_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/td&gt;
@@ -2246,15 +2144,13 @@ This dictionary is regularly updated with evidence from one of the world’s lar
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>语言的XX 等时性</title><link>https://cuisiting.github.io/posts/%E8%AF%AD%E8%A8%80%E7%9A%84xx-%E7%AD%89%E6%97%B6%E6%80%A7/</link><pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%AF%AD%E8%A8%80%E7%9A%84xx-%E7%AD%89%E6%97%B6%E6%80%A7/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/table&gt;</description></item><item><title>语言的XX 等时性</title><link>https://blog.markcoder.com/posts/%E8%AF%AD%E8%A8%80%E7%9A%84xx-%E7%AD%89%E6%97%B6%E6%80%A7/</link><pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%AF%AD%E8%A8%80%E7%9A%84xx-%E7%AD%89%E6%97%B6%E6%80%A7/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/language_xx_timed_2.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/language_xx_timed_2.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
@@ -2324,7 +2220,7 @@ This dictionary is regularly updated with evidence from one of the world’s lar
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=VMDhdaMkeBU&amp;amp;ab_channel=%E8%8B%B1%E8%AF%AD%E5%85%94" target="_blank" rel="noopener"&gt;英语的节奏和&amp;quot;等时性&amp;quot;(这才是中式英语的罪魁祸首!) (youtube.com)&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://linguisticmaps.tumblr.com/" target="_blank" rel="noopener"&gt;语言地图 &amp;mdash; Linguistic Maps (tumblr.com)&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>食用油 烟点</title><link>https://cuisiting.github.io/posts/%E9%A3%9F%E7%94%A8%E6%B2%B9-%E7%83%9F%E7%82%B9/</link><pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E9%A3%9F%E7%94%A8%E6%B2%B9-%E7%83%9F%E7%82%B9/</guid><description>&lt;table&gt;
+&lt;/p&gt;</description></item><item><title>食用油 烟点</title><link>https://blog.markcoder.com/posts/%E9%A3%9F%E7%94%A8%E6%B2%B9-%E7%83%9F%E7%82%B9/</link><pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E9%A3%9F%E7%94%A8%E6%B2%B9-%E7%83%9F%E7%82%B9/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;English Name&lt;/th&gt;
@@ -2480,26 +2376,22 @@ This dictionary is regularly updated with evidence from one of the world’s lar
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/oil_somke_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/oil_somke_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>WebPageData2</title><link>https://cuisiting.github.io/posts/webpagedata2/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/webpagedata2/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/p&gt;</description></item><item><title>WebPageData2</title><link>https://blog.markcoder.com/posts/webpagedata2/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/webpagedata2/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/blog/javascript_cookie_data_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/blog/javascript_cookie_data_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -2585,10 +2477,10 @@ var localStorageData = localStorage.getItem(&amp;#39;key&amp;#39;);
 console.log(&amp;#34;localStorageData:&amp;#34;+localStorageData);
 console.log(&amp;#34;sessionData:&amp;#34;+sessionData);
 &lt;/code&gt;&lt;/pre&gt;&lt;h1 id="从浏览器中查看支持的数据存储方式"&gt;从浏览器中查看支持的数据存储方式&lt;/h1&gt;
-&lt;p&gt;![[javascript_cookie_data_1.png]]&lt;/p&gt;</description></item><item><title>死记硬背 rote 记死背硬</title><link>https://cuisiting.github.io/posts/%E6%AD%BB%E8%AE%B0%E7%A1%AC%E8%83%8C-rote-%E8%AE%B0%E6%AD%BB%E8%83%8C%E7%A1%AC/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E6%AD%BB%E8%AE%B0%E7%A1%AC%E8%83%8C-rote-%E8%AE%B0%E6%AD%BB%E8%83%8C%E7%A1%AC/</guid><description>&lt;p&gt;死记硬背 rote 记死背硬&lt;/p&gt;
+&lt;p&gt;![[javascript_cookie_data_1.png]]&lt;/p&gt;</description></item><item><title>死记硬背 rote 记死背硬</title><link>https://blog.markcoder.com/posts/%E6%AD%BB%E8%AE%B0%E7%A1%AC%E8%83%8C-rote-%E8%AE%B0%E6%AD%BB%E8%83%8C%E7%A1%AC/</link><pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E6%AD%BB%E8%AE%B0%E7%A1%AC%E8%83%8C-rote-%E8%AE%B0%E6%AD%BB%E8%83%8C%E7%A1%AC/</guid><description>&lt;p&gt;死记硬背 rote 记死背硬&lt;/p&gt;
 &lt;p&gt;memorize first, make sense later&lt;/p&gt;
 &lt;p&gt;![[hard_record_dead_remember_2.png]]&lt;br&gt;
-![[hard_record_dead_remember_1.png]]&lt;/p&gt;</description></item><item><title>Hugo 按文章中的时间排序</title><link>https://cuisiting.github.io/posts/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid><description>&lt;pre tabindex="0"&gt;&lt;code&gt;
+![[hard_record_dead_remember_1.png]]&lt;/p&gt;</description></item><item><title>Hugo 按文章中的时间排序</title><link>https://blog.markcoder.com/posts/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid><description>&lt;pre tabindex="0"&gt;&lt;code&gt;
 +{{ $sortedPages := sort $pages &amp;#34;Params.date&amp;#34; &amp;#34;desc&amp;#34; }}
 +
 +
@@ -2600,7 +2492,7 @@ console.log(&amp;#34;sessionData:&amp;#34;+sessionData);
  &amp;lt;article class=&amp;#34;flex flex-col gap-y-3 p-6 mt-6 mx-2 md:mx-0 rounded-lg shadow-md bg-white dark:bg-gray-700&amp;#34;&amp;gt;
  &amp;lt;div data-hveid=&amp;#34;CBEQAA&amp;#34;&amp;gt;
  &amp;lt;div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>LLM, What's the Token?</title><link>https://cuisiting.github.io/posts/llm-whatisthetoken/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/llm-whatisthetoken/</guid><description>&lt;h1 id="token--vs-word"&gt;Token vs Word&lt;/h1&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>LLM, What's the Token?</title><link>https://blog.markcoder.com/posts/llm-whatisthetoken/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/llm-whatisthetoken/</guid><description>&lt;h1 id="token--vs-word"&gt;Token vs Word&lt;/h1&gt;
 &lt;h2 id="summary"&gt;Summary:&lt;/h2&gt;
 &lt;p&gt;Summary OpenAi&lt;br&gt;
 &lt;a href="https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them" target="_blank" rel="noopener"&gt;What are tokens and how to count them? | OpenAI Help Center&lt;/a&gt;
@@ -2619,30 +2511,26 @@ Or
 &lt;strong&gt;&amp;ldquo;Token&amp;quot;通常指的是文本处理的基本单位&lt;/strong&gt;。&lt;br&gt;
 在传统的文本处理中，我们可能会将文本&lt;strong&gt;分割&lt;/strong&gt;成词（words）或者句子作为基本的处理单位。然而，在现代的大型语言模型中，&amp;ldquo;Token&amp;quot;可以是更小的单位，如&lt;strong&gt;字（characters）&lt;/strong&gt;、&lt;strong&gt;词根&lt;/strong&gt;、甚至是&lt;strong&gt;词的&lt;/strong&gt;一部分，这取决于所使用的分词方法（tokenization method）。&lt;/p&gt;
 &lt;p&gt;分词方法将原始文本分解为一系列的token，这些token随后被模型用于训练和生成文本。这一过程允许模型理解和生成包括多种语言在内的复杂文本，因为它可以捕捉到词汇的细微差别、语法结构和语境意义。&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/llm_token_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/llm_token_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/llm_token_2.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/llm_token_2.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>计算增长率</title><link>https://cuisiting.github.io/posts/%E8%AE%A1%E7%AE%97%E5%A2%9E%E9%95%BF%E7%8E%87/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%AE%A1%E7%AE%97%E5%A2%9E%E9%95%BF%E7%8E%87/</guid><description>&lt;h1 id="javascript"&gt;JavaScript&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>计算增长率</title><link>https://blog.markcoder.com/posts/%E8%AE%A1%E7%AE%97%E5%A2%9E%E9%95%BF%E7%8E%87/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%AE%A1%E7%AE%97%E5%A2%9E%E9%95%BF%E7%8E%87/</guid><description>&lt;h1 id="javascript"&gt;JavaScript&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;function calculateRatio(start, end, year) {
 	// 计算ratio
 	const ratio = Math.pow(end / start, 1 / year) - 1;
@@ -2659,32 +2547,28 @@ const year = 3; // 年份
 console.log(calculateRatio(start, end, year));
 &lt;/code&gt;&lt;/pre&gt;&lt;h1 id="execl"&gt;Execl&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;=((end/start)^(1/(endYear-startYear)))-1
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>IntellJ Idea</title><link>https://cuisiting.github.io/posts/intellj-idea/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/intellj-idea/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>IntellJ Idea</title><link>https://blog.markcoder.com/posts/intellj-idea/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/intellj-idea/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/Intellj_idea_debug_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/Intellj_idea_debug_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>use React.js , deploy on Vercel , control AWS EC2</title><link>https://cuisiting.github.io/posts/use-react.js--deploy-on-vercel--control-aws-ec2/</link><pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/use-react.js--deploy-on-vercel--control-aws-ec2/</guid><description/></item><item><title>draw.io copy format text</title><link>https://cuisiting.github.io/posts/draw.io-copy-format-text/</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/draw.io-copy-format-text/</guid><description>&lt;p&gt;To maintain the formatting of JSON code snippets when copying from Visual Studio Code (VS Code) to draw.io, you can follow these steps.&lt;br&gt;
+&lt;/p&gt;</description></item><item><title>use React.js , deploy on Vercel , control AWS EC2</title><link>https://blog.markcoder.com/posts/use-react.js--deploy-on-vercel--control-aws-ec2/</link><pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/use-react.js--deploy-on-vercel--control-aws-ec2/</guid><description/></item><item><title>draw.io copy format text</title><link>https://blog.markcoder.com/posts/draw.io-copy-format-text/</link><pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/draw.io-copy-format-text/</guid><description>&lt;p&gt;To maintain the formatting of JSON code snippets when copying from Visual Studio Code (VS Code) to draw.io, you can follow these steps.&lt;br&gt;
 The goal is to ensure that the indentation (spaces or tabs) is preserved when the text is pasted into a text box in draw.io.&lt;/p&gt;
 
  
 &lt;video controls width="250"&gt;
- &lt;source src="https://cuisiting.github.io/bi/drawio_copy_format_text.mov" type="video/mp4" /&gt;
-&lt;/video&gt;</description></item><item><title>LangChain</title><link>https://cuisiting.github.io/posts/langchain/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/langchain/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+ &lt;source src="https://blog.markcoder.com/bi/drawio_copy_format_text.mov" type="video/mp4" /&gt;
+&lt;/video&gt;</description></item><item><title>LangChain</title><link>https://blog.markcoder.com/posts/langchain/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/langchain/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/langchain_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/langchain_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -2701,7 +2585,7 @@ Build context-aware reasoning applications&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id="aws-explain"&gt;AWS explain&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://aws.amazon.com/cn/what-is/langchain/" target="_blank" rel="noopener"&gt;https://aws.amazon.com/cn/what-is/langchain/&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>龙蛇之变，木雁之间</title><link>https://cuisiting.github.io/posts/%E9%BE%99%E8%9B%87%E4%B9%8B%E5%8F%98%E6%9C%A8%E9%9B%81%E4%B9%8B%E9%97%B4/</link><pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E9%BE%99%E8%9B%87%E4%B9%8B%E5%8F%98%E6%9C%A8%E9%9B%81%E4%B9%8B%E9%97%B4/</guid><description>&lt;p&gt;庄子行于山中，见大木，枝叶盛茂，伐木者止其旁而不取也。&lt;br&gt;
+&lt;/p&gt;</description></item><item><title>龙蛇之变，木雁之间</title><link>https://blog.markcoder.com/posts/%E9%BE%99%E8%9B%87%E4%B9%8B%E5%8F%98%E6%9C%A8%E9%9B%81%E4%B9%8B%E9%97%B4/</link><pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E9%BE%99%E8%9B%87%E4%B9%8B%E5%8F%98%E6%9C%A8%E9%9B%81%E4%B9%8B%E9%97%B4/</guid><description>&lt;p&gt;庄子行于山中，见大木，枝叶盛茂，伐木者止其旁而不取也。&lt;br&gt;
 问其故。曰：“无所可用。”&lt;br&gt;
 庄子曰：“此木以不材得终其天年。”&lt;/p&gt;
 &lt;p&gt;夫子出于山，舍于故人之家。故人喜，命竖子杀雁而烹之。&lt;br&gt;
@@ -2719,21 +2603,19 @@ Build context-aware reasoning applications&lt;/li&gt;
 若夫万物之情，人伦之传，则不然。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;合则离，成则毁，廉则挫，尊则议，有为则亏，贤则谋，不肖则欺，&lt;/strong&gt;&lt;br&gt;
 胡可得而必乎哉？悲夫！弟子志之，其唯道德之乡乎！”&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/longshezhibian_muyanzhijian_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/longshezhibian_muyanzhijian_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>jetlag</title><link>https://cuisiting.github.io/posts/jetlag/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/jetlag/</guid><description>&lt;p&gt;Jet lag&lt;br&gt;
+&lt;/p&gt;</description></item><item><title>jetlag</title><link>https://blog.markcoder.com/posts/jetlag/</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/jetlag/</guid><description>&lt;p&gt;Jet lag&lt;br&gt;
 &lt;a href="https://wwwnc.cdc.gov/travel/page/jet-lag#:~:text=It%20is%20a%20temporary%20sleep,your%20physical%20and%20mental%20performance." target="_blank" rel="noopener"&gt;Jet Lag | Travelers&amp;rsquo; Health | CDC&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;Jet lag is caused by a mismatch between a person’s normal daily rhythms and a new time zone. It is a temporary sleep problem that usually occurs when you travel across more than three time zones but can affect anyone who travels across multiple time zones. Jet lag can affect your mood, your ability to concentrate, and your physical and mental performance. Fortunately, you can take steps to minimize the effects of jet lag.&lt;/p&gt;</description></item><item><title>模板</title><link>https://cuisiting.github.io/posts/http-get-vs-post/</link><pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/http-get-vs-post/</guid><description>&lt;table&gt;
+&lt;p&gt;Jet lag is caused by a mismatch between a person’s normal daily rhythms and a new time zone. It is a temporary sleep problem that usually occurs when you travel across more than three time zones but can affect anyone who travels across multiple time zones. Jet lag can affect your mood, your ability to concentrate, and your physical and mental performance. Fortunately, you can take steps to minimize the effects of jet lag.&lt;/p&gt;</description></item><item><title>模板</title><link>https://blog.markcoder.com/posts/http-get-vs-post/</link><pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/http-get-vs-post/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;特性&lt;/th&gt;
@@ -2786,31 +2668,27 @@ Build context-aware reasoning applications&lt;/li&gt;
  &lt;td&gt;&lt;strong&gt;GET&lt;/strong&gt;: 多次刷新新闻页面，内容不变。 &lt;br&gt;&lt;strong&gt;POST&lt;/strong&gt;: 多次提交订单，可能会创建多个订单。&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>经济数据</title><link>https://cuisiting.github.io/posts/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</guid><description>&lt;p&gt;![[economy_data_1.png]]&lt;br&gt;
+&lt;/table&gt;</description></item><item><title>经济数据</title><link>https://blog.markcoder.com/posts/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE/</guid><description>&lt;p&gt;![[economy_data_1.png]]&lt;br&gt;
 &lt;a href="https://sc.macromicro.me/" target="_blank" rel="noopener"&gt;https://sc.macromicro.me/&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.tradingview.com/chart/iuFHyfXI/" target="_blank" rel="noopener"&gt;https://www.tradingview.com/chart/iuFHyfXI/&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/data_1_trading_view.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/data_1_trading_view.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>美联储利率</title><link>https://cuisiting.github.io/posts/%E7%BE%8E%E8%81%94%E5%82%A8%E5%88%A9%E7%8E%87/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E7%BE%8E%E8%81%94%E5%82%A8%E5%88%A9%E7%8E%87/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/p&gt;</description></item><item><title>美联储利率</title><link>https://blog.markcoder.com/posts/%E7%BE%8E%E8%81%94%E5%82%A8%E5%88%A9%E7%8E%87/</link><pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E7%BE%8E%E8%81%94%E5%82%A8%E5%88%A9%E7%8E%87/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/ffe_3.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/ffe_3.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
@@ -2820,32 +2698,28 @@ Build context-aware reasoning applications&lt;/li&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://bank.fx678.com/" target="_blank" rel="noopener"&gt;美联储议息会议时间表_会议纪要_美联储 主席_美联储(FED)-汇通网 (fx678.com)&lt;/a&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/ffe_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/ffe_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://fred.stlouisfed.org/series/FEDFUNDS" target="_blank" rel="noopener"&gt;Federal Funds Effective Rate (FEDFUNDS) | FRED | St. Louis Fed (stlouisfed.org)&lt;/a&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/ffe_2.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/ffe_2.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>数据格式</title><link>https://cuisiting.github.io/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</guid><description>&lt;p&gt;&lt;strong&gt;二进制数据格式&lt;/strong&gt;：&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>数据格式</title><link>https://blog.markcoder.com/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</link><pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F/</guid><description>&lt;p&gt;&lt;strong&gt;二进制数据格式&lt;/strong&gt;：&lt;/p&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2949,15 +2823,13 @@ Build context-aware reasoning applications&lt;/li&gt;
  &lt;td&gt;Clojure，Datomic&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>共轭Conjugate</title><link>https://cuisiting.github.io/posts/%E5%85%B1%E8%BD%AD/</link><pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%85%B1%E8%BD%AD/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/table&gt;</description></item><item><title>共轭Conjugate</title><link>https://blog.markcoder.com/posts/%E5%85%B1%E8%BD%AD/</link><pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%85%B1%E8%BD%AD/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/english_conjugate_1.png"
- alt="d#width=50%&amp;amp;height=100" 
+ &lt;img src="https://blog.markcoder.com/bi/english_conjugate_1.png"
+ alt="d" 
  loading="lazy"
  width="50%"
+ height="100"
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -3001,15 +2873,13 @@ Build context-aware reasoning applications&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;四元数的共轭&lt;/strong&gt;：四元数的共轭类似于复数的共轭，是将四元数的虚部的符号取反。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;这些是共轭的一些常见含义，但在不同的数学领域中，共轭可能有其他特定的定义。&lt;/p&gt;</description></item><item><title>Check My CreditScore</title><link>https://cuisiting.github.io/posts/check-my-creditscore/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/check-my-creditscore/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;这些是共轭的一些常见含义，但在不同的数学领域中，共轭可能有其他特定的定义。&lt;/p&gt;</description></item><item><title>Check My CreditScore</title><link>https://blog.markcoder.com/posts/check-my-creditscore/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/check-my-creditscore/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/uas_credit_score_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/uas_credit_score_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -3092,28 +2962,24 @@ By law, you can get a free credit report each year from the three credit reporti
  &lt;td&gt;300-850 (FICO)&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>基于Neo4j构建源码可视化</title><link>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h2 id="插入数据"&gt;插入数据&lt;/h2&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/table&gt;</description></item><item><title>基于Neo4j构建源码可视化</title><link>https://blog.markcoder.com/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%9F%BA%E4%BA%8Eneo4j%E6%9E%84%E5%BB%BA%E6%BA%90%E7%A0%81%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h2 id="插入数据"&gt;插入数据&lt;/h2&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/neo4j_insert_data.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/neo4j_insert_data.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/neo4j_insert_data_2.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/neo4j_insert_data_2.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -3128,22 +2994,20 @@ WHERE a.name = &amp;#39;your_nodo_name_1&amp;#39; AND
 b.name = &amp;#39;your_nodo_name_2&amp;#39;
 
 RETURN path
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>0模板</title><link>https://cuisiting.github.io/posts/0%E6%A8%A1%E6%9D%BF/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/0%E6%A8%A1%E6%9D%BF/</guid><description>&lt;h1&gt;&lt;/h1&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>0模板</title><link>https://blog.markcoder.com/posts/0%E6%A8%A1%E6%9D%BF/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/0%E6%A8%A1%E6%9D%BF/</guid><description>&lt;h1&gt;&lt;/h1&gt;
 &lt;h1&gt;&lt;/h1&gt;
 &lt;h1&gt;&lt;/h1&gt;
 &lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>0模板</title><link>https://cuisiting.github.io/posts/vps/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/vps/</guid><description>&lt;h1&gt;&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>0模板</title><link>https://blog.markcoder.com/posts/vps/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/vps/</guid><description>&lt;h1&gt;&lt;/h1&gt;
 &lt;h1&gt;&lt;/h1&gt;
 &lt;h1&gt;&lt;/h1&gt;
 &lt;h1&gt;&lt;/h1&gt;
@@ -3154,7 +3018,9 @@ RETURN path
 &lt;p&gt;&lt;a href="https://www.ionos.com/servers/vps" target="_blank" rel="noopener"&gt;https://www.ionos.com/servers/vps&lt;/a&gt;
 &lt;br&gt;
 &lt;a href="https://web.c-servers.co.uk/category/amd-ryzen-quality-vps" target="_blank" rel="noopener"&gt;https://web.c-servers.co.uk/category/amd-ryzen-quality-vps&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>2024 美国大选</title><link>https://cuisiting.github.io/posts/2024-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/2024-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/</guid><description>&lt;p&gt;美国民主党和共和党的政策对比，以及历届总统的列表和对比：&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.ionos.com/hosting/web-hosting-affiliate?transaction_id=102d267345fdd4269ea466f5ce86cc&amp;amp;itc=RP0VPYCQ-1J1XUL-0Q1429E&amp;amp;ac=OM.US.USt02K418213T7073a&amp;amp;affiliate_id=2758&amp;amp;utm_source=Digital&amp;#43;Brands%2C&amp;#43;Inc.&amp;amp;utm_medium=affiliate&amp;amp;utm_campaign=AFF-US-CLA-WHOS-2758-----&amp;amp;utm_content=" target="_blank" rel="noopener"&gt;https://www.ionos.com/hosting/web-hosting-affiliate?transaction_id=102d267345fdd4269ea466f5ce86cc&amp;itc=RP0VPYCQ-1J1XUL-0Q1429E&amp;ac=OM.US.USt02K418213T7073a&amp;affiliate_id=2758&amp;utm_source=Digital+Brands%2C+Inc.&amp;utm_medium=affiliate&amp;utm_campaign=AFF-US-CLA-WHOS-2758-----&amp;utm_content=&lt;/a&gt;
+&lt;/p&gt;</description></item><item><title>2024 美国大选</title><link>https://blog.markcoder.com/posts/2024-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/2024-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/</guid><description>&lt;p&gt;美国民主党和共和党的政策对比，以及历届总统的列表和对比：&lt;/p&gt;
 &lt;h3 id="政策对比"&gt;政策对比&lt;/h3&gt;
 &lt;table&gt;
  &lt;thead&gt;
@@ -3328,18 +3194,16 @@ RETURN path
  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>awesome-visjs demo</title><link>https://cuisiting.github.io/posts/awesome-visjs-demo/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/awesome-visjs-demo/</guid><description>&lt;p&gt;&lt;a href="https://github.com/visjs/awesome-visjs/blob/master/README.md" target="_blank" rel="noopener"&gt;https://github.com/visjs/awesome-visjs/blob/master/README.md&lt;/a&gt;
+&lt;/p&gt;</description></item><item><title>awesome-visjs demo</title><link>https://blog.markcoder.com/posts/awesome-visjs-demo/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/awesome-visjs-demo/</guid><description>&lt;p&gt;&lt;a href="https://github.com/visjs/awesome-visjs/blob/master/README.md" target="_blank" rel="noopener"&gt;https://github.com/visjs/awesome-visjs/blob/master/README.md&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://js.cytoscape.org/" target="_blank" rel="noopener"&gt;https://js.cytoscape.org/&lt;/a&gt;
 &lt;br&gt;
@@ -3349,71 +3213,61 @@ RETURN path
 &lt;br&gt;
 &lt;a href="https://www.sigmajs.org/" target="_blank" rel="noopener"&gt;https://www.sigmajs.org/&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>AWS EC2 instance</title><link>https://cuisiting.github.io/posts/aws-ec2-instance/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/aws-ec2-instance/</guid><description>&lt;h1&gt;&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>AWS EC2 instance</title><link>https://blog.markcoder.com/posts/aws-ec2-instance/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/aws-ec2-instance/</guid><description>&lt;h1&gt;&lt;/h1&gt;
 &lt;h1 id="choose-regions"&gt;Choose Regions&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/aws_ec2_choose_regions_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/aws_ec2_choose_regions_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;h1 id="update-network-security-rule"&gt;Update Network Security Rule&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/aws_ec2_update_security_rule_2.png"
+ &lt;img src="https://blog.markcoder.com/bi/aws_ec2_update_security_rule_2.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Cytoscape.js</title><link>https://cuisiting.github.io/posts/cytoscape.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/cytoscape.js/</guid><description>&lt;p&gt;&lt;a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener"&gt;cytoscape/cytoscape.js: Graph theory (network) library for visualisation and analysis (github.com)&lt;/a&gt;
+&lt;/p&gt;</description></item><item><title>Cytoscape.js</title><link>https://blog.markcoder.com/posts/cytoscape.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/cytoscape.js/</guid><description>&lt;p&gt;&lt;a href="https://github.com/cytoscape/cytoscape.js" target="_blank" rel="noopener"&gt;cytoscape/cytoscape.js: Graph theory (network) library for visualisation and analysis (github.com)&lt;/a&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/web_cytoscape_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/web_cytoscape_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;h1&gt;&lt;/h1&gt;
 &lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Git</title><link>https://cuisiting.github.io/posts/git-force-update-commit-author-info/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/git-force-update-commit-author-info/</guid><description>&lt;h1 id="force-update-specify-commit-id"&gt;Force update specify commit id&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>Git</title><link>https://blog.markcoder.com/posts/git-force-update-commit-author-info/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/git-force-update-commit-author-info/</guid><description>&lt;h1 id="force-update-specify-commit-id"&gt;Force update specify commit id&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;
 git filter-repo --commit-callback &amp;#39;
 if commit.original_id == b&amp;#34;45131da3ef02aa324590ee29b4d7417686950297&amp;#34;:
@@ -3439,18 +3293,16 @@ if commit.committer_name == old_author_name and commit.committer_email == old_au
  commit.committer_email = new_author_email
 &amp;#39;
 &lt;/code&gt;&lt;/pre&gt;&lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Gradle Dependcy Graph 可视化</title><link>https://cuisiting.github.io/posts/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h1 id="buildgradle"&gt;build.gradle&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>Gradle Dependcy Graph 可视化</title><link>https://blog.markcoder.com/posts/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/gradle-dependcy-graph-%E5%8F%AF%E8%A7%86%E5%8C%96/</guid><description>&lt;h1 id="buildgradle"&gt;build.gradle&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;...
  
 apply from: &amp;#39;depend.gradle&amp;#39;
@@ -3566,28 +3418,24 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;h1&gt;&lt;/h1&gt;
 &lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>mac os 应用&amp;浏览器 window 管理</title><link>https://cuisiting.github.io/posts/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</guid><description>&lt;p&gt;&lt;a href="https://github.com/peterdotjs/tab-resize" target="_blank" rel="noopener"&gt;https://github.com/peterdotjs/tab-resize&lt;/a&gt;
+&lt;/p&gt;</description></item><item><title>mac os 应用&amp;浏览器 window 管理</title><link>https://blog.markcoder.com/posts/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%BA%94%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8-%E7%AA%97%E5%8F%A3-%E7%AE%A1%E7%90%86-macos/</guid><description>&lt;p&gt;&lt;a href="https://github.com/peterdotjs/tab-resize" target="_blank" rel="noopener"&gt;https://github.com/peterdotjs/tab-resize&lt;/a&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/macos_window_manager_tab_resize_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/macos_window_manager_tab_resize_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -3597,29 +3445,25 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
 &lt;br&gt;
 &lt;a href="https://www.hammerspoon.org/go/" target="_blank" rel="noopener"&gt;Getting Started (hammerspoon.org)&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/macos_window_manager_inputsourcepro_2.png"
+ &lt;img src="https://blog.markcoder.com/bi/macos_window_manager_inputsourcepro_2.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://inputsource.pro/" target="_blank" rel="noopener"&gt;Input Source Pro - Switch and track your input sources with ease&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/macos_window_manager_inputsourcepro_3.png"
+ &lt;img src="https://blog.markcoder.com/bi/macos_window_manager_inputsourcepro_3.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
@@ -3628,18 +3472,16 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
 &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/Hammerspoon/hammerspoon/issues/3636" target="_blank" rel="noopener"&gt;hs.spaces.moveWindowToSpace not working · Issue #3636 · Hammerspoon/hammerspoon (github.com)&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Month English 月份</title><link>https://cuisiting.github.io/posts/month-english-%E6%9C%88%E4%BB%BD/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/month-english-%E6%9C%88%E4%BB%BD/</guid><description>&lt;table&gt;
+&lt;/p&gt;</description></item><item><title>Month English 月份</title><link>https://blog.markcoder.com/posts/month-english-%E6%9C%88%E4%BB%BD/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/month-english-%E6%9C%88%E4%BB%BD/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;月份&lt;/th&gt;
@@ -3723,30 +3565,26 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>React.js vs Vue.js</title><link>https://cuisiting.github.io/posts/react.js-vs-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/react.js-vs-vue.js/</guid><description>&lt;h1 id="vue-作为开源社区维护的框架能和reactjs-放在一起比较已经很牛b了"&gt;Vue 作为开源社区维护的框架，能和Reactjs 放在一起比较，已经很牛B了&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>React.js vs Vue.js</title><link>https://blog.markcoder.com/posts/react.js-vs-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/react.js-vs-vue.js/</guid><description>&lt;h1 id="vue-作为开源社区维护的框架能和reactjs-放在一起比较已经很牛b了"&gt;Vue 作为开源社区维护的框架，能和Reactjs 放在一起比较，已经很牛B了&lt;/h1&gt;
 &lt;h1 id="github-star"&gt;github star&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://star-history.com/#facebook/react&amp;amp;vuejs/core&amp;amp;Date" target="_blank" rel="noopener"&gt;https://star-history.com/#facebook/react&amp;vuejs/core&amp;Date&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/react_vue_compare_1_github_star.png"
+ &lt;img src="https://blog.markcoder.com/bi/react_vue_compare_1_github_star.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -3885,7 +3723,7 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>互联网历史</title><link>https://cuisiting.github.io/posts/%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%86%E5%8F%B2/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%86%E5%8F%B2/</guid><description>&lt;table&gt;
+&lt;/table&gt;</description></item><item><title>互联网历史</title><link>https://blog.markcoder.com/posts/%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%86%E5%8F%B2/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E4%BA%92%E8%81%94%E7%BD%91%E5%8E%86%E5%8F%B2/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;&lt;/th&gt;
@@ -4556,18 +4394,16 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>从 REST api vs gRPC 选型看网络协议</title><link>https://cuisiting.github.io/posts/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</guid><description>&lt;h1 id="rest-api-与-grpc-的对比"&gt;REST API 与 gRPC 的对比&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>从 REST api vs gRPC 选型看网络协议</title><link>https://blog.markcoder.com/posts/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E4%BB%8E-rest-api-vs-grpc-%E9%80%89%E5%9E%8B%E7%9C%8B%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</guid><description>&lt;h1 id="rest-api-与-grpc-的对比"&gt;REST API 与 gRPC 的对比&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4673,46 +4509,40 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
 &lt;/table&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;gRPC&lt;/strong&gt;：位于 &lt;strong&gt;应用层（第七层）&lt;/strong&gt;，是一种高性能的开源 RPC 框架，基于 HTTP/2 传输协议，使用 Protocol Buffers 作为接口描述语言和数据序列化方式。&lt;/p&gt;</description></item><item><title>历史地图时间线</title><link>https://cuisiting.github.io/posts/%E5%8E%86%E5%8F%B2%E5%9C%B0%E5%9B%BE%E6%97%B6%E9%97%B4%E7%BA%BF/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%8E%86%E5%8F%B2%E5%9C%B0%E5%9B%BE%E6%97%B6%E9%97%B4%E7%BA%BF/</guid><description>&lt;p&gt;&lt;a href="https://www.runningreality.org/#01/01/1700&amp;amp;38.38448,-83.26869&amp;amp;zoom=5" target="_blank" rel="noopener"&gt;Running Reality - The World History Model&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt;gRPC&lt;/strong&gt;：位于 &lt;strong&gt;应用层（第七层）&lt;/strong&gt;，是一种高性能的开源 RPC 框架，基于 HTTP/2 传输协议，使用 Protocol Buffers 作为接口描述语言和数据序列化方式。&lt;/p&gt;</description></item><item><title>历史地图时间线</title><link>https://blog.markcoder.com/posts/%E5%8E%86%E5%8F%B2%E5%9C%B0%E5%9B%BE%E6%97%B6%E9%97%B4%E7%BA%BF/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%8E%86%E5%8F%B2%E5%9C%B0%E5%9B%BE%E6%97%B6%E9%97%B4%E7%BA%BF/</guid><description>&lt;p&gt;&lt;a href="https://www.runningreality.org/#01/01/1700&amp;amp;38.38448,-83.26869&amp;amp;zoom=5" target="_blank" rel="noopener"&gt;Running Reality - The World History Model&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/history_map_timeline_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/history_map_timeline_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>域名查询</title><link>https://cuisiting.github.io/posts/%E5%9F%9F%E5%90%8D%E6%9F%A5%E8%AF%A2/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%9F%9F%E5%90%8D%E6%9F%A5%E8%AF%A2/</guid><description>&lt;p&gt;&lt;a href="https://query.domains/" target="_blank" rel="noopener"&gt;Query.Domains: Free Bulk check domain availability based on whois lookup&lt;/a&gt;
+&lt;/p&gt;</description></item><item><title>域名查询</title><link>https://blog.markcoder.com/posts/%E5%9F%9F%E5%90%8D%E6%9F%A5%E8%AF%A2/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%9F%9F%E5%90%8D%E6%9F%A5%E8%AF%A2/</guid><description>&lt;p&gt;&lt;a href="https://query.domains/" target="_blank" rel="noopener"&gt;Query.Domains: Free Bulk check domain availability based on whois lookup&lt;/a&gt;
 &lt;/p&gt;
 &lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>如何分析一个网页使用了Recat.js 还是 Vue.js</title><link>https://cuisiting.github.io/posts/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</guid><description>&lt;h2 id="如何分析一个网页使用了reactjs还是vuejs"&gt;如何分析一个网页使用了React.js还是Vue.js&lt;/h2&gt;
+&lt;/p&gt;</description></item><item><title>如何分析一个网页使用了Recat.js 还是 Vue.js</title><link>https://blog.markcoder.com/posts/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5%E4%BD%BF%E7%94%A8%E4%BA%86recat.js-%E8%BF%98%E6%98%AF-vue.js/</guid><description>&lt;h2 id="如何分析一个网页使用了reactjs还是vuejs"&gt;如何分析一个网页使用了React.js还是Vue.js&lt;/h2&gt;
 &lt;h3 id="1-查看页面源码"&gt;1. 查看页面源码&lt;/h3&gt;
 &lt;p&gt;打开浏览器，右键点击页面并选择“查看页面源码”（View Page Source）或按 &lt;code&gt;Ctrl + U&lt;/code&gt;。在源码中查找以下关键字：&lt;/p&gt;
 &lt;ul&gt;
@@ -4764,18 +4594,16 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
 : 提供关于网页技术栈的详细信息。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;通过上述方法，你可以很容易地判断一个网页是使用了React.js还是Vue.js。&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>浏览器</title><link>https://cuisiting.github.io/posts/%E6%B5%8F%E8%A7%88%E5%99%A8/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid><description>&lt;h1 id="浏览器产品"&gt;浏览器产品&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>浏览器</title><link>https://blog.markcoder.com/posts/%E6%B5%8F%E8%A7%88%E5%99%A8/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid><description>&lt;h1 id="浏览器产品"&gt;浏览器产品&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5055,55 +4883,47 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h1 id="查看浏览器产品的内核是否更新及时避免-0day-1day-攻击"&gt;查看浏览器产品的内核是否更新及时,避免 0day 、1day 攻击&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/browser_core_arc_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/browser_core_arc_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>清爽的Intellj IDEA 设置</title><link>https://cuisiting.github.io/posts/%E6%B8%85%E7%88%BD%E7%9A%84intellj-idea-%E8%AE%BE%E7%BD%AE/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E6%B8%85%E7%88%BD%E7%9A%84intellj-idea-%E8%AE%BE%E7%BD%AE/</guid><description>&lt;p&gt;fi&lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/p&gt;</description></item><item><title>清爽的Intellj IDEA 设置</title><link>https://blog.markcoder.com/posts/%E6%B8%85%E7%88%BD%E7%9A%84intellj-idea-%E8%AE%BE%E7%BD%AE/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E6%B8%85%E7%88%BD%E7%9A%84intellj-idea-%E8%AE%BE%E7%BD%AE/</guid><description>&lt;p&gt;fi&lt;/p&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/Intellj_idea_theme_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/Intellj_idea_theme_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/Intellj_idea_theme_2.png"
+ &lt;img src="https://blog.markcoder.com/bi/Intellj_idea_theme_2.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>英语单词语言学中的重要概念</title><link>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E6%A6%82%E5%BF%B5/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E6%A6%82%E5%BF%B5/</guid><description>&lt;table&gt;
+&lt;/p&gt;</description></item><item><title>英语单词语言学中的重要概念</title><link>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E6%A6%82%E5%BF%B5/</link><pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E6%A6%82%E5%BF%B5/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;概念(英文)&lt;/th&gt;
@@ -5181,18 +5001,16 @@ def collectDependencies(Set&amp;lt;ResolvedDependency&amp;gt; dependencies, Set&
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/logo_demo_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/logo_demo_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>0模板</title><link>https://cuisiting.github.io/posts/hugogithub-page-domain-%E5%9F%9F%E5%90%8D%E9%85%8D%E7%BD%AE/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugogithub-page-domain-%E5%9F%9F%E5%90%8D%E9%85%8D%E7%BD%AE/</guid><description>&lt;p&gt;我的blog 工作流是，&lt;br&gt;
+&lt;/p&gt;</description></item><item><title>0模板</title><link>https://blog.markcoder.com/posts/hugogithub-page-domain-%E5%9F%9F%E5%90%8D%E9%85%8D%E7%BD%AE/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugogithub-page-domain-%E5%9F%9F%E5%90%8D%E9%85%8D%E7%BD%AE/</guid><description>&lt;p&gt;我的blog 工作流是，&lt;br&gt;
 BlogSource-Repository &amp;mdash;提交后github action 自动编译 , push 到 &amp;ndash;&amp;gt; BlogBuildOut-Repository&lt;br&gt;
 但是这个过程中CNAME 会被删除。为了保证域名稳定。&lt;br&gt;
 将 CNAME 存储在 BlogSource-Repository&lt;/p&gt;
@@ -5216,18 +5034,16 @@ BlogSource-Repository &amp;mdash;提交后github action 自动编译 , push 到 
  mediaType = &amp;#34;text/plain&amp;#34;
  permalinkable = false
  rel = &amp;#34;canonical&amp;#34;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/blog_hugo_domain_config_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/blog_hugo_domain_config_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>401K</title><link>https://cuisiting.github.io/posts/401k/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/401k/</guid><description>&lt;table&gt;
+&lt;/p&gt;</description></item><item><title>401K</title><link>https://blog.markcoder.com/posts/401k/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/401k/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;项目&lt;/th&gt;
@@ -5327,7 +5143,7 @@ BlogSource-Repository &amp;mdash;提交后github action 自动编译 , push 到 
 &lt;p&gt;你自己对 401k 的 contribution 有个&lt;br&gt;
 Limit: Pre-tax + Roth 401k &amp;lt;= $22500 (2023 tax year)&lt;br&gt;
 所有的 Contribution 总和有另一个&lt;br&gt;
-Limit: Pre-tax + Post-tax + Roth 401k + Employer Match &amp;lt;= $66000&lt;/p&gt;</description></item><item><title>A模板</title><link>https://cuisiting.github.io/posts/%E9%9F%B3%E6%A0%87/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E9%9F%B3%E6%A0%87/</guid><description>&lt;table&gt;
+Limit: Pre-tax + Post-tax + Roth 401k + Employer Match &amp;lt;= $66000&lt;/p&gt;</description></item><item><title>A模板</title><link>https://blog.markcoder.com/posts/%E9%9F%B3%E6%A0%87/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E9%9F%B3%E6%A0%87/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;辅音&lt;/th&gt;
@@ -5482,44 +5298,38 @@ Limit: Pre-tax + Post-tax + Roth 401k + Employer Match &amp;lt;= $66000&lt;/p&gt
  &lt;td&gt;边近音&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>CallTree</title><link>https://cuisiting.github.io/posts/calltree/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/calltree/</guid><description/></item><item><title>ECharts</title><link>https://cuisiting.github.io/posts/echarts/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/echarts/</guid><description>&lt;p&gt;&lt;a href="https://datamatic-public.github.io/echarts-2.1.10/doc/example-en.html" target="_blank" rel="noopener"&gt;ECharts · Example (datamatic-public.github.io)&lt;/a&gt;
+&lt;/table&gt;</description></item><item><title>CallTree</title><link>https://blog.markcoder.com/posts/calltree/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/calltree/</guid><description/></item><item><title>ECharts</title><link>https://blog.markcoder.com/posts/echarts/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/echarts/</guid><description>&lt;p&gt;&lt;a href="https://datamatic-public.github.io/echarts-2.1.10/doc/example-en.html" target="_blank" rel="noopener"&gt;ECharts · Example (datamatic-public.github.io)&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/echart_guide_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/echart_guide_1.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/echart_guide_2.png"
+ &lt;img src="https://blog.markcoder.com/bi/echart_guide_2.png"
  alt="" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>English Practice - Word</title><link>https://cuisiting.github.io/posts/english-practice---word/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/english-practice---word/</guid><description>&lt;ol&gt;
+&lt;/p&gt;</description></item><item><title>English Practice - Word</title><link>https://blog.markcoder.com/posts/english-practice---word/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/english-practice---word/</guid><description>&lt;ol&gt;
 &lt;li&gt;一个单词可以拆分为 : 前缀-词根-后缀&lt;br&gt;
 a word can be broken into &lt;code&gt;prefix-root-suffix &lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/english_practich_word_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/english_practich_word_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -5532,29 +5342,25 @@ a word can be broken into &lt;code&gt;prefix-root-suffix &lt;/code&gt;&lt;/li&gt
 &lt;h1 id="词典"&gt;词典&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://www.wordreference.com/enzh/learning" target="_blank" rel="noopener"&gt;learning - WordReference.com 英汉词典&lt;/a&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/english_res_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/english_res_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Github</title><link>https://cuisiting.github.io/posts/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/github/</guid><description>&lt;h1 id="github-most-popular-fork"&gt;Github most popular fork&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>Github</title><link>https://blog.markcoder.com/posts/github/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/github/</guid><description>&lt;h1 id="github-most-popular-fork"&gt;Github most popular fork&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://gitpop2.vercel.app/" target="_blank" rel="noopener"&gt;https://gitpop2.vercel.app/&lt;/a&gt;
 &lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/github_most_poplular_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/github_most_poplular_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -5562,30 +5368,26 @@ a word can be broken into &lt;code&gt;prefix-root-suffix &lt;/code&gt;&lt;/li&gt
 &lt;p&gt;&lt;a href="https://star-history.com/#bumptech/glide&amp;amp;facebook/fresco&amp;amp;nostra13/Android-Universal-Image-Loader&amp;amp;square/picasso&amp;amp;coil-kt/coil&amp;amp;Date" target="_blank" rel="noopener"&gt;https://star-history.com/#bumptech/glide&amp;facebook/fresco&amp;nostra13/Android-Universal-Image-Loader&amp;square/picasso&amp;coil-kt/coil&amp;Date&lt;/a&gt;
 &lt;/p&gt;
 &lt;p&gt;Example: Android Image loader library&lt;br&gt;
-
-
-
 &lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/github_start_history_compare_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/github_start_history_compare_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>go parse english html</title><link>https://cuisiting.github.io/posts/go-parse-english-html/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/go-parse-english-html/</guid><description>&lt;p&gt;go 解析 html的的速度 比 python(BeautySoup 快)&lt;br&gt;
+&lt;/p&gt;</description></item><item><title>go parse english html</title><link>https://blog.markcoder.com/posts/go-parse-english-html/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/go-parse-english-html/</guid><description>&lt;p&gt;go 解析 html的的速度 比 python(BeautySoup 快)&lt;br&gt;
 未尝试 python(lxml)&lt;/p&gt;
 &lt;h1 id="run-namego"&gt;run name.go&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;`go run hello.go
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Google or GPT 宕机会带来多少损失？</title><link>https://cuisiting.github.io/posts/google-or-gpt-%E5%AE%95%E6%9C%BA%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%A4%9A%E5%B0%91%E6%8D%9F%E5%A4%B1/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/google-or-gpt-%E5%AE%95%E6%9C%BA%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%A4%9A%E5%B0%91%E6%8D%9F%E5%A4%B1/</guid><description/></item><item><title>Hugo Theme Colletion</title><link>https://cuisiting.github.io/posts/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugotheme/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Google or GPT 宕机会带来多少损失？</title><link>https://blog.markcoder.com/posts/google-or-gpt-%E5%AE%95%E6%9C%BA%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%A4%9A%E5%B0%91%E6%8D%9F%E5%A4%B1/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/google-or-gpt-%E5%AE%95%E6%9C%BA%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%A4%9A%E5%B0%91%E6%8D%9F%E5%A4%B1/</guid><description/></item><item><title>Hugo Theme Colletion</title><link>https://blog.markcoder.com/posts/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugotheme/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hugo_theme_logo_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hugo_theme_logo_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -5600,9 +5402,9 @@ a word can be broken into &lt;code&gt;prefix-root-suffix &lt;/code&gt;&lt;/li&gt
 &lt;a href="https://hbs.razonyang.com/v1/en/categories/" target="_blank" rel="noopener"&gt;https://hbs.razonyang.com/v1/en/categories/&lt;/a&gt;
 &lt;br&gt;
 &lt;a href="https://themes.gohugo.io/themes/hugo-dead-simple/" target="_blank" rel="noopener"&gt;https://themes.gohugo.io/themes/hugo-dead-simple/&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>iTerm2</title><link>https://cuisiting.github.io/posts/iterm2/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/iterm2/</guid><description>&lt;h1 id="close-bell"&gt;close bell&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>iTerm2</title><link>https://blog.markcoder.com/posts/iterm2/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/iterm2/</guid><description>&lt;h1 id="close-bell"&gt;close bell&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;Preferences -&amp;gt; Profiles -&amp;gt; Terminal -&amp;gt; silence bell
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>MongoDB</title><link>https://cuisiting.github.io/posts/mongodb-usage/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/mongodb-usage/</guid><description>&lt;h1 id="install"&gt;Install&lt;/h1&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>MongoDB</title><link>https://blog.markcoder.com/posts/mongodb-usage/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/mongodb-usage/</guid><description>&lt;h1 id="install"&gt;Install&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://www.mongodb.com/docs/manual/administration/install-community/" target="_blank" rel="noopener"&gt;Install MongoDB Community Edition — MongoDB Manual&lt;/a&gt;
 &lt;/p&gt;
 &lt;h1 id="start"&gt;Start&lt;/h1&gt;
@@ -5613,28 +5415,26 @@ a word can be broken into &lt;code&gt;prefix-root-suffix &lt;/code&gt;&lt;/li&gt
 &lt;/p&gt;
 &lt;h1 id="ui-client"&gt;UI client&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://www.mongodb.com/try/download/compass" target="_blank" rel="noopener"&gt;MongoDB Compass Download (GUI) | MongoDB&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>Neo4j</title><link>https://cuisiting.github.io/posts/neo4j/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/neo4j/</guid><description>&lt;h1 id="neo4j-查看所有节点"&gt;neo4j 查看所有节点&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>Neo4j</title><link>https://blog.markcoder.com/posts/neo4j/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/neo4j/</guid><description>&lt;h1 id="neo4j-查看所有节点"&gt;neo4j 查看所有节点&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;MATCH (n) 
 RETURN n
 &lt;/code&gt;&lt;/pre&gt;&lt;h1 id="neo4j-查看所有节点和关系"&gt;neo4j 查看所有节点和关系&lt;/h1&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;MATCH (n)-[r]-&amp;gt;(m)
 RETURN n, r, m
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Obsidian dataview</title><link>https://cuisiting.github.io/posts/obsidian-plugin---dataview/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/obsidian-plugin---dataview/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Obsidian dataview</title><link>https://blog.markcoder.com/posts/obsidian-plugin---dataview/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/obsidian-plugin---dataview/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/obsidian_plugin_dataview_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/obsidian_plugin_dataview_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code class="language-dataview" data-lang="dataview"&gt;LIST
 FROM #English 
 SORT file.name ASC
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>OKX、欧科云链、欧易</title><link>https://cuisiting.github.io/posts/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E6%89%80/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E6%89%80/</guid><description>&lt;h1 id="加密货币交易所"&gt;加密货币交易所&lt;/h1&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>OKX、欧科云链、欧易</title><link>https://blog.markcoder.com/posts/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E6%89%80/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E6%89%80/</guid><description>&lt;h1 id="加密货币交易所"&gt;加密货币交易所&lt;/h1&gt;
 &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5708,7 +5508,7 @@ SORT file.name ASC
  &lt;td&gt;OK Group的中文名称，是一个涵盖多个业务领域的集团，包括区块链技术研发、虚拟货币交易所运营等。欧易/OKX就是其旗下的一个交易所品牌。&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>python Html parse</title><link>https://cuisiting.github.io/posts/html-parse-lxml.html/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/html-parse-lxml.html/</guid><description>&lt;p&gt;若从浏览器获得的xpath 为&lt;/p&gt;
+&lt;/table&gt;</description></item><item><title>python Html parse</title><link>https://blog.markcoder.com/posts/html-parse-lxml.html/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/html-parse-lxml.html/</guid><description>&lt;p&gt;若从浏览器获得的xpath 为&lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;//*[@id=&amp;#34;contenttable&amp;#34;]/tbody/tr/td/table/tbody/tr/td[2]/h3
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;则 lxml_tree.xpath 的 参数应为：&lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;浏览器 : //*[@id=&amp;#34;contenttable&amp;#34;]/tbody/tr/td/table/tbody/tr/td[2]/h3
@@ -5716,25 +5516,23 @@ lxml_tree.xpath : //*[@id=&amp;#34;contenttable&amp;#34;]///tr/td/table///tr/td[
 &lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;from lxml import html
 
 xpath_content = lxml_tree.xpath(&amp;#39;//*[@id=&amp;#34;contenttable&amp;#34;]//tr/td/table//tr/td[2]/h3&amp;#39;)
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>python unit test 单元测试</title><link>https://cuisiting.github.io/posts/python-unit-test-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/python-unit-test-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/</guid><description>&lt;p&gt;直接定义 函数 &lt;code&gt;test&lt;/code&gt;_fun_name&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>python unit test 单元测试</title><link>https://blog.markcoder.com/posts/python-unit-test-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/python-unit-test-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/</guid><description>&lt;p&gt;直接定义 函数 &lt;code&gt;test&lt;/code&gt;_fun_name&lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;def test_example(): 
  print(&amp;#34;info&amp;#34;)
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;命令行调用 test function&lt;/p&gt;
 &lt;pre tabindex="0"&gt;&lt;code&gt;pytest PythonFile.py::test_fun
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Vis.js</title><link>https://cuisiting.github.io/posts/vis.js/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/vis.js/</guid><description/></item><item><title>WebChart</title><link>https://cuisiting.github.io/posts/webchart/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/webchart/</guid><description>&lt;p&gt;&lt;a href="https://www.isqqw.com/" target="_blank" rel="noopener"&gt;isqqw&lt;/a&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Vis.js</title><link>https://blog.markcoder.com/posts/vis.js/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/vis.js/</guid><description/></item><item><title>WebChart</title><link>https://blog.markcoder.com/posts/webchart/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/webchart/</guid><description>&lt;p&gt;&lt;a href="https://www.isqqw.com/" target="_blank" rel="noopener"&gt;isqqw&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/WebChart_1.png"
- alt="img#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/WebChart_1.png"
+ alt="img" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>Youtube DL</title><link>https://cuisiting.github.io/posts/python-merge-concat-webm-and-mp3/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/python-merge-concat-webm-and-mp3/</guid><description>&lt;h1 id="download"&gt;Download&lt;/h1&gt;
+&lt;/p&gt;</description></item><item><title>Youtube DL</title><link>https://blog.markcoder.com/posts/python-merge-concat-webm-and-mp3/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/python-merge-concat-webm-and-mp3/</guid><description>&lt;h1 id="download"&gt;Download&lt;/h1&gt;
 &lt;p&gt;for webm(without audio)&lt;br&gt;
 &lt;a href="https://ssyoutube.com/en771qN/" target="_blank" rel="noopener"&gt;SSYouTube: Online Video Downloader - SSYouTube.com&lt;/a&gt;
 &lt;/p&gt;
@@ -5760,18 +5558,16 @@ pip uninstall ffmpeg-python
 
 pip install ffmpeg-python
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a href="https://github.com/kkroening/ffmpeg-python/issues/174" target="_blank" rel="noopener"&gt;AttributeError: module &amp;lsquo;ffmpeg&amp;rsquo; has no attribute &amp;lsquo;input&amp;rsquo; · Issue #174 · kkroening/ffmpeg-python (github.com)&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>云主机</title><link>https://cuisiting.github.io/posts/%E4%BA%91%E4%B8%BB%E6%9C%BA/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E4%BA%91%E4%B8%BB%E6%9C%BA/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/p&gt;</description></item><item><title>云主机</title><link>https://blog.markcoder.com/posts/%E4%BA%91%E4%B8%BB%E6%9C%BA/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E4%BA%91%E4%B8%BB%E6%9C%BA/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/drawio/FreeCloudResurce.drawio.svg"
- alt="d#width=50%&amp;amp;height=100" 
+ &lt;img src="https://blog.markcoder.com/drawio/FreeCloudResurce.drawio.svg"
+ alt="d" 
  loading="lazy"
  width="50%"
+ height="100"
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>向量数据库 vs 图数据库</title><link>https://cuisiting.github.io/posts/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-vs-%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-vs-%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/</guid><description>&lt;table&gt;
+&lt;/p&gt;</description></item><item><title>向量数据库 vs 图数据库</title><link>https://blog.markcoder.com/posts/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-vs-%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-vs-%E5%9B%BE%E6%95%B0%E6%8D%AE%E5%BA%93/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;维度&lt;/th&gt;
@@ -5851,37 +5647,31 @@ pip install ffmpeg-python
  &lt;td&gt;事务支持因实现而异，一些系统可能主要优化读性能而非写性能&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>基于 Neo4j 构建 Java 工程代码CallTree Graph</title><link>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8E-neo4j-%E6%9E%84%E5%BB%BA-java-%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81calltree-graph/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%9F%BA%E4%BA%8E-neo4j-%E6%9E%84%E5%BB%BA-java-%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81calltree-graph/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/table&gt;</description></item><item><title>基于 Neo4j 构建 Java 工程代码CallTree Graph</title><link>https://blog.markcoder.com/posts/%E5%9F%BA%E4%BA%8E-neo4j-%E6%9E%84%E5%BB%BA-java-%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81calltree-graph/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%9F%BA%E4%BA%8E-neo4j-%E6%9E%84%E5%BB%BA-java-%E5%B7%A5%E7%A8%8B%E4%BB%A3%E7%A0%81calltree-graph/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/drawio/Neo4jCallTree.drawio.svg"
- alt="d#width=50%&amp;amp;height=100" 
+ &lt;img src="https://blog.markcoder.com/drawio/Neo4jCallTree.drawio.svg"
+ alt="d" 
  loading="lazy"
  width="50%"
+ height="100"
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>大数据</title><link>https://cuisiting.github.io/posts/%E5%A4%A7%E6%95%B0%E6%8D%AE/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%A4%A7%E6%95%B0%E6%8D%AE/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/p&gt;</description></item><item><title>大数据</title><link>https://blog.markcoder.com/posts/%E5%A4%A7%E6%95%B0%E6%8D%AE/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%A4%A7%E6%95%B0%E6%8D%AE/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/drawio/big_data_1.svg"
- alt="d#width=50%&amp;amp;height=100" 
+ &lt;img src="https://blog.markcoder.com/drawio/big_data_1.svg"
+ alt="d" 
  loading="lazy"
  width="50%"
+ height="100"
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>学习语言学帮助学语言 Studying Linguistics helps to learn languages</title><link>https://cuisiting.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AF%AD%E8%A8%80%E5%AD%A6%E5%B8%AE%E5%8A%A9%E5%AD%A6%E8%AF%AD%E8%A8%80-studying-linguistics-helps-to-learn-languages/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AF%AD%E8%A8%80%E5%AD%A6%E5%B8%AE%E5%8A%A9%E5%AD%A6%E8%AF%AD%E8%A8%80-studying-linguistics-helps-to-learn-languages/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/p&gt;</description></item><item><title>学习语言学帮助学语言 Studying Linguistics helps to learn languages</title><link>https://blog.markcoder.com/posts/%E5%AD%A6%E4%B9%A0%E8%AF%AD%E8%A8%80%E5%AD%A6%E5%B8%AE%E5%8A%A9%E5%AD%A6%E8%AF%AD%E8%A8%80-studying-linguistics-helps-to-learn-languages/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%AD%A6%E4%B9%A0%E8%AF%AD%E8%A8%80%E5%AD%A6%E5%B8%AE%E5%8A%A9%E5%AD%A6%E8%AF%AD%E8%A8%80-studying-linguistics-helps-to-learn-languages/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/drawio/language_linguistics_1.svg"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/drawio/language_linguistics_1.svg"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -5955,21 +5745,19 @@ Studying Linguistics helps to Learn Languages&lt;/p&gt;
  &lt;td&gt;增强交际能力，提高语言应用的适当性&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>将draw.io 放在 markdown中</title><link>https://cuisiting.github.io/posts/%E5%B0%86draw.io-%E6%94%BE%E5%9C%A8-markdown%E4%B8%AD/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%B0%86draw.io-%E6%94%BE%E5%9C%A8-markdown%E4%B8%AD/</guid><description>&lt;p&gt;将流程图或draw.io 文件已svg存储，在markdown 中像引用图片一样引用svg&lt;/p&gt;
+&lt;/table&gt;</description></item><item><title>将draw.io 放在 markdown中</title><link>https://blog.markcoder.com/posts/%E5%B0%86draw.io-%E6%94%BE%E5%9C%A8-markdown%E4%B8%AD/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%B0%86draw.io-%E6%94%BE%E5%9C%A8-markdown%E4%B8%AD/</guid><description>&lt;p&gt;将流程图或draw.io 文件已svg存储，在markdown 中像引用图片一样引用svg&lt;/p&gt;
 &lt;p&gt;markdown，html 可以渲染svg&lt;br&gt;
 draw.io 可以编辑 svg 文件&lt;br&gt;
-draw.io 可以将save as svg&lt;/p&gt;</description></item><item><title>小红书</title><link>https://cuisiting.github.io/posts/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BE%85%E5%8A%A9%E6%8F%92%E4%BB%B6/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BE%85%E5%8A%A9%E6%8F%92%E4%BB%B6/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+draw.io 可以将save as svg&lt;/p&gt;</description></item><item><title>小红书</title><link>https://blog.markcoder.com/posts/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BE%85%E5%8A%A9%E6%8F%92%E4%BB%B6/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BE%85%E5%8A%A9%E6%8F%92%E4%BB%B6/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/xiaohongshu_plugin_1.png"
+ &lt;img src="https://blog.markcoder.com/bi/xiaohongshu_plugin_1.png"
  alt="xiaohongshu_plugin_1.png" 
  loading="lazy"
- width=""
+ 
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
-&lt;/p&gt;</description></item><item><title>美国 计算机 硕士</title><link>https://cuisiting.github.io/posts/master_cs/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/master_cs/</guid><description>&lt;p&gt;keyword: 美国 计算机 硕士, USA ,CS , Master&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>美国 计算机 硕士</title><link>https://blog.markcoder.com/posts/master_cs/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/master_cs/</guid><description>&lt;p&gt;keyword: 美国 计算机 硕士, USA ,CS , Master&lt;/p&gt;
 &lt;h2 id="大学"&gt;大学&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;MS - Master of Science&lt;/li&gt;
@@ -5983,27 +5771,23 @@ draw.io 可以将save as svg&lt;/p&gt;</description></item><item><title>小红�
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://gato-docs.its.txst.edu/jcr:40c81165-7965-4bc1-a017-ffbe47904f8a/Technology&amp;#43;Degrees&amp;#43;.pdf" target="_blank" rel="noopener"&gt;德克萨斯州立大学（Texas State University）&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cs_diff_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cs_diff_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cs_diff_2.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cs_diff_2.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -6052,7 +5836,7 @@ draw.io 可以将save as svg&lt;/p&gt;</description></item><item><title>小红�
  &lt;script type="module"&gt;
  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
  &lt;/script&gt;
- &lt;/div&gt;</description></item><item><title>英语动词</title><link>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E5%8A%A8%E8%AF%8D%E5%8F%98%E5%8C%96-----%E5%90%8E%E7%BC%80/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E5%8A%A8%E8%AF%8D%E5%8F%98%E5%8C%96-----%E5%90%8E%E7%BC%80/</guid><description>&lt;p&gt;一般动词 加上哪些后缀会形成新单词》&lt;/p&gt;
+ &lt;/div&gt;</description></item><item><title>英语动词</title><link>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E5%8A%A8%E8%AF%8D%E5%8F%98%E5%8C%96-----%E5%90%8E%E7%BC%80/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E5%8A%A8%E8%AF%8D%E5%8F%98%E5%8C%96-----%E5%90%8E%E7%BC%80/</guid><description>&lt;p&gt;一般动词 加上哪些后缀会形成新单词》&lt;/p&gt;
 &lt;p&gt;英语中，动词可以通过添加不同的后缀形成新的单词，特别是名词、形容词和副词。这里是一些常见的后缀及其用途：&lt;/p&gt;
 &lt;h3 id="名词后缀"&gt;名词后缀&lt;/h3&gt;
 &lt;ul&gt;
@@ -6171,7 +5955,7 @@ draw.io 可以将save as svg&lt;/p&gt;</description></item><item><title>小红�
  &lt;td&gt;表示以&amp;hellip;的方式&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>英语单词</title><link>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB/</guid><description>&lt;h1 id="编辑距离-莱文斯坦距离"&gt;编辑距离/ 莱文斯坦距离&lt;/h1&gt;
+&lt;/table&gt;</description></item><item><title>英语单词</title><link>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB/</guid><description>&lt;h1 id="编辑距离-莱文斯坦距离"&gt;编辑距离/ 莱文斯坦距离&lt;/h1&gt;
 &lt;h1 id="词嵌入word-embeddings"&gt;词嵌入（word embeddings）&lt;/h1&gt;
 &lt;p&gt;词嵌入（Word Embeddings）是自然语言处理（NLP）中一种将词汇映射到高维空间向量的技术。在这个高维空间中，每个单词或短语由其上下文的唯一向量表示。这些向量捕捉了单词之间的语义和语法关系，使得语义上或语法上相似的单词具有相似的向量表示。&lt;/p&gt;
 &lt;h3 id="关键特点"&gt;关键特点&lt;/h3&gt;
@@ -6204,7 +5988,7 @@ draw.io 可以将save as svg&lt;/p&gt;</description></item><item><title>小红�
 &lt;h3 id="应用"&gt;应用&lt;/h3&gt;
 &lt;p&gt;词嵌入被广泛应用于各种 NLP 任务，如文本分类、情感分析、机器翻译、问答系统等。它们提供了一种有效的方式来处理自然语言并提取有用的信息和模式。&lt;/p&gt;
 &lt;h3 id="总结"&gt;总结&lt;/h3&gt;
-&lt;p&gt;词嵌入是理解和处理自然语言的强大工具，通过将词汇映射为向量，它们为机器提供了理解词汇之间复杂关系的能力。随着 NLP 技术的不断发展，词嵌入模型也在不断进化，提供更丰富的语义表示和更高效的处理能力。&lt;/p&gt;</description></item><item><title>英语学习-体检</title><link>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0-%E4%BD%93%E6%A3%80/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0-%E4%BD%93%E6%A3%80/</guid><description>&lt;p&gt;最近要体检, 看到体检的英文不是 &lt;code&gt;body check &lt;/code&gt; 也不是&lt;code&gt;body check&lt;/code&gt; , 而是&lt;code&gt;physical examination&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;词嵌入是理解和处理自然语言的强大工具，通过将词汇映射为向量，它们为机器提供了理解词汇之间复杂关系的能力。随着 NLP 技术的不断发展，词嵌入模型也在不断进化，提供更丰富的语义表示和更高效的处理能力。&lt;/p&gt;</description></item><item><title>英语学习-体检</title><link>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0-%E4%BD%93%E6%A3%80/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0-%E4%BD%93%E6%A3%80/</guid><description>&lt;p&gt;最近要体检, 看到体检的英文不是 &lt;code&gt;body check &lt;/code&gt; 也不是&lt;code&gt;body check&lt;/code&gt; , 而是&lt;code&gt;physical examination&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Why？让我们研究下!&lt;/p&gt;
 &lt;p&gt;对比其他类似的场景，驾照考试是&lt;code&gt;drive test&lt;/code&gt; , 血液检查是&lt;code&gt;bloid test&lt;/code&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -6356,7 +6140,7 @@ draw.io 可以将save as svg&lt;/p&gt;</description></item><item><title>小红�
  &lt;td&gt;A test where external users test early software versions to identify bugs and suggest improvements&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>非&amp;关系型数据库</title><link>https://cuisiting.github.io/posts/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/</guid><description>&lt;table&gt;
+&lt;/table&gt;</description></item><item><title>非&amp;关系型数据库</title><link>https://blog.markcoder.com/posts/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;特性&lt;/th&gt;

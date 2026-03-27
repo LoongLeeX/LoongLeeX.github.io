@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theme on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/theme/</link><description>Recent content in Theme on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://cuisiting.github.io/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>&lt;h1 id="hugo-theme-learn-不支持-shortcode"&gt;hugo-theme-learn 不支持 shortcode&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theme on Mark's Blog</title><link>https://blog.markcoder.com/tags/theme/</link><description>Recent content in Theme on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.markcoder.com/tags/theme/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://blog.markcoder.com/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>&lt;h1 id="hugo-theme-learn-不支持-shortcode"&gt;hugo-theme-learn 不支持 shortcode&lt;/h1&gt;
 &lt;p&gt;按照 Hugo 官方关于自定义 shortcode 文档 &lt;a href="https://gohugo.io/templates/shortcode-templates/" target="_blank" rel="noopener"&gt;https://gohugo.io/templates/shortcode-templates/&lt;/a&gt;
 &lt;br&gt;
 设置如下 :&lt;/p&gt;
@@ -15,15 +15,13 @@
  
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;结果：不能将 &lt;rawhtml&gt; 中的内容原样作为标签显示&lt;/p&gt;</description></item><item><title>Hugo Theme Colletion</title><link>https://cuisiting.github.io/posts/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugotheme/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;结果：不能将 &lt;rawhtml&gt; 中的内容原样作为标签显示&lt;/p&gt;</description></item><item><title>Hugo Theme Colletion</title><link>https://blog.markcoder.com/posts/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugotheme/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hugo_theme_logo_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hugo_theme_logo_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;

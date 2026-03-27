@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on Hugo Theme Tailwind Example Site</title><link>https://cuisiting.github.io/tags/hugo/</link><description>Recent content in Hugo on Hugo Theme Tailwind Example Site</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cuisiting.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://cuisiting.github.io/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>&lt;h1 id="hugo-theme-learn-不支持-shortcode"&gt;hugo-theme-learn 不支持 shortcode&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on Mark's Blog</title><link>https://blog.markcoder.com/tags/hugo/</link><description>Recent content in Hugo on Mark's Blog</description><generator>Hugo</generator><language>en</language><copyright>Cuisiting</copyright><lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.markcoder.com/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo-theme-learn 不支持 shortcode</title><link>https://blog.markcoder.com/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugo-theme-learn%E4%B8%8D%E6%94%AF%E6%8C%81shortcode/</guid><description>&lt;h1 id="hugo-theme-learn-不支持-shortcode"&gt;hugo-theme-learn 不支持 shortcode&lt;/h1&gt;
 &lt;p&gt;按照 Hugo 官方关于自定义 shortcode 文档 &lt;a href="https://gohugo.io/templates/shortcode-templates/" target="_blank" rel="noopener"&gt;https://gohugo.io/templates/shortcode-templates/&lt;/a&gt;
 &lt;br&gt;
 设置如下 :&lt;/p&gt;
@@ -15,7 +15,7 @@
  
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;结果：不能将 &lt;rawhtml&gt; 中的内容原样作为标签显示&lt;/p&gt;</description></item><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://cuisiting.github.io/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求"&gt;环境要求&lt;/h2&gt;
+&lt;p&gt;结果：不能将 &lt;rawhtml&gt; 中的内容原样作为标签显示&lt;/p&gt;</description></item><item><title>不花钱 ！搭建Blog！Hugo&amp;GithubAction</title><link>https://blog.markcoder.com/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/%E4%B8%8D%E8%8A%B1%E9%92%B1-%E6%90%AD%E5%BB%BAbloghugogithubaction/</guid><description>&lt;h2 id="环境要求"&gt;环境要求&lt;/h2&gt;
 &lt;p&gt;git&lt;/p&gt;
 &lt;h2 id="开始盖别墅"&gt;开始盖别墅&lt;/h2&gt;
 &lt;ol&gt;
@@ -33,15 +33,13 @@
  
  # 部署到本地查看一下
  hugo server
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/image.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/image.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -53,15 +51,13 @@
  └── 个人随想
  ├── _index.md
  └── my_first.md
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/image-3.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/image-3.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;br&gt;
@@ -69,7 +65,7 @@
 4. 但是我们最终是需要将Blog 发布到 自由 、广大的互联网上。&lt;br&gt;
 5. 现在我们用一种成本最小，但体验极佳的方式 将我们的Blog发布&lt;br&gt;
 6. 创建2个仓库 &lt;a href="https://github.com/new" target="_blank" rel="noopener"&gt;https://github.com/new&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>Hugo定制Issue</title><link>https://cuisiting.github.io/posts/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</guid><description>&lt;table&gt;
+&lt;/p&gt;</description></item><item><title>Hugo定制Issue</title><link>https://blog.markcoder.com/posts/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</link><pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugo%E5%AE%9A%E5%88%B6%E4%B8%AD%E7%9A%84issue/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
  &lt;th&gt;issue&lt;/th&gt;
@@ -78,27 +74,23 @@
  &lt;/thead&gt;
  &lt;tbody&gt;
  &lt;tr&gt;
- &lt;td&gt;
-
-
-&lt;div class="not-prose"&gt;
+ &lt;td&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hugo_issue_q_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hugo_issue_q_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/td&gt;
- &lt;td&gt;
-
-
-&lt;div class="not-prose"&gt;
+ &lt;td&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hugo_issue_a_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hugo_issue_a_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/td&gt;
@@ -108,7 +100,7 @@
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Hugo 按文章中的时间排序</title><link>https://cuisiting.github.io/posts/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid><description>&lt;pre tabindex="0"&gt;&lt;code&gt;
+&lt;/table&gt;</description></item><item><title>Hugo 按文章中的时间排序</title><link>https://blog.markcoder.com/posts/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</link><pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugo-%E6%8C%89%E6%96%87%E7%AB%A0%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F/</guid><description>&lt;pre tabindex="0"&gt;&lt;code&gt;
 +{{ $sortedPages := sort $pages &amp;#34;Params.date&amp;#34; &amp;#34;desc&amp;#34; }}
 +
 +
@@ -120,15 +112,13 @@
  &amp;lt;article class=&amp;#34;flex flex-col gap-y-3 p-6 mt-6 mx-2 md:mx-0 rounded-lg shadow-md bg-white dark:bg-gray-700&amp;#34;&amp;gt;
  &amp;lt;div data-hveid=&amp;#34;CBEQAA&amp;#34;&amp;gt;
  &amp;lt;div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Hugo Theme Colletion</title><link>https://cuisiting.github.io/posts/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/hugotheme/</guid><description>&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>Hugo Theme Colletion</title><link>https://blog.markcoder.com/posts/hugotheme/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/hugotheme/</guid><description>&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/hugo_theme_logo_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/hugo_theme_logo_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
@@ -143,7 +133,7 @@
 &lt;a href="https://hbs.razonyang.com/v1/en/categories/" target="_blank" rel="noopener"&gt;https://hbs.razonyang.com/v1/en/categories/&lt;/a&gt;
 &lt;br&gt;
 &lt;a href="https://themes.gohugo.io/themes/hugo-dead-simple/" target="_blank" rel="noopener"&gt;https://themes.gohugo.io/themes/hugo-dead-simple/&lt;/a&gt;
-&lt;/p&gt;</description></item><item><title>美国 计算机 硕士</title><link>https://cuisiting.github.io/posts/master_cs/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://cuisiting.github.io/posts/master_cs/</guid><description>&lt;p&gt;keyword: 美国 计算机 硕士, USA ,CS , Master&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>美国 计算机 硕士</title><link>https://blog.markcoder.com/posts/master_cs/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.markcoder.com/posts/master_cs/</guid><description>&lt;p&gt;keyword: 美国 计算机 硕士, USA ,CS , Master&lt;/p&gt;
 &lt;h2 id="大学"&gt;大学&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;MS - Master of Science&lt;/li&gt;
@@ -157,27 +147,23 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://gato-docs.its.txst.edu/jcr:40c81165-7965-4bc1-a017-ffbe47904f8a/Technology&amp;#43;Degrees&amp;#43;.pdf" target="_blank" rel="noopener"&gt;德克萨斯州立大学（Texas State University）&lt;/a&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cs_diff_1.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cs_diff_1.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;
-
-
-&lt;div class="not-prose"&gt;
+&lt;p&gt;&lt;div class="not-prose"&gt;
 &lt;figure&gt;
- &lt;img src="https://cuisiting.github.io/bi/cs_diff_2.png"
- alt="image#width=50%" 
+ &lt;img src="https://blog.markcoder.com/bi/cs_diff_2.png"
+ alt="image" 
  loading="lazy"
  width="50%"
+ 
  &gt;
  &lt;/figure&gt;&lt;/div&gt;
 &lt;/p&gt;
